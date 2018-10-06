@@ -9,7 +9,7 @@
 
 ## ✏️ Blog
 - GODORI : https://velog.io/@godori
-- RAJEPHON : https://rajephon.github.io/blog/
+- [RAJEPHON](https://post-a-week.github.io/blog/RAJEPHON) : https://rajephon.github.io/blog/
 - [DOONDOONY](https://post-a-week.github.io/blog/DOONDOONY) : https://velog.io/@doondoony
 
 ## 📘 Check
@@ -18,7 +18,7 @@
 
 #### 10월 1주 (선 참여)
 - [ ] GODORI
-- [ ] RAJEPHON
+- [x] RAJEPHON
 - [x] DOONDOONY
 
 ## 💰벌금 현황
