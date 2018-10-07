@@ -8,7 +8,7 @@
 - 벌금은 1회당 5천원이며, 시작 주에 참여한 멤버는 1회 면제권이 주어집니다.
 
 ## ✏️ Blog
-- GODORI : https://velog.io/@godori
+- [GODORI](https://post-a-week.github.io/blog/GODORI) : https://velog.io/@godori
 - [RAJEPHON](https://post-a-week.github.io/blog/RAJEPHON) : https://rajephon.github.io/blog/
 - [DOONDOONY](https://post-a-week.github.io/blog/DOONDOONY) : https://velog.io/@doondoony
 
@@ -17,7 +17,7 @@
 #### 10월 2주
 
 #### 10월 1주 (선 참여)
-- [ ] GODORI
+- [x] GODORI
 - [x] RAJEPHON
 - [x] DOONDOONY
 
