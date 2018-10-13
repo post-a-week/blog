@@ -11,6 +11,7 @@
 - [GODORI](https://post-a-week.github.io/blog/GODORI) : https://velog.io/@godori
 - [RAJEPHON](https://post-a-week.github.io/blog/RAJEPHON) : https://rajephon.github.io/blog/
 - [DOONDOONY](https://post-a-week.github.io/blog/DOONDOONY) : https://velog.io/@doondoony
+- [YESDOING](https://post-a-week.github.io/blog/YESDOING) : https://velog.io/@yesdoing
 
 ## 📘 Check
 
