@@ -19,6 +19,7 @@
 - [x] YESDOING
 - [x] RAJEPHON
 - [x] DOONDOONY
+- [x] GODORI
 
 #### 10월 1주 (선 참여)
 - [x] GODORI
