@@ -12,6 +12,7 @@
 - [RAJEPHON](https://post-a-week.github.io/blog/RAJEPHON) : https://rajephon.github.io/blog/
 - [DOONDOONY](https://post-a-week.github.io/blog/DOONDOONY) : https://velog.io/@doondoony
 - [YESDOING](https://post-a-week.github.io/blog/YESDOING) : https://velog.io/@yesdoing
+- [DALI](https://github.com/amorfati0310/blog) :https://medium.com/@lyhy0310
 
 ## 📘 Check
 
@@ -20,6 +21,7 @@
 - [x] RAJEPHON
 - [x] DOONDOONY
 - [x] GODORI
+- [x] DALI
 
 #### 10월 1주 (선 참여)
 - [x] GODORI
