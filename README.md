@@ -18,6 +18,7 @@
 #### 10월 2주
 - [x] YESDOING
 - [x] RAJEPHON
+- [x] DOONDOONY
 
 #### 10월 1주 (선 참여)
 - [x] GODORI
