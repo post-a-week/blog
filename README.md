@@ -16,6 +16,9 @@
 
 ## 📘 Check
 
+#### 10월 3주
+- [x] RAJEPHON
+
 #### 10월 2주
 - [x] YESDOING
 - [x] RAJEPHON

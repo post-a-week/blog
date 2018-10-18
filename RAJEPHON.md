@@ -1,5 +1,8 @@
 # [RAJEPHON](https://rajephon.github.io/blog)
 
+## 10월 3주
+- [Amazon Linux AMI에서 midi를 mp3, ogg로 변환하기](https://rajephon.github.io/blog/2018/10/19/convert-midi-to-mp3-ogg-on-aws-linux/)
+
 ## 10월 2주
 - [프로그래머스 문제풀이 고득점 Kit 해시 - 베스트앨범](https://rajephon.github.io/blog/2018/10/14/programmers-solution-hash-best-album/)
 - [프로그래머스 문제풀이 level3 - 야근 지수](https://rajephon.github.io/blog/2018/10/14/programmers-solution-level3-no-overtime/)
