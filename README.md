@@ -19,7 +19,8 @@
 #### 10월 3주
 - [x] RAJEPHON
 - [x] GODORI
-- [x] YESDOING 
+- [x] YESDOING
+- [x] DOONDOONY
 
 #### 10월 2주
 - [x] YESDOING
