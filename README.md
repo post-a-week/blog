@@ -18,6 +18,7 @@
 
 #### 10월 3주
 - [x] RAJEPHON
+- [x] GODORI
 
 #### 10월 2주
 - [x] YESDOING
