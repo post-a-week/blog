@@ -21,6 +21,7 @@
 - [x] GODORI
 - [x] YESDOING
 - [x] DOONDOONY
+- [x] DALI
 
 #### 10월 2주
 - [x] YESDOING
