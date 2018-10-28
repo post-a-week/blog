@@ -21,6 +21,7 @@
 - [x] GODORI
 - [x] YESDOING
 - [x] DALI
+- [x] DOONDOONY
 
 #### 10월 3주
 - [x] RAJEPHON
