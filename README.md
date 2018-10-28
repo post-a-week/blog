@@ -17,6 +17,7 @@
 ## 📘 Check
 
 #### 10월 4주
+- [x] RAJEPHON
 - [x] GODORI
 - [x] YESDOING
 
