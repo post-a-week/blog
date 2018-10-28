@@ -1,5 +1,8 @@
 # [GODORI](https://velog.io/@godori)
 
+## 10월 4주
+[Today I Learned #1](https://velog.io/@godori/2018-10-28-1910-%EC%9E%91%EC%84%B1%EB%90%A8-4vjnspso2e)
+
 ## 10월 3주
 [JavaScript 프로그램 성능 향상](https://velog.io/@godori/JavaScript-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EC%84%B1%EB%8A%A5-%ED%96%A5%EC%83%81)
 
