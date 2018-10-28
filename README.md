@@ -20,6 +20,7 @@
 - [x] RAJEPHON
 - [x] GODORI
 - [x] YESDOING
+- [x] DALI
 
 #### 10월 3주
 - [x] RAJEPHON
