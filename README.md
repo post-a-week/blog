@@ -16,6 +16,13 @@
 
 ## 📘 Check
 
+#### 10월 4주
+- [x] RAJEPHON
+- [x] GODORI
+- [x] YESDOING
+- [x] DALI
+- [x] DOONDOONY
+
 #### 10월 3주
 - [x] RAJEPHON
 - [x] GODORI
