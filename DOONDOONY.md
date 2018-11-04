@@ -1,5 +1,8 @@
 # Posts
 
+## 10월 5주
+[💻 OH-MY-MACBOOK - 1](https://velog.io/@doondoony/-OH-MY-MACBOOK)
+
 ## 10월 4주
 [📦 JavaScript Object](https://velog.io/@doondoony/JavaScript-Object)
 
