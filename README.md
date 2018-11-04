@@ -22,7 +22,7 @@
 #### 10 월 5 주 && 11 월 1 주
 
 - [ ] RAJEPHON
-- [ ] GODORI
+- [ ] GODORI : 1회 
 - [x] YESDOING
 - [x] DALI
 - [x] DOONDOONY
