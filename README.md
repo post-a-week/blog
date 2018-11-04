@@ -25,7 +25,7 @@
 - [ ] GODORI
 - [x] YESDOING
 - [x] DALI
-- [ ] DOONDOONY
+- [x] DOONDOONY
 
 #### 10 월 4 주
 
