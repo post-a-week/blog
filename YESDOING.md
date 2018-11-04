@@ -1,5 +1,8 @@
 # [YESDOING](https://velog.io/@yesdoing)
 
+## 10월 5주
+[Iterator & Generator](https://velog.io/@yesdoing/Iterator-Generator)
+
 ## 10월 4주
 [꼬리 물기 최적화(Tail Call Optimization)란?](https://velog.io/@yesdoing/%EA%BC%AC%EB%A6%AC-%EB%AC%BC%EA%B8%B0-%EC%B5%9C%EC%A0%81%ED%99%94Tail-Call-Optimization%EB%9E%80-2yjnslo7sr)
 

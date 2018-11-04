@@ -23,7 +23,7 @@
 
 - [ ] RAJEPHON
 - [ ] GODORI
-- [ ] YESDOING
+- [x] YESDOING
 - [x] DALI
 - [ ] DOONDOONY
 
