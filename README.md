@@ -16,6 +16,7 @@
 - [DOONDOONY](https://post-a-week.github.io/blog/DOONDOONY) : https://velog.io/@doondoony
 - [YESDOING](https://post-a-week.github.io/blog/YESDOING) : https://velog.io/@yesdoing
 - [DALI](https://github.com/amorfati0310/blog) :https://medium.com/@lyhy0310
+- [DEVJANG](https://post-a-week.github.io/blog/devjang) :https://devjang.github.io
 
 ## 📘 Check
 
@@ -26,6 +27,7 @@
 - [x] YESDOING
 - [x] DALI
 - [x] DOONDOONY
+- [ ] DEVJANG
 
 #### 10 월 4 주
 
