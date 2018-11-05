@@ -22,7 +22,7 @@
 
 #### 11 월 2 주
 - [ ] RAJEPHON
-- [ ] GODORI : 1회 면제 사용
+- [ ] GODORI 
 - [ ] YESDOING
 - [ ] DALI
 - [ ] DOONDOONY
@@ -30,8 +30,8 @@
 
 #### 10 월 5 주 && 11 월 1 주
 
-- [ ] RAJEPHON
-- [ ] GODORI : 1회 면제 사용
+- [ ] RAJEPHON - 1회 면제 사용
+- [ ] GODORI - 1회 면제 사용
 - [x] YESDOING
 - [x] DALI
 - [x] DOONDOONY
