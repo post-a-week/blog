@@ -20,6 +20,14 @@
 
 ## 📘 Check
 
+#### 11 월 2 주
+- [ ] RAJEPHON
+- [ ] GODORI : 1회 면제 사용
+- [ ] YESDOING
+- [ ] DALI
+- [ ] DOONDOONY
+- [ ] DEVJANG
+
 #### 10 월 5 주 && 11 월 1 주
 
 - [ ] RAJEPHON
@@ -27,7 +35,6 @@
 - [x] YESDOING
 - [x] DALI
 - [x] DOONDOONY
-- [ ] DEVJANG
 
 #### 10 월 4 주
 
