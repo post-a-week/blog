@@ -17,6 +17,7 @@
 - [YESDOING](https://post-a-week.github.io/blog/YESDOING) : https://velog.io/@yesdoing
 - [DALI](https://github.com/amorfati0310/blog) :https://medium.com/@lyhy0310
 - [DEVJANG](https://post-a-week.github.io/blog/devjang) :https://devjang.github.io
+- [TUHBM](https://tuhbm.github.io/) : https://tuhbm.github.io/
 
 ## 📘 Check
 
@@ -27,6 +28,7 @@
 - [ ] DALI
 - [ ] DOONDOONY
 - [ ] DEVJANG
+- [x] TUHBM
 
 #### 10 월 5 주 && 11 월 1 주
 
