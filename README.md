@@ -24,7 +24,7 @@
 ## 📘 Check
 
 #### 11 월 2 주
-- [ ] RAJEPHON
+- [X] RAJEPHON
 - [ ] GODORI 
 - [ ] YESDOING
 - [ ] DALI
