@@ -20,6 +20,7 @@
 - [DALI](https://post-a-week.github.io/blog/DALI) :https://medium.com/@lyhy0310
 - [DEVJANG](https://post-a-week.github.io/blog/DEVJANG) :https://devjang.github.io
 - [TUHBM](https://post-a-week.github.io/blog/TUHBM) : https://tuhbm.github.io/
+- [KAYLA](https://post-a-week.github.io/blog/KAYLA) : https://kaylais.github.io  
 
 ## 📘 Check
 
@@ -31,6 +32,7 @@
 - [ ] DOONDOONY
 - [ ] DEVJANG
 - [x] TUHBM
+- [x] KAYLA
 
 #### 11 월 1 주
 
