@@ -28,7 +28,7 @@
 #### 11 월 2 주
 - [X] RAJEPHON ([OpenWrt 패키지 빌드 환경 세팅하기](https://rajephon.github.io/blog/2018/11/09/build-openwrt-00/))
 - [ ] GODORI 
-- [ ] YESDOING
+- [x] YESDOING ([JavaScript Testing Tool - Jest](https://velog.io/@yesdoing/JavaScript-Testing-Tool-Jest-opjocpva77))
 - [ ] DALI
 - [ ] DOONDOONY
 - [ ] DEVJANG
