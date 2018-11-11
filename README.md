@@ -22,12 +22,13 @@
 - [TUHBM](https://post-a-week.github.io/blog/TUHBM) : https://tuhbm.github.io/
 - [KAYLA](https://post-a-week.github.io/blog/KAYLA) : https://kaylais.github.io
 - [CHRISYANG](https://post-a-week.github.io/blog/CHRISYANG) : https://medium.com/@ysm0622, https://velog.io/@chris
+- [JEEWHANR](https://github.com/post-a-week/blog/blob/master/JEEWHANR.md) : https://eclatant.io/
 
 ## 📘 History
 
 #### 11 월 2 주
 - [X] RAJEPHON ([OpenWrt 패키지 빌드 환경 세팅하기](https://rajephon.github.io/blog/2018/11/09/build-openwrt-00/))
-- [ ] GODORI 
+- [ ] GODORI
 - [x] YESDOING ([JavaScript Testing Tool - Jest](https://velog.io/@yesdoing/JavaScript-Testing-Tool-Jest-opjocpva77))
 - [ ] DALI
 - [ ] DOONDOONY
@@ -35,6 +36,7 @@
 - [x] TUHBM ([번역 - 비동기 자바스크립트의 간단한 참고서 1편](https://tuhbm.github.io/2018/11/05/async01/))
 - [x] KAYLA ([ELK Setup(1) - Elasticsearch 설치](https://kaylais.github.io/blog/elk/2018/11/09/elasticsearch-setup/))
 - [x] CHRISYANG ([💻 유용한 생산성 툴 몇가지 소개](https://medium.com/@ysm0622/%EC%9C%A0%EC%9A%A9%ED%95%9C-%EC%83%9D%EC%82%B0%EC%84%B1-%ED%88%B4-%EB%AA%87%EA%B0%80%EC%A7%80-%EC%86%8C%EA%B0%9C-a5cda7f18c8b))
+- [x] JEEWHANR (이번 주에 검색했던 것들 #0 : 18-11-01)
 
 #### 11 월 1 주
 
