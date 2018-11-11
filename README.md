@@ -31,7 +31,7 @@
 - [ ] GODORI
 - [x] YESDOING ([JavaScript Testing Tool - Jest](https://velog.io/@yesdoing/JavaScript-Testing-Tool-Jest-opjocpva77))
 - [ ] DALI
-- [ ] DOONDOONY
+- [ ] DOONDOONY - 1회 면제 사용
 - [ ] DEVJANG
 - [x] TUHBM ([번역 - 비동기 자바스크립트의 간단한 참고서 1편](https://tuhbm.github.io/2018/11/05/async01/))
 - [x] KAYLA ([ELK Setup(1) - Elasticsearch 설치](https://kaylais.github.io/blog/elk/2018/11/09/elasticsearch-setup/))
