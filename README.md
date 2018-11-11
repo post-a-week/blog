@@ -36,7 +36,7 @@
 - [x] TUHBM ([번역 - 비동기 자바스크립트의 간단한 참고서 1편](https://tuhbm.github.io/2018/11/05/async01/))
 - [x] KAYLA ([ELK Setup(1) - Elasticsearch 설치](https://kaylais.github.io/blog/elk/2018/11/09/elasticsearch-setup/))
 - [x] CHRISYANG ([💻 유용한 생산성 툴 몇가지 소개](https://medium.com/@ysm0622/%EC%9C%A0%EC%9A%A9%ED%95%9C-%EC%83%9D%EC%82%B0%EC%84%B1-%ED%88%B4-%EB%AA%87%EA%B0%80%EC%A7%80-%EC%86%8C%EA%B0%9C-a5cda7f18c8b))
-- [x] JEEWHANR (이번 주에 검색했던 것들 #0 : 18-11-01)
+- [x] JEEWHANR ([이번 주에 검색했던 것들 #0 : 18-11-01](https://eclatant.io/2018/11/11/2018-11-11-SearchHistory/))
 
 #### 11 월 1 주
 
