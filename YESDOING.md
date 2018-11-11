@@ -1,6 +1,9 @@
 # [YESDOING](https://velog.io/@yesdoing)
 
-## 10월 5주
+## 11월 2주
+[JavaScript Testing Tool - Jest](https://velog.io/@yesdoing/JavaScript-Testing-Tool-Jest-opjocpva77)
+
+## 10월 5주 & 11월 1주
 [Iterator & Generator](https://velog.io/@yesdoing/Iterator-Generator)
 
 ## 10월 4주
