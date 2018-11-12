@@ -28,9 +28,9 @@
 
 #### 11 월 2 주
 - [X] RAJEPHON ([OpenWrt 패키지 빌드 환경 세팅하기](https://rajephon.github.io/blog/2018/11/09/build-openwrt-00/))
-- [ ] GODORI
+- [ ] GODORI - 벌금
 - [x] YESDOING ([JavaScript Testing Tool - Jest](https://velog.io/@yesdoing/JavaScript-Testing-Tool-Jest-opjocpva77))
-- [ ] DALI
+- [ ] DALI - 벌금
 - [ ] DOONDOONY - 1회 면제 사용
 - [X] DEVJANG ([신입 프론트엔드 개발자를 위한 구직을 위한 소소한 팁](https://devjang.github.io/2018/11/11/2018-11-11-new-fed-begginer-tip))
 - [x] TUHBM ([번역 - 비동기 자바스크립트의 간단한 참고서 1편](https://tuhbm.github.io/2018/11/05/async01/))
@@ -77,3 +77,5 @@
 - [x] DOONDOONY ([[Serverless Framework] serverless.yml 설정 정보 숨기기](https://velog.io/@doondoony/Serverless-Framework-serverless.yml-%EC%84%A4%EC%A0%95-%EC%A0%95%EB%B3%B4-%EC%88%A8%EA%B8%B0%EA%B8%B0-2hjmsx7nal))
 
 ## 💰 벌금 현황
+- GODORI 1회
+- DALI 1회
