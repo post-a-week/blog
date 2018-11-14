@@ -26,6 +26,19 @@
 
 ## 📘 History
 
+#### 11 월 3 주
+- [ ] RAJEPHON
+- [ ] GODORI
+- [ ] YESDOING
+- [ ] DALI
+- [ ] DOONDOONY
+- [ ] DEVJANG
+- [X] TUHBM ([번역 - 비동기 자바스크립트의 간단한 참고서 2편](https://tuhbm.github.io/2018/11/14/async02/))
+- [ ] KAYLA
+- [ ] CHRISYANG
+- [ ] JEEWHANR
+
+
 #### 11 월 2 주
 - [X] RAJEPHON ([OpenWrt 패키지 빌드 환경 세팅하기](https://rajephon.github.io/blog/2018/11/09/build-openwrt-00/))
 - [ ] GODORI - 벌금
