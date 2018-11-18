@@ -1,5 +1,8 @@
 # [YESDOING](https://velog.io/@yesdoing)
 
+## 11월 3주
+[My Weekly Keywords #1](https://velog.io/@yesdoing/My-Weekly-Keywords-1)
+
 ## 11월 2주
 [JavaScript Testing Tool - Jest](https://velog.io/@yesdoing/JavaScript-Testing-Tool-Jest-opjocpva77)
 
