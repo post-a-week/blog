@@ -1,6 +1,6 @@
 # [GODORI](https://velog.io/@godori)
 
-## 11월 2주
+## 11월 3주
 [Notion 1년간의 사용기](https://velog.io/@godori/Notion-1%EB%85%84%EA%B0%84%EC%9D%98-%EC%82%AC%EC%9A%A9%EA%B8%B0-x7jon062yu)
 
 ## 10월 4주
