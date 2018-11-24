@@ -32,7 +32,7 @@
 - [X] DALI  ([This_JS개념정리](https://medium.com/@lyhy0310/js-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC%ED%95%98%EA%B8%B0-01-this-%ED%8E%B8-9b05663a5aff))
 - [X] DOONDOONY ([🍺 오픈소스에 커밋 with homebrew-cask](https://velog.io/@doondoony/how-to-commit-to-an-open-source-project-with-homebrew-cask))
 - [ ] DEVJANG
-- [ ] TUHBM
+- [X] TUHBM ([번역 - 비동기 자바스크립트의 간단한 참고서 3편](https://tuhbm.github.io/2018/11/24/async03/))
 - [ ] CHRISYANG
 - [ ] JEEWHANR
 
