@@ -34,7 +34,7 @@
 - [ ] DEVJANG
 - [X] TUHBM ([번역 - 비동기 자바스크립트의 간단한 참고서 3편](https://tuhbm.github.io/2018/11/24/async03/))
 - [X] CHRISYANG ([GraphQL 한글 문서 — 1. GraphQL 소개](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-1-graphql-%EC%86%8C%EA%B0%9C-5f4f38c267b1)) ([GraphQL 한글 문서 — 2. 쿼리 & 뮤테이션](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-2-%EC%BF%BC%EB%A6%AC-%EB%AE%A4%ED%85%8C%EC%9D%B4%EC%85%98-e152f29902e7))
-- [ ] JEEWHANR
+- [X] JEEWHANR ([이번 주에 검색했던 것들 #2 : 18-11-25](https://eclatant.io/2018/11/25/2018-11-25-SearchHistory/))
 
 #### 11 월 3 주
 - [ ] RAJEPHON - 벌금
