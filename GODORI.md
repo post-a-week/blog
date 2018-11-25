@@ -1,7 +1,7 @@
 # [GODORI](https://velog.io/@godori)
 
 ## 11월 4주
-[JavaScript 엔진 톺아보기](https://velog.io/@godori/JavaScript-%EC%97%94%EC%A7%84-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0-mdjowmjlcb)
+[JavaScript 엔진 톺아보기(1)](https://velog.io/@godori/JavaScript-%EC%97%94%EC%A7%84-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0-mdjowmjlcb)
 
 ## 11월 3주
 [Notion 1년간의 사용기](https://velog.io/@godori/Notion-1%EB%85%84%EA%B0%84%EC%9D%98-%EC%82%AC%EC%9A%A9%EA%B8%B0-x7jon062yu)
