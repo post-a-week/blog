@@ -28,7 +28,7 @@
 #### 11 월 4 주
 - [ ] RAJEPHON
 - [ ] GODORI
-- [ ] YESDOING
+- [x] YESDOING ([JSONP란?](https://velog.io/@yesdoing/JSONP%EB%9E%80-jujowt4jy7))
 - [X] DALI  ([This_JS개념정리](https://medium.com/@lyhy0310/js-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC%ED%95%98%EA%B8%B0-01-this-%ED%8E%B8-9b05663a5aff))
 - [X] DOONDOONY ([🍺 오픈소스에 커밋 with homebrew-cask](https://velog.io/@doondoony/how-to-commit-to-an-open-source-project-with-homebrew-cask))
 - [ ] DEVJANG
