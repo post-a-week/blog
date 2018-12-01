@@ -30,7 +30,7 @@
 - [ ] GODORI
 - [ ] YESDOING
 - [ ] DALI
-- [ ] DOONDOONY
+- [X] DOONDOONY [📦 JavaScript Module System](https://velog.io/@doondoony/JavaScript-Module-System)
 - [ ] DEVJANG
 - [X] TUHBM [번역 - 자바스크립트 분해(destructuring)](https://tuhbm.github.io/2018/12/01/javascriptDestructuring/)
 - [ ] CHRISYANG
