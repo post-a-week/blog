@@ -26,7 +26,7 @@
 ## 📘 History
 
 #### 11 월 5 주
-- [ ] RAJEPHON
+- [X] RAJEPHON [Akka 공부하기 - 01.액터(Actors)와 액터시스템(ActorSystem)](https://rajephon.github.io/blog/2018/12/02/akka-01/)
 - [ ] GODORI
 - [ ] YESDOING
 - [ ] DALI
