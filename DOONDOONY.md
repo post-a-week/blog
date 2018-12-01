@@ -1,5 +1,8 @@
 # Posts
 
+## 11월 5주
+[📦 JavaScript Module System](https://velog.io/@doondoony/JavaScript-Module-System)
+
 ## 11월 4주
 [🍺 오픈소스에 커밋 with homebrew-cask](https://velog.io/@doondoony/how-to-commit-to-an-open-source-project-with-homebrew-cask)
 
