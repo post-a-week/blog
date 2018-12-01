@@ -25,6 +25,18 @@
 
 ## 📘 History
 
+#### 11 월 5 주
+- [ ] RAJEPHON
+- [ ] GODORI
+- [ ] YESDOING
+- [ ] DALI
+- [ ] DOONDOONY
+- [ ] DEVJANG
+- [X] TUHBM [번역 - 자바스크립트 분해(destructuring)](https://tuhbm.github.io/2018/12/01/javascriptDestructuring/)
+- [ ] CHRISYANG
+- [ ] JEEWHANR
+
+
 #### 11 월 4 주
 - [X] RAJEPHON ([Akka 공부하기 - 00.액터 모델이란?](https://rajephon.github.io/blog/2018/11/25/akka-00/))
 - [X] GODORI ([JavaScript 엔진 톺아보기(1)](https://velog.io/@godori/JavaScript-%EC%97%94%EC%A7%84-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0-mdjowmjlcb))
