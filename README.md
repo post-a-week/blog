@@ -34,7 +34,7 @@
 - [ ] DEVJANG
 - [X] TUHBM [번역 - 자바스크립트 분해(destructuring)](https://tuhbm.github.io/2018/12/01/javascriptDestructuring/)
 - [X] CHRISYANG [GraphQL 한글 문서 — 3. 스키마 & 타입](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-3-%EC%8A%A4%ED%82%A4%EB%A7%88-%ED%83%80%EC%9E%85-28b2da42eec0)
-- [ ] JEEWHANR
+- [X] JEEWHANR [이번 주에 접했던 것들 #3 : 18-12-02](https://eclatant.io/2018/12/02/2018-12-02-WeeklyHistory/)
 
 
 #### 11 월 4 주
@@ -46,7 +46,7 @@
 - [ ] DEVJANG
 - [X] TUHBM ([번역 - 비동기 자바스크립트의 간단한 참고서 3편](https://tuhbm.github.io/2018/11/24/async03/))
 - [X] CHRISYANG ([GraphQL 한글 문서 — 1. GraphQL 소개](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-1-graphql-%EC%86%8C%EA%B0%9C-5f4f38c267b1)) ([GraphQL 한글 문서 — 2. 쿼리 & 뮤테이션](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-2-%EC%BF%BC%EB%A6%AC-%EB%AE%A4%ED%85%8C%EC%9D%B4%EC%85%98-e152f29902e7))
-- [X] JEEWHANR ([이번 주에 검색했던 것들 #2 : 18-11-25](https://eclatant.io/2018/11/25/2018-11-25-SearchHistory/))
+- [X] JEEWHANR ([이번 주에 접했던 것들 #2 : 18-11-25](https://eclatant.io/2018/11/25/2018-11-25-WeeklyHistory/))
 
 #### 11 월 3 주
 - [ ] RAJEPHON - 벌금
@@ -57,7 +57,7 @@
 - [ ] DEVJANG - 벌금
 - [X] TUHBM ([번역 - 비동기 자바스크립트의 간단한 참고서 2편](https://tuhbm.github.io/2018/11/14/async02/))
 - [ ] CHRISYANG - 벌금
-- [X] JEEWHANR ([이번 주에 검색했던 것들 #1 : 18-11-18](https://eclatant.io/2018/11/18/2018-11-18-SearchHistory/))
+- [X] JEEWHANR ([이번 주에 접했던 것들 #1 : 18-11-18](https://eclatant.io/2018/11/18/2018-11-18-WeeklyHistory/))
 
 #### 11 월 2 주
 - [X] RAJEPHON ([OpenWrt 패키지 빌드 환경 세팅하기](https://rajephon.github.io/blog/2018/11/09/build-openwrt-00/))
@@ -68,7 +68,7 @@
 - [X] DEVJANG ([신입 프론트엔드 개발자를 위한 구직을 위한 소소한 팁](https://devjang.github.io/2018/11/11/2018-11-11-new-fed-begginer-tip))
 - [x] TUHBM ([번역 - 비동기 자바스크립트의 간단한 참고서 1편](https://tuhbm.github.io/2018/11/05/async01/))
 - [x] CHRISYANG ([💻 유용한 생산성 툴 몇가지 소개](https://medium.com/@ysm0622/%EC%9C%A0%EC%9A%A9%ED%95%9C-%EC%83%9D%EC%82%B0%EC%84%B1-%ED%88%B4-%EB%AA%87%EA%B0%80%EC%A7%80-%EC%86%8C%EA%B0%9C-a5cda7f18c8b))
-- [x] JEEWHANR ([이번 주에 검색했던 것들 #0 : 18-11-11](https://eclatant.io/2018/11/11/2018-11-11-SearchHistory/))
+- [x] JEEWHANR ([이번 주에 접했던 것들 #0 : 18-11-11](https://eclatant.io/2018/11/11/2018-11-11-WeeklyHistory/))
 
 #### 11 월 1 주
 
