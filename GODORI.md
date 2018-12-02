@@ -1,5 +1,8 @@
 # [GODORI](https://velog.io/@godori)
 
+## 11월 5주
+[Fixing Vulnerability in My Package](https://velog.io/@godori/Today-I-Learned-2-kdjp6i252z)
+
 ## 11월 4주
 [JavaScript 엔진 톺아보기(1)](https://velog.io/@godori/JavaScript-%EC%97%94%EC%A7%84-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0-mdjowmjlcb)
 
