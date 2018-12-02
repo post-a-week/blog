@@ -1,5 +1,8 @@
 # [YESDOING](https://velog.io/@yesdoing)
 
+## 12월 1주
+[TypeScript Basic Summary](https://velog.io/@yesdoing/TypeScript-Basic-Summary)
+
 ## 11월 4주
 [JSONP란?](https://velog.io/@yesdoing/JSONP%EB%9E%80-jujowt4jy7)
 
