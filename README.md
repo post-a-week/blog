@@ -31,7 +31,7 @@
 - [x] YESDOING ([TypeScript Basic Summary](https://velog.io/@yesdoing/TypeScript-Basic-Summary))
 - [X] DALI [함수형_프로그래밍_1.1](https://medium.com/@lyhy0310/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-01-01-b078d858eac5)
 - [X] DOONDOONY [📦 JavaScript Module System](https://velog.io/@doondoony/JavaScript-Module-System)
-- [ ] DEVJANG
+- [X] DEVJANG [(번역) 멋진 ES6 - var, let 그리고 const를 깊이 살펴보다](https://devjang.github.io/2018/11/25/2018-11-25-var-let-and-const)
 - [X] TUHBM [번역 - 자바스크립트 분해(destructuring)](https://tuhbm.github.io/2018/12/01/javascriptDestructuring/)
 - [X] CHRISYANG [GraphQL 한글 문서 — 3. 스키마 & 타입](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-3-%EC%8A%A4%ED%82%A4%EB%A7%88-%ED%83%80%EC%9E%85-28b2da42eec0)
 - [X] JEEWHANR [이번 주에 접했던 것들 #3 : 18-12-02](https://eclatant.io/2018/12/02/2018-12-02-WeeklyHistory/)
@@ -43,7 +43,7 @@
 - [x] YESDOING ([JSONP란?](https://velog.io/@yesdoing/JSONP%EB%9E%80-jujowt4jy7))
 - [X] DALI  ([This_JS개념정리](https://medium.com/@lyhy0310/js-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC%ED%95%98%EA%B8%B0-01-this-%ED%8E%B8-9b05663a5aff))
 - [X] DOONDOONY ([🍺 오픈소스에 커밋 with homebrew-cask](https://velog.io/@doondoony/how-to-commit-to-an-open-source-project-with-homebrew-cask))
-- [ ] DEVJANG
+- [ ] DEVJANG - 벌금
 - [X] TUHBM ([번역 - 비동기 자바스크립트의 간단한 참고서 3편](https://tuhbm.github.io/2018/11/24/async03/))
 - [X] CHRISYANG ([GraphQL 한글 문서 — 1. GraphQL 소개](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-1-graphql-%EC%86%8C%EA%B0%9C-5f4f38c267b1)) ([GraphQL 한글 문서 — 2. 쿼리 & 뮤테이션](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-2-%EC%BF%BC%EB%A6%AC-%EB%AE%A4%ED%85%8C%EC%9D%B4%EC%85%98-e152f29902e7))
 - [X] JEEWHANR ([이번 주에 접했던 것들 #2 : 18-11-25](https://eclatant.io/2018/11/25/2018-11-25-WeeklyHistory/))
