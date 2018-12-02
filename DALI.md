@@ -1,5 +1,9 @@
 # Posts
 
+## 11 월 5 주 
+
+[함수형_프로그래밍_1.1](https://medium.com/@lyhy0310/%ED%95%A8%EC%88%98%ED%98%95-
+
 ## 11 월 4 주 
 
 [This_JS개념정리](https://medium.com/@lyhy0310/js-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC%ED%95%98%EA%B8%B0-01-this-%ED%8E%B8-9b05663a5aff)
