@@ -1,5 +1,14 @@
 # [YESDOING](https://velog.io/@yesdoing)
 
+## 12월 1주
+[TypeScript Basic Summary](https://velog.io/@yesdoing/TypeScript-Basic-Summary)
+
+## 11월 4주
+[JSONP란?](https://velog.io/@yesdoing/JSONP%EB%9E%80-jujowt4jy7)
+
+## 11월 3주
+[My Weekly Keywords #1](https://velog.io/@yesdoing/My-Weekly-Keywords-1)
+
 ## 11월 2주
 [JavaScript Testing Tool - Jest](https://velog.io/@yesdoing/JavaScript-Testing-Tool-Jest-opjocpva77)
 

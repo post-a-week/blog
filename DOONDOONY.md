@@ -1,6 +1,18 @@
 # Posts
 
-## 10월 5주
+## 11월 5주
+[📦 JavaScript Module System](https://velog.io/@doondoony/JavaScript-Module-System)
+
+## 11월 4주
+[🍺 오픈소스에 커밋 with homebrew-cask](https://velog.io/@doondoony/how-to-commit-to-an-open-source-project-with-homebrew-cask)
+
+## 11월 3주
+[👨‍💻 [후기] 원티드와 함께하는 개발자 커리어 터치](https://velog.io/@doondoony/%ED%9B%84%EA%B8%B0-%EC%9B%90%ED%8B%B0%EB%93%9C%EC%99%80-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%BB%A4%EB%A6%AC%EC%96%B4-%ED%84%B0%EC%B9%98)
+
+## 11월 2주
+면-제
+
+## 10월 5주 & 11월 1주
 [💻 OH-MY-MACBOOK - 1](https://velog.io/@doondoony/-OH-MY-MACBOOK)
 
 ## 10월 4주

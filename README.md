@@ -20,11 +20,44 @@
 - [DALI](https://post-a-week.github.io/blog/DALI) :https://medium.com/@lyhy0310
 - [DEVJANG](https://post-a-week.github.io/blog/DEVJANG) :https://devjang.github.io
 - [TUHBM](https://post-a-week.github.io/blog/TUHBM) : https://tuhbm.github.io/
-- [KAYLA](https://post-a-week.github.io/blog/KAYLA) : https://kaylais.github.io
 - [CHRISYANG](https://post-a-week.github.io/blog/CHRISYANG) : https://medium.com/@ysm0622, https://velog.io/@chris
 - [JEEWHANR](https://github.com/post-a-week/blog/blob/master/JEEWHANR.md) : https://eclatant.io/
 
 ## 📘 History
+
+#### 11 월 5 주
+- [X] RAJEPHON [Akka 공부하기 - 01.액터(Actors)와 액터시스템(ActorSystem)](https://rajephon.github.io/blog/2018/12/02/akka-01/)
+- [X] GODORI ([Fixing Vulnerability in My Package](https://velog.io/@godori/Today-I-Learned-2-kdjp6i252z))
+- [x] YESDOING ([TypeScript Basic Summary](https://velog.io/@yesdoing/TypeScript-Basic-Summary))
+- [X] DALI [함수형_프로그래밍_1.1](https://medium.com/@lyhy0310/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-01-01-b078d858eac5)
+- [X] DOONDOONY [📦 JavaScript Module System](https://velog.io/@doondoony/JavaScript-Module-System)
+- [ ] DEVJANG
+- [X] TUHBM [번역 - 자바스크립트 분해(destructuring)](https://tuhbm.github.io/2018/12/01/javascriptDestructuring/)
+- [X] CHRISYANG [GraphQL 한글 문서 — 3. 스키마 & 타입](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-3-%EC%8A%A4%ED%82%A4%EB%A7%88-%ED%83%80%EC%9E%85-28b2da42eec0)
+- [X] JEEWHANR [이번 주에 접했던 것들 #3 : 18-12-02](https://eclatant.io/2018/12/02/2018-12-02-WeeklyHistory/)
+
+
+#### 11 월 4 주
+- [X] RAJEPHON ([Akka 공부하기 - 00.액터 모델이란?](https://rajephon.github.io/blog/2018/11/25/akka-00/))
+- [X] GODORI ([JavaScript 엔진 톺아보기(1)](https://velog.io/@godori/JavaScript-%EC%97%94%EC%A7%84-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0-mdjowmjlcb))
+- [x] YESDOING ([JSONP란?](https://velog.io/@yesdoing/JSONP%EB%9E%80-jujowt4jy7))
+- [X] DALI  ([This_JS개념정리](https://medium.com/@lyhy0310/js-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC%ED%95%98%EA%B8%B0-01-this-%ED%8E%B8-9b05663a5aff))
+- [X] DOONDOONY ([🍺 오픈소스에 커밋 with homebrew-cask](https://velog.io/@doondoony/how-to-commit-to-an-open-source-project-with-homebrew-cask))
+- [ ] DEVJANG
+- [X] TUHBM ([번역 - 비동기 자바스크립트의 간단한 참고서 3편](https://tuhbm.github.io/2018/11/24/async03/))
+- [X] CHRISYANG ([GraphQL 한글 문서 — 1. GraphQL 소개](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-1-graphql-%EC%86%8C%EA%B0%9C-5f4f38c267b1)) ([GraphQL 한글 문서 — 2. 쿼리 & 뮤테이션](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-2-%EC%BF%BC%EB%A6%AC-%EB%AE%A4%ED%85%8C%EC%9D%B4%EC%85%98-e152f29902e7))
+- [X] JEEWHANR ([이번 주에 접했던 것들 #2 : 18-11-25](https://eclatant.io/2018/11/25/2018-11-25-WeeklyHistory/))
+
+#### 11 월 3 주
+- [ ] RAJEPHON - 벌금
+- [X] GODORI ([Notion 1년간의 사용기](https://velog.io/@godori/Notion-1%EB%85%84%EA%B0%84%EC%9D%98-%EC%82%AC%EC%9A%A9%EA%B8%B0-x7jon062yu))
+- [X] YESDOING ([My Weekly Keywords #1](https://velog.io/@yesdoing/My-Weekly-Keywords-1))
+- [ ] DALI - 벌금
+- [X] DOONDOONY ([👨‍💻 [후기] 원티드와 함께하는 개발자 커리어 터치](https://velog.io/@doondoony/%ED%9B%84%EA%B8%B0-%EC%9B%90%ED%8B%B0%EB%93%9C%EC%99%80-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%BB%A4%EB%A6%AC%EC%96%B4-%ED%84%B0%EC%B9%98))
+- [ ] DEVJANG - 벌금
+- [X] TUHBM ([번역 - 비동기 자바스크립트의 간단한 참고서 2편](https://tuhbm.github.io/2018/11/14/async02/))
+- [ ] CHRISYANG - 벌금
+- [X] JEEWHANR ([이번 주에 접했던 것들 #1 : 18-11-18](https://eclatant.io/2018/11/18/2018-11-18-WeeklyHistory/))
 
 #### 11 월 2 주
 - [X] RAJEPHON ([OpenWrt 패키지 빌드 환경 세팅하기](https://rajephon.github.io/blog/2018/11/09/build-openwrt-00/))
@@ -34,9 +67,8 @@
 - [ ] DOONDOONY - 1회 면제 사용
 - [X] DEVJANG ([신입 프론트엔드 개발자들의 구직을 위한 소소한 팁](https://devjang.github.io/2018/11/11/2018-11-11-new-fed-begginer-tip))
 - [x] TUHBM ([번역 - 비동기 자바스크립트의 간단한 참고서 1편](https://tuhbm.github.io/2018/11/05/async01/))
-- [x] KAYLA ([ELK Setup(1) - Elasticsearch 설치](https://kaylais.github.io/blog/elk/2018/11/09/elasticsearch-setup/))
 - [x] CHRISYANG ([💻 유용한 생산성 툴 몇가지 소개](https://medium.com/@ysm0622/%EC%9C%A0%EC%9A%A9%ED%95%9C-%EC%83%9D%EC%82%B0%EC%84%B1-%ED%88%B4-%EB%AA%87%EA%B0%80%EC%A7%80-%EC%86%8C%EA%B0%9C-a5cda7f18c8b))
-- [x] JEEWHANR ([이번 주에 검색했던 것들 #0 : 18-11-01](https://eclatant.io/2018/11/11/2018-11-11-SearchHistory/))
+- [x] JEEWHANR ([이번 주에 접했던 것들 #0 : 18-11-11](https://eclatant.io/2018/11/11/2018-11-11-WeeklyHistory/))
 
 #### 11 월 1 주
 
@@ -78,4 +110,7 @@
 
 ## 💰 벌금 현황
 - GODORI 1회
-- DALI 1회
+- DALI 2회
+- CHRISYANG 1회
+- RAJEPHON 1회
+- DEVJANG 1회

@@ -1,5 +1,14 @@
 # [RAJEPHON](https://rajephon.github.io/blog)
 
+## 11월 5주
+- [Akka 공부하기 - 01.액터(Actors)와 액터시스템(ActorSystem)](https://rajephon.github.io/blog/2018/12/02/akka-01/)
+
+## 11월 4주
+- [Akka 공부하기 - 00.액터 모델이란?](https://rajephon.github.io/blog/2018/11/25/akka-00/)
+
+## 11월 3주
+- 벌금
+
 ## 11월 2주
 - [OpenWrt 패키지 빌드 환경 세팅하기](https://rajephon.github.io/blog/2018/11/09/build-openwrt-00/)
 
