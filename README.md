@@ -28,7 +28,7 @@
 #### 11 월 5 주
 - [X] RAJEPHON [Akka 공부하기 - 01.액터(Actors)와 액터시스템(ActorSystem)](https://rajephon.github.io/blog/2018/12/02/akka-01/)
 - [X] GODORI ([Fixing Vulnerability in My Package](https://velog.io/@godori/Today-I-Learned-2-kdjp6i252z))
-- [ ] YESDOING
+- [x] YESDOING ([TypeScript Basic Summary](https://velog.io/@yesdoing/TypeScript-Basic-Summary))
 - [ ] DALI
 - [X] DOONDOONY [📦 JavaScript Module System](https://velog.io/@doondoony/JavaScript-Module-System)
 - [ ] DEVJANG
