@@ -29,7 +29,7 @@
 - [X] RAJEPHON [Akka 공부하기 - 01.액터(Actors)와 액터시스템(ActorSystem)](https://rajephon.github.io/blog/2018/12/02/akka-01/)
 - [X] GODORI ([Fixing Vulnerability in My Package](https://velog.io/@godori/Today-I-Learned-2-kdjp6i252z))
 - [x] YESDOING ([TypeScript Basic Summary](https://velog.io/@yesdoing/TypeScript-Basic-Summary))
-- [ ] DALI
+- [X] DALI [함수형_프로그래밍_1.1](https://medium.com/@lyhy0310/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-01-01-b078d858eac5)
 - [X] DOONDOONY [📦 JavaScript Module System](https://velog.io/@doondoony/JavaScript-Module-System)
 - [ ] DEVJANG
 - [X] TUHBM [번역 - 자바스크립트 분해(destructuring)](https://tuhbm.github.io/2018/12/01/javascriptDestructuring/)
