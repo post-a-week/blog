@@ -25,6 +25,17 @@
 
 ## 📘 History
 
+#### 12 월 1 주
+- [ ] RAJEPHON
+- [ ] GODORI
+- [ ] YESDOING 
+- [ ] DALI
+- [ ] DOONDOONY
+- [ ] DEVJANG
+- [ ] TUHBM
+- [ ] CHRISYANG
+- [ ] JEEWHANR
+
 #### 11 월 5 주
 - [X] RAJEPHON [Akka 공부하기 - 01.액터(Actors)와 액터시스템(ActorSystem)](https://rajephon.github.io/blog/2018/12/02/akka-01/)
 - [X] GODORI ([Fixing Vulnerability in My Package](https://velog.io/@godori/Today-I-Learned-2-kdjp6i252z))
