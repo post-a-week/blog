@@ -25,6 +25,21 @@
 
 ## 📘 History
 
+<details>
+<summary>멤버 체크 양식 </summary>
+
+- [ ] RAJEPHON
+- [ ] GODORI
+- [ ] YESDOING 
+- [ ] DALI
+- [ ] DOONDOONY
+- [ ] DEVJANG
+- [ ] TUHBM
+- [ ] CHRISYANG
+- [ ] JEEWHANR
+
+</details>
+
 #### 12 월 1 주
 - [ ] RAJEPHON
 - [ ] GODORI
@@ -89,6 +104,10 @@
 - [x] DALI ([ES6_Symbol](https://medium.com/@lyhy0310/js-keywords-01-symbol-d4de06823491))
 - [x] DOONDOONY ([💻 OH-MY-MACBOOK - 1](https://velog.io/@doondoony/-OH-MY-MACBOOK))
 
+<details>
+<summary> 10월 </summary>
+
+
 #### 10 월 4 주
 
 - [x] RAJEPHON ([Unity - 선 샤프트(Sun shafts) / 볼류메트릭 라이팅(Volumetric Lighting) 효과 이용하기](https://rajephon.github.io/blog/2018/10/28/unity-using-sun-shafts/))
@@ -118,6 +137,9 @@
 - [x] GODORI ([ES6(2015) 주요 내용 정리](https://velog.io/@godori/ES6-%EC%A0%95%EB%A6%AC-vpjmrh6hhe))
 - [x] RAJEPHON ([아마존 SES 세팅부터 Node.js 활용 메일 전송까지](https://rajephon.github.io/blog/2018/10/06/Amazon-SES-Setup-00/))
 - [x] DOONDOONY ([[Serverless Framework] serverless.yml 설정 정보 숨기기](https://velog.io/@doondoony/Serverless-Framework-serverless.yml-%EC%84%A4%EC%A0%95-%EC%A0%95%EB%B3%B4-%EC%88%A8%EA%B8%B0%EA%B8%B0-2hjmsx7nal))
+
+
+</details>
 
 ## 💰 벌금 현황
 - GODORI 1회
