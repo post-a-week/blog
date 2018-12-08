@@ -1,5 +1,8 @@
 # [RAJEPHON](https://rajephon.github.io/blog)
 
+## 12월 1주
+- [Akka 공부하기 - 01.2 메세지 정의 및 핸들링](https://rajephon.github.io/blog/2018/12/08/akka-02/)
+
 ## 11월 5주
 - [Akka 공부하기 - 01.액터(Actors)와 액터시스템(ActorSystem)](https://rajephon.github.io/blog/2018/12/02/akka-01/)
 

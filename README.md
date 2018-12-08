@@ -45,7 +45,7 @@
 </details>
 
 #### 12 월 1 주
-- [ ] RAJEPHON
+- [X] RAJEPHON [Akka 공부하기 - 01.2 메세지 정의 및 핸들링](https://rajephon.github.io/blog/2018/12/08/akka-02/)
 - [ ] GODORI
 - [ ] YESDOING 
 - [ ] DALI
