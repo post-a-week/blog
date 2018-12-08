@@ -1,5 +1,9 @@
 # Posts
 
+## 12월 1주
+
+[번역 - OOCSS, BEM, SMACSS를 사용하여 CSS 구조를 효과적으로 구성하는 방법](https://tuhbm.github.io/2018/12/09/cssArchitecture/)
+
 ## 11월 5주
 
 [번역 - 자바스크립트 분해(destructuring)](https://tuhbm.github.io/2018/12/01/javascriptDestructuring/)
