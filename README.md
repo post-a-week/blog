@@ -48,7 +48,7 @@
 - [X] RAJEPHON ([Akka 공부하기 - 01.2 메세지 정의 및 핸들링](https://rajephon.github.io/blog/2018/12/08/akka-02/))
 - [X] GODORI ([Unity 쉐이더 튜토리얼](https://velog.io/@godori/2018-12-09-2312-%EC%9E%91%EC%84%B1%EB%90%A8-zvjph00nd7))
 - [X] YESDOING ([Hello Coding 그림으로 개념을 이해하는 알고리즘 - 1장 요약](https://velog.io/@yesdoing/Hello-Coding-%EA%B7%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C-%EA%B0%9C%EB%85%90%EC%9D%84-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-1%EC%9E%A5-%EC%9A%94%EC%95%BD))
-- [ ] DALI
+- [X] DALI [WebComponents1.1](https://medium.com/@lyhy0310/web-components-01-78d769063ada)
 - [ ] DOONDOONY - 벌금
 - [ ] DEVJANG
 - [X] TUHBM [번역 - OOCSS, BEM, SMACSS를 사용하여 CSS 구조를 효과적으로 구성하는 방법](https://tuhbm.github.io/2018/12/09/cssArchitecture/)
