@@ -1,5 +1,10 @@
 # Posts
 
+## 12월 1주 
+
+
+[함수형_프로그래밍_1.1](https://medium.com/@lyhy0310/web-components-01-78d769063ada)
+
 ## 11 월 5 주 
 
 [함수형_프로그래밍_1.1](https://medium.com/@lyhy0310/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-01-01-b078d858eac5)
