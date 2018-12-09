@@ -53,7 +53,7 @@
 - [ ] DEVJANG
 - [X] TUHBM [번역 - OOCSS, BEM, SMACSS를 사용하여 CSS 구조를 효과적으로 구성하는 방법](https://tuhbm.github.io/2018/12/09/cssArchitecture/)
 - [X] CHRISYANG [GraphQL 한글 문서 — 4. 검증](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-4-%EA%B2%80%EC%A6%9D-eaee6ae75f72)
-- [ ] JEEWHANR
+- [X] JEEWHANR [Cookie || Web Storage](https://eclatant.io/2018/12/09/2018-12-09-Cookie-Web-Storage/)
 
 #### 11 월 5 주
 - [X] RAJEPHON ([Akka 공부하기 - 01.액터(Actors)와 액터시스템(ActorSystem)](https://rajephon.github.io/blog/2018/12/02/akka-01/))
