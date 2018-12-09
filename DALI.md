@@ -3,7 +3,7 @@
 ## 12월 1주 
 
 
-[함수형_프로그래밍_1.1](https://medium.com/@lyhy0310/web-components-01-78d769063ada)
+[WebComponents1.1](https://medium.com/@lyhy0310/web-components-01-78d769063ada)
 
 ## 11 월 5 주 
 
