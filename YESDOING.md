@@ -1,6 +1,10 @@
 # [YESDOING](https://velog.io/@yesdoing)
 
+
 ## 12월 1주
+[Hello Coding 그림으로 개념을 이해하는 알고리즘 - 1장 요약](https://velog.io/@yesdoing/Hello-Coding-%EA%B7%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C-%EA%B0%9C%EB%85%90%EC%9D%84-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-1%EC%9E%A5-%EC%9A%94%EC%95%BD)
+
+## 11월 5주
 [TypeScript Basic Summary](https://velog.io/@yesdoing/TypeScript-Basic-Summary)
 
 ## 11월 4주
