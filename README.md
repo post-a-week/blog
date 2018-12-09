@@ -24,7 +24,7 @@
 - [DALI](https://post-a-week.github.io/blog/DALI) :https://medium.com/@lyhy0310
 - [DEVJANG](https://post-a-week.github.io/blog/DEVJANG) :https://devjang.github.io
 - [TUHBM](https://post-a-week.github.io/blog/TUHBM) : https://tuhbm.github.io/
-- [CHRISYANG](https://post-a-week.github.io/blog/CHRISYANG) : https://medium.com/@ysm0622, https://velog.io/@chris
+- [CHRISYANG](https://post-a-week.github.io/blog/CHRISYANG) : https://medium.com/@ysm0622
 - [JEEWHANR](https://github.com/post-a-week/blog/blob/master/JEEWHANR.md) : https://eclatant.io/
 
 ## 📘 History
@@ -52,7 +52,7 @@
 - [ ] DOONDOONY
 - [ ] DEVJANG
 - [X] TUHBM [번역 - OOCSS, BEM, SMACSS를 사용하여 CSS 구조를 효과적으로 구성하는 방법](https://tuhbm.github.io/2018/12/09/cssArchitecture/)
-- [ ] CHRISYANG
+- [X] CHRISYANG [GraphQL 한글 문서 — 4. 검증(https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-4-%EA%B2%80%EC%A6%9D-eaee6ae75f72)
 - [ ] JEEWHANR
 
 #### 11 월 5 주
