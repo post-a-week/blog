@@ -44,6 +44,17 @@
 
 </details>
 
+#### 12 월 2 주
+- [X] RAJEPHON ([Akka 공부하기 - 01.3 Props와 and IActorRef](https://rajephon.github.io/blog/2018/12/14/akka-03/))
+- [ ] GODORI
+- [ ] YESDOING 
+- [ ] DALI
+- [ ] DOONDOONY
+- [ ] DEVJANG
+- [ ] TUHBM
+- [ ] CHRISYANG
+- [ ] JEEWHANR
+
 #### 12 월 1 주
 - [X] RAJEPHON ([Akka 공부하기 - 01.2 메세지 정의 및 핸들링](https://rajephon.github.io/blog/2018/12/08/akka-02/))
 - [X] GODORI ([Unity 쉐이더 튜토리얼](https://velog.io/@godori/2018-12-09-2312-%EC%9E%91%EC%84%B1%EB%90%A8-zvjph00nd7))

@@ -1,5 +1,8 @@
 # [RAJEPHON](https://rajephon.github.io/blog)
 
+## 12월 2주
+- [Akka 공부하기 - 01.3 Props와 and IActorRef](https://rajephon.github.io/blog/2018/12/14/akka-03/)
+
 ## 12월 1주
 - [Akka 공부하기 - 01.2 메세지 정의 및 핸들링](https://rajephon.github.io/blog/2018/12/08/akka-02/)
 
