@@ -61,7 +61,7 @@
 - [X] YESDOING ([Hello Coding 그림으로 개념을 이해하는 알고리즘 - 1장 요약](https://velog.io/@yesdoing/Hello-Coding-%EA%B7%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C-%EA%B0%9C%EB%85%90%EC%9D%84-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-1%EC%9E%A5-%EC%9A%94%EC%95%BD))
 - [X] DALI [WebComponents1.1](https://medium.com/@lyhy0310/web-components-01-78d769063ada)
 - [ ] DOONDOONY - 벌금
-- [ ] DEVJANG
+- [ ] DEVJANG - 벌금
 - [X] TUHBM [번역 - OOCSS, BEM, SMACSS를 사용하여 CSS 구조를 효과적으로 구성하는 방법](https://tuhbm.github.io/2018/12/09/cssArchitecture/)
 - [X] CHRISYANG [GraphQL 한글 문서 — 4. 검증](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-4-%EA%B2%80%EC%A6%9D-eaee6ae75f72)
 - [X] JEEWHANR [Cookie || Web Storage](https://eclatant.io/2018/12/09/2018-12-09-Cookie-Web-Storage/)
@@ -161,7 +161,7 @@
 - DALI 2회
 - CHRISYANG 1회
 - RAJEPHON 1회
-- DEVJANG 1회
+- DEVJANG 3회
 - DOONDOONY 1회
 
 **[⬆ Top](#바로가기)**
