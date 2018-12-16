@@ -1,5 +1,13 @@
 # Posts
 
+## 12월 2주
+
+[GraphQL 한글 문서 — 5. 실행](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-5-%EC%8B%A4%ED%96%89-81891be0770d)
+
+## 12월 1주
+
+[GraphQL 한글 문서 — 4. 검증](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-4-%EA%B2%80%EC%A6%9D-eaee6ae75f72)
+
 ## 11월 5주
 
 [GraphQL 한글 문서 — 3. 스키마 & 타입](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-3-%EC%8A%A4%ED%82%A4%EB%A7%88-%ED%83%80%EC%9E%85-28b2da42eec0)
