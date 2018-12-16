@@ -53,7 +53,7 @@
 - [ ] DEVJANG
 - [ ] TUHBM
 - [X] CHRISYANG [GraphQL 한글 문서 — 5. 실행](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-5-%EC%8B%A4%ED%96%89-81891be0770d)
-- [ ] JEEWHANR
+- [X] JEEWHANR [Async](https://eclatant.io/2018/12/10/2018-12-10-Async/)
 
 #### 12 월 1 주
 - [X] RAJEPHON ([Akka 공부하기 - 01.2 메세지 정의 및 핸들링](https://rajephon.github.io/blog/2018/12/08/akka-02/))
