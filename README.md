@@ -48,7 +48,7 @@
 - [X] RAJEPHON ([Akka 공부하기 - 01.3 Props와 and IActorRef](https://rajephon.github.io/blog/2018/12/14/akka-03/))
 - [X] GODORI ([JavaScript 엔진 톺아보기(2)](https://velog.io/@godori/JavaScript-%EC%97%94%EC%A7%84-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0-2-pujpqum2ji))
 - [ ] YESDOING - 벌금
-- [ ] DALI - [리액트_개발환경_갖추기.1](https://medium.com/@lyhy0310/react-dev-setting-v-1-fc0f7882ecd4)
+- [X] DALI - [리액트_개발환경_갖추기.1](https://medium.com/@lyhy0310/react-dev-setting-v-1-fc0f7882ecd4)
 - [X] DOONDOONY ([🚀 Pipenv 로 파이썬 가상환경 설정](https://velog.io/@doondoony/pipenv-101))
 - [ ] DEVJANG
 - [ ] TUHBM
