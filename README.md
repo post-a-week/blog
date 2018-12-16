@@ -50,7 +50,7 @@
 - [ ] YESDOING - 벌금
 - [X] DALI - [리액트_개발환경_갖추기.1](https://medium.com/@lyhy0310/react-dev-setting-v-1-fc0f7882ecd4)
 - [X] DOONDOONY ([🚀 Pipenv 로 파이썬 가상환경 설정](https://velog.io/@doondoony/pipenv-101))
-- [ ] DEVJANG
+- [ ] DEVJANG - 벌금
 - [ ] TUHBM
 - [X] CHRISYANG [GraphQL 한글 문서 — 5. 실행](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-5-%EC%8B%A4%ED%96%89-81891be0770d)
 - [X] JEEWHANR [Async](https://eclatant.io/2018/12/10/2018-12-10-Async/)
@@ -161,7 +161,7 @@
 - DALI 2회
 - CHRISYANG 1회
 - RAJEPHON 1회
-- DEVJANG 3회
+- DEVJANG 4회
 - DOONDOONY 1회
 
 **[⬆ Top](#바로가기)**
