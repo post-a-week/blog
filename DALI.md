@@ -1,7 +1,10 @@
 # Posts
 
-## 12월 1주 
+## 12월 2주 
 
+[리액트_개발환경_갖추기.1](https://medium.com/@lyhy0310/react-dev-setting-v-1-fc0f7882ecd4)
+
+## 12월 1주 
 
 [WebComponents1.1](https://medium.com/@lyhy0310/web-components-01-78d769063ada)
 
