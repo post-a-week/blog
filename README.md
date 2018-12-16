@@ -46,7 +46,7 @@
 
 #### 12 월 2 주
 - [X] RAJEPHON ([Akka 공부하기 - 01.3 Props와 and IActorRef](https://rajephon.github.io/blog/2018/12/14/akka-03/))
-- [ ] GODORI
+- [X] GODORI ([JavaScript 엔진 톺아보기(2)](https://velog.io/@godori/JavaScript-%EC%97%94%EC%A7%84-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0-2-pujpqum2ji))
 - [ ] YESDOING 
 - [ ] DALI
 - [X] DOONDOONY ([🚀 Pipenv 로 파이썬 가상환경 설정](https://velog.io/@doondoony/pipenv-101))
