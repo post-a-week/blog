@@ -44,6 +44,8 @@
 
 </details>
 
+✨FIN ✨
+
 #### 12 월 2 주
 - [X] RAJEPHON ([Akka 공부하기 - 01.3 Props와 and IActorRef](https://rajephon.github.io/blog/2018/12/14/akka-03/))
 - [X] GODORI ([JavaScript 엔진 톺아보기(2)](https://velog.io/@godori/JavaScript-%EC%97%94%EC%A7%84-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0-2-pujpqum2ji))
@@ -51,7 +53,7 @@
 - [X] DALI - [리액트_개발환경_갖추기.1](https://medium.com/@lyhy0310/react-dev-setting-v-1-fc0f7882ecd4)
 - [X] DOONDOONY ([🚀 Pipenv 로 파이썬 가상환경 설정](https://velog.io/@doondoony/pipenv-101))
 - [ ] DEVJANG - 벌금
-- [ ] TUHBM
+- [ ] TUHBM - 벌금
 - [X] CHRISYANG [GraphQL 한글 문서 — 5. 실행](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-5-%EC%8B%A4%ED%96%89-81891be0770d)
 - [X] JEEWHANR [Async](https://eclatant.io/2018/12/10/2018-12-10-Async/)
 
