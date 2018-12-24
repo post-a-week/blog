@@ -2,7 +2,7 @@
 
 ## 12월 4주 
 
-[WIL_02](https://medium.com/@lyhy0310/wil-01-aa99a95ca7d)
+[WIL_02](https://medium.com/@lyhy0310/wil-02-3858a0a39e42)
 
 ## 12월 3주 
 
