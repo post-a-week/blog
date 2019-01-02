@@ -29,6 +29,8 @@
 
 ## 📘 History
 
+✨FIN ✨
+
 <details>
 <summary>멤버 체크 양식 </summary>
 
@@ -43,8 +45,6 @@
 - [ ] JEEWHANR
 
 </details>
-
-✨FIN ✨
 
 #### 12 월 2 주
 - [X] RAJEPHON ([Akka 공부하기 - 01.3 Props와 and IActorRef](https://rajephon.github.io/blog/2018/12/14/akka-03/))
@@ -170,6 +170,7 @@
 - DOONDOONY 1회
 - YESDOING 1회
 - TUHBM 1회
+
 ⇒ 총 12회
 
 **[⬆ Top](#바로가기)**
