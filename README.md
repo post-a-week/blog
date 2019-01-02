@@ -68,6 +68,9 @@
 - [X] CHRISYANG [GraphQL 한글 문서 — 4. 검증](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-4-%EA%B2%80%EC%A6%9D-eaee6ae75f72)
 - [X] JEEWHANR [Cookie || Web Storage](https://eclatant.io/2018/12/09/2018-12-09-Cookie-Web-Storage/)
 
+<details>
+<summary> 11월 </summary>
+
 #### 11 월 5 주
 - [X] RAJEPHON ([Akka 공부하기 - 01.액터(Actors)와 액터시스템(ActorSystem)](https://rajephon.github.io/blog/2018/12/02/akka-01/))
 - [X] GODORI ([Fixing Vulnerability in My Package](https://velog.io/@godori/Today-I-Learned-2-kdjp6i252z))
@@ -121,9 +124,10 @@
 - [x] DALI ([ES6_Symbol](https://medium.com/@lyhy0310/js-keywords-01-symbol-d4de06823491))
 - [x] DOONDOONY ([💻 OH-MY-MACBOOK - 1](https://velog.io/@doondoony/-OH-MY-MACBOOK))
 
+</details>
+
 <details>
 <summary> 10월 </summary>
-
 
 #### 10 월 4 주
 
@@ -155,7 +159,6 @@
 - [x] RAJEPHON ([아마존 SES 세팅부터 Node.js 활용 메일 전송까지](https://rajephon.github.io/blog/2018/10/06/Amazon-SES-Setup-00/))
 - [x] DOONDOONY ([[Serverless Framework] serverless.yml 설정 정보 숨기기](https://velog.io/@doondoony/Serverless-Framework-serverless.yml-%EC%84%A4%EC%A0%95-%EC%A0%95%EB%B3%B4-%EC%88%A8%EA%B8%B0%EA%B8%B0-2hjmsx7nal))
 
-
 </details>
 
 ## 💰 벌금 현황
@@ -165,5 +168,8 @@
 - RAJEPHON 1회
 - DEVJANG 4회
 - DOONDOONY 1회
+- YESDOING 1회
+- TUHBM 1회
+⇒ 총 12회
 
 **[⬆ Top](#바로가기)**
