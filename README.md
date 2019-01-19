@@ -44,8 +44,15 @@
 
 </details>
 
-#### 🏂Free Season ( ~ 2019.2.10)
-자유롭게 작성해 주세요!
+#### 🏂Pre-Season ( ~ 2019.2.10)
+- [X] CHRISYANG - [[번역] 2018년, 내가 모르는 기술들](https://velog.io/@chris/%EB%B2%88%EC%97%AD-2018%EB%85%84-%EB%82%B4%EA%B0%80-%EB%AA%A8%EB%A5%B4%EB%8A%94-%EA%B8%B0%EC%88%A0%EB%93%A4-rnjr3h8mgj)
+- [X] CHRISYANG - [GraphQL 한글 문서 - 8. 모범 사례: 그래프로 생각하기](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-8-%EB%AA%A8%EB%B2%94-%EC%82%AC%EB%A1%80-%EA%B7%B8%EB%9E%98%ED%94%84%EB%A1%9C-%EC%83%9D%EA%B0%81%ED%95%98%EA%B8%B0-d8cfacd9567f)
+- [X] CHRISYANG - [GraphQL 한글 문서 - 7. 모범 사례: 소개](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-7-%EB%AA%A8%EB%B2%94-%EC%82%AC%EB%A1%80-%EC%86%8C%EA%B0%9C-7d318f0cd196)
+- [X] CHRISYANG - [2018 회고](https://medium.com/@ysm0622/2018-%ED%9A%8C%EA%B3%A0-a8518944eda8)
+- [X] CHRISYANG - [GraphQL 한글 문서 - 6. 스키마 확인](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-6-%EC%8A%A4%ED%82%A4%EB%A7%88-%ED%99%95%EC%9D%B8-91b4684ffd3d)
+
+<details>
+<summary> 12월 </summary>
 
 #### 12 월 2 주
 - [X] RAJEPHON ([Akka 공부하기 - 01.3 Props와 and IActorRef](https://rajephon.github.io/blog/2018/12/14/akka-03/))
@@ -68,6 +75,8 @@
 - [X] TUHBM [번역 - OOCSS, BEM, SMACSS를 사용하여 CSS 구조를 효과적으로 구성하는 방법](https://tuhbm.github.io/2018/12/09/cssArchitecture/)
 - [X] CHRISYANG [GraphQL 한글 문서 — 4. 검증](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-4-%EA%B2%80%EC%A6%9D-eaee6ae75f72)
 - [X] JEEWHANR [Cookie || Web Storage](https://eclatant.io/2018/12/09/2018-12-09-Cookie-Web-Storage/)
+
+</details>
 
 <details>
 <summary> 11월 </summary>
