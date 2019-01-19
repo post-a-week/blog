@@ -30,6 +30,11 @@
 ## 📘 History
 
 <details>
+<summary> 표시는 클릭하면 펼칠 수 있습니다. </summary>
+이렇게요!
+</details>
+
+<details>
 <summary>멤버 체크 양식 </summary>
 
 - [ ] RAJEPHON
