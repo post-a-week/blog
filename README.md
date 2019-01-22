@@ -5,6 +5,7 @@
 ## 바로가기
 - [📘 History](#-history)
 - [💰벌금 현황](#-벌금-현황)
+- [🍕 후기 ](#-후기)
 
 ## 📌 Rule
 
@@ -187,5 +188,8 @@
 - TUHBM 1회
 
 ⇒ 총 12회
+
+## 🍕 후기
+- [post-a-week 후기](https://slides.com/godori/post-a-week)
 
 **[⬆ Top](#바로가기)**
