@@ -67,6 +67,10 @@
 - [ ] JYHWNG
 
 #### 🏂Pre-Season ( ~ 2019.2.10)
+- [X] CHRISYANG - [GraphQL 한글 문서 - 12. 모범 사례: 캐싱](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-12-%EB%AA%A8%EB%B2%94-%EC%82%AC%EB%A1%80-%EC%BA%90%EC%8B%B1-d3ea75aa4018)
+- [X] CHRISYANG - [GraphQL 한글 문서 - 11. 모범 사례: 페이지네이션](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-11-%EB%AA%A8%EB%B2%94-%EC%82%AC%EB%A1%80-%ED%8E%98%EC%9D%B4%EC%A7%80%EB%84%A4%EC%9D%B4%EC%85%98-71fc51aa0f7b)
+- [X] CHRISYANG - [GraphQL 한글 문서 - 10. 모범 사례: 인증](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-10-%EB%AA%A8%EB%B2%94-%EC%82%AC%EB%A1%80-%EC%9D%B8%EC%A6%9D-d71d1e356da3)
+- [X] CHRISYANG - [GraphQL 한글 문서 — 9. 모범 사례: HTTP를 통한 서빙](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-9-%EB%AA%A8%EB%B2%94-%EC%82%AC%EB%A1%80-http%EB%A5%BC-%ED%86%B5%ED%95%9C-%EC%84%9C%EB%B9%99-4735d9c8a68b)
 - [X] CHRISYANG - [[번역] 2018년, 내가 모르는 기술들](https://velog.io/@chris/%EB%B2%88%EC%97%AD-2018%EB%85%84-%EB%82%B4%EA%B0%80-%EB%AA%A8%EB%A5%B4%EB%8A%94-%EA%B8%B0%EC%88%A0%EB%93%A4-rnjr3h8mgj)
 - [X] CHRISYANG - [GraphQL 한글 문서 - 8. 모범 사례: 그래프로 생각하기](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-8-%EB%AA%A8%EB%B2%94-%EC%82%AC%EB%A1%80-%EA%B7%B8%EB%9E%98%ED%94%84%EB%A1%9C-%EC%83%9D%EA%B0%81%ED%95%98%EA%B8%B0-d8cfacd9567f)
 - [X] CHRISYANG - [GraphQL 한글 문서 - 7. 모범 사례: 소개](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-7-%EB%AA%A8%EB%B2%94-%EC%82%AC%EB%A1%80-%EC%86%8C%EA%B0%9C-7d318f0cd196)
