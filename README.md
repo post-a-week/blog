@@ -10,11 +10,13 @@
 ## 📌 Rule
 
 - 매주 블로그 **포스트 하나를 작성**하고 각자의 [닉네임.md] 파일에 작성한 **글 링크를 업데이트** 합니다. 
-- Pull requests 후 self merge 하거나 개인 md 파일을 직접 edit 해주세요.
-- 마감은 매주 일요일 밤 12 시까지 입니다. (포스트 작성시간 기준)
-- 벌금은 1 회당 5 천원이며, 모든 멤버는 한 주만 포스트를 쉴 수 있는 면제권이 1회 주어집니다.
+- 포스팅 체크를 위한 메인 README.md 파일은 직접 편집해 주세요. pr을 하려면 본인이 직접 merge해 주세요
+- 한 주의 마감은 월요일로 넘어가는 일요일 밤 12시까지입니다.(포스트 작성시간 기준)
+- 이전 달과 다음 달의 주차 구분은 마감일인 일요일이 속한 달로 해주세요 ex. 1월 5주차(x) 2월 1주차 (o)
+- 벌금은 1 회당 5 천원이며, 벌금 현황에 기록해 두었다가 12주가 끝난 후 정산할 예정입니다.
+- 모든 멤버는 한 주만 포스트를 쉴 수 있는 면제권이 1회 주어집니다.
 - 가능한 기술과 관련된 주제를 작성해 주세요! 블로그 형식과 내용 및 분량은 자유입니다.
-- 포스팅 예시 - 일반적인 기술 포스팅, 스터디나 책 정리, 원작자 허락맡은 번역글, 개발 회고, 기술 관련 메모 등
+- 포스팅 예시 : 일반적인 기술 포스팅, 스터디나 책 정리, 원작자 허락맡은 번역글, 개발 회고, 기술 관련 메모 등
 
 ## ✏️ Blog
  * [닉네임] (개인 md 파일 링크) : 블로그 링크
@@ -27,6 +29,7 @@
 - [TUHBM](https://post-a-week.github.io/blog/TUHBM) : https://tuhbm.github.io/
 - [CHRISYANG](https://post-a-week.github.io/blog/CHRISYANG) : https://medium.com/@ysm0622
 - [JEEWHANR](https://github.com/post-a-week/blog/blob/master/JEEWHANR.md) : https://eclatant.io/
+- [JYHWNG](https://github.com/post-a-week/blog/blob/master/JYHWNG.md): personal-blog-link
 
 ## 📘 History
 
@@ -47,8 +50,21 @@
 - [ ] TUHBM
 - [ ] CHRISYANG
 - [ ] JEEWHANR
+- [ ] JYHWNG
 
 </details>
+
+#### 2 월 3 주
+- [ ] RAJEPHON
+- [ ] GODORI
+- [ ] YESDOING 
+- [ ] DALI
+- [ ] DOONDOONY
+- [ ] DEVJANG
+- [ ] TUHBM
+- [ ] CHRISYANG
+- [ ] JEEWHANR
+- [ ] JYHWNG
 
 #### 🏂Pre-Season ( ~ 2019.2.10)
 - [X] CHRISYANG - [[번역] 2018년, 내가 모르는 기술들](https://velog.io/@chris/%EB%B2%88%EC%97%AD-2018%EB%85%84-%EB%82%B4%EA%B0%80-%EB%AA%A8%EB%A5%B4%EB%8A%94-%EA%B8%B0%EC%88%A0%EB%93%A4-rnjr3h8mgj)
