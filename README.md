@@ -66,7 +66,9 @@
 - [ ] JEEWHANR
 - [ ] JYHWNG
 
-#### 🏂Pre-Season ( ~ 2019.2.10)
+<details>
+<summary> 🏂Pre-Season ( ~ 2019.2.10) </summary>
+
 - [X] CHRISYANG - [GraphQL 한글 문서 - 12. 모범 사례: 캐싱](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-12-%EB%AA%A8%EB%B2%94-%EC%82%AC%EB%A1%80-%EC%BA%90%EC%8B%B1-d3ea75aa4018)
 - [X] CHRISYANG - [GraphQL 한글 문서 - 11. 모범 사례: 페이지네이션](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-11-%EB%AA%A8%EB%B2%94-%EC%82%AC%EB%A1%80-%ED%8E%98%EC%9D%B4%EC%A7%80%EB%84%A4%EC%9D%B4%EC%85%98-71fc51aa0f7b)
 - [X] CHRISYANG - [GraphQL 한글 문서 - 10. 모범 사례: 인증](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-10-%EB%AA%A8%EB%B2%94-%EC%82%AC%EB%A1%80-%EC%9D%B8%EC%A6%9D-d71d1e356da3)
@@ -76,6 +78,8 @@
 - [X] CHRISYANG - [GraphQL 한글 문서 - 7. 모범 사례: 소개](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-7-%EB%AA%A8%EB%B2%94-%EC%82%AC%EB%A1%80-%EC%86%8C%EA%B0%9C-7d318f0cd196)
 - [X] CHRISYANG - [2018 회고](https://medium.com/@ysm0622/2018-%ED%9A%8C%EA%B3%A0-a8518944eda8)
 - [X] CHRISYANG - [GraphQL 한글 문서 - 6. 스키마 확인](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-6-%EC%8A%A4%ED%82%A4%EB%A7%88-%ED%99%95%EC%9D%B8-91b4684ffd3d)
+
+</details>
 
 <details>
 <summary> 12월 </summary>
