@@ -61,8 +61,8 @@
 - [ ] DALI
 - [ ] DOONDOONY
 - [ ] DEVJANG
-- [X] TUHBM - [번역 - 자바스크립트 코드 30초 시리즈<Date> 1편](https://tuhbm.github.io/2019/02/17/javascript30secDate/),
-             [번역 - 자바스크립트 코드 30초 시리즈<Array> 1편](https://tuhbm.github.io/2019/02/10/javascript30secArray1/) 
+- [X] TUHBM - [[번역] - 자바스크립트 코드 30초 시리즈<Date> 1편](https://tuhbm.github.io/2019/02/17/javascript30secDate/),
+             [[번역] - 자바스크립트 코드 30초 시리즈<Array> 1편](https://tuhbm.github.io/2019/02/10/javascript30secArray1/) 
 - [ ] CHRISYANG
 - [ ] JEEWHANR
 - [ ] JYHWNG
