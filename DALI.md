@@ -1,5 +1,9 @@
 # Posts
 
+## 2월 3주  
+
+- DALI [서평-함께자라기](https://medium.com/@lyhy0310/%ED%95%A8%EA%BB%98-%EC%9E%90%EB%9D%BC%EA%B8%B0-52da8d3da56d)
+
 ## 1월 1주  
 
 [WIL_03](https://medium.com/@lyhy0310/wil-03-b24ec6bdfad6)
