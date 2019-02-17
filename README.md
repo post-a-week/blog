@@ -29,7 +29,7 @@
 - [TUHBM](https://post-a-week.github.io/blog/TUHBM) : https://tuhbm.github.io/
 - [CHRISYANG](https://post-a-week.github.io/blog/CHRISYANG) : https://medium.com/@ysm0622
 - [JEEWHANR](https://github.com/post-a-week/blog/blob/master/JEEWHANR.md) : https://eclatant.io/
-- [JYHWNG](https://github.com/post-a-week/blog/blob/master/JYHWNG.md): personal-blog-link
+- [JYHWNG](https://github.com/post-a-week/blog/blob/master/JYHWNG.md): https://jyhwng.github.io/blog/
 
 ## 📘 History
 
@@ -65,7 +65,7 @@
              [[번역] - 자바스크립트 코드 30초 시리즈<Array> 1편](https://tuhbm.github.io/2019/02/10/javascript30secArray1/) 
 - [ ] CHRISYANG
 - [ ] JEEWHANR
-- [ ] JYHWNG
+- [X] JYHWNG - [Optimizing Performance with Cache Control](https://jyhwng.github.io/blog/performance-optimization-with-cache-control)
 
 <details>
 <summary> 🏂Pre-Season ( ~ 2019.2.10) </summary>
