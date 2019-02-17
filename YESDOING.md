@@ -1,5 +1,7 @@
 # [YESDOING](https://velog.io/@yesdoing)
 
+## 2월 3주  
+[(번역) 9 Tricks for Kickass JavaScript Developers in 2019](https://velog.io/@yesdoing/번역-9-Tricks-for-Kickass-JavaScript-Developers-in-2019)
 
 ## 12월 2주
 벌-금
