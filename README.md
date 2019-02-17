@@ -56,7 +56,7 @@
 
 #### 2 월 3 주
 - [ ] RAJEPHON
-- [ ] GODORI
+- [X] GODORI - [Akka 공부하기 - 01.4 Child Actors, Actor Hierarchies, and Supervision](https://rajephon.github.io/blog/2019/02/17/akka-04/)
 - [ ] YESDOING 
 - [ ] DALI
 - [ ] DOONDOONY
