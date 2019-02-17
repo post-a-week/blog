@@ -56,7 +56,7 @@
 
 #### 2 월 3 주
 - [X] RAJEPHON - [Akka 공부하기 - 01.4 Child Actors, Actor Hierarchies, and Supervision](https://rajephon.github.io/blog/2019/02/17/akka-04/)
-- [ ] GODORI
+- [X] GODORI - [DOM이란 무엇인가?](https://velog.io/@godori/DOM%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80)
 - [X] YESDOING [(번역) 9 Tricks for Kickass JavaScript Developers in 2019](https://velog.io/@yesdoing/번역-9-Tricks-for-Kickass-JavaScript-Developers-in-2019)
 - [X] DALI [서평-함께자라기](https://medium.com/@lyhy0310/%ED%95%A8%EA%BB%98-%EC%9E%90%EB%9D%BC%EA%B8%B0-52da8d3da56d)
 - [ ] DOONDOONY
