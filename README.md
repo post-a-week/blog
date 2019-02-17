@@ -58,7 +58,7 @@
 - [X] RAJEPHON - [Akka 공부하기 - 01.4 Child Actors, Actor Hierarchies, and Supervision](https://rajephon.github.io/blog/2019/02/17/akka-04/)
 - [ ] GODORI
 - [ ] YESDOING 
-- [ ] DALI
+- [X] DALI [서평-함께자라기](https://medium.com/@lyhy0310/%ED%95%A8%EA%BB%98-%EC%9E%90%EB%9D%BC%EA%B8%B0-52da8d3da56d)
 - [ ] DOONDOONY
 - [ ] DEVJANG
 - [X] TUHBM - [[번역] - 자바스크립트 코드 30초 시리즈<Date> 1편](https://tuhbm.github.io/2019/02/17/javascript30secDate/),
