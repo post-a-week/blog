@@ -1,5 +1,10 @@
 # [GODORI](https://velog.io/@godori)
 
+## 2월 3주
+[DOM이란 무엇인가?](https://velog.io/@godori/DOM%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80)
+
+---
+
 ## 12월 2주
 [JavaScript 엔진 톺아보기(2)](https://velog.io/@godori/JavaScript-%EC%97%94%EC%A7%84-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0-2-pujpqum2ji)
 
