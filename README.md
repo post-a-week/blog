@@ -64,7 +64,7 @@
 - [X] TUHBM - [[번역] - 자바스크립트 코드 30초 시리즈<Date> 1편](https://tuhbm.github.io/2019/02/17/javascript30secDate/),
              [[번역] - 자바스크립트 코드 30초 시리즈<Array> 1편](https://tuhbm.github.io/2019/02/10/javascript30secArray1/) 
 - [ ] CHRISYANG
-- [ ] JEEWHANR
+- [X] JEEWHANR - [코딩 인터뷰 완전 분석](https://eclatant.io/2019/02/16/2019-02-16-CtCI/)
 - [X] JYHWNG - [Optimizing Performance with Cache Control](https://jyhwng.github.io/blog/performance-optimization-with-cache-control)
 
 <details>
