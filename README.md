@@ -54,6 +54,8 @@
 
 </details>
 
+### 2019
+
 #### 2월 4주
 - [ ] RAJEPHON
 - [ ] GODORI
@@ -79,7 +81,6 @@
 - [X] JEEWHANR - [코딩 인터뷰 완전 분석](https://eclatant.io/2019/02/16/2019-02-16-CtCI/)
 - [X] JYHWNG - [Optimizing Performance with Cache Control](https://jyhwng.github.io/blog/performance-optimization-with-cache-control)
 
----
 
 <details>
 <summary> 🏂Pre-Season ( ~ 2019.2.10) </summary>
@@ -95,6 +96,8 @@
 - [X] CHRISYANG - [GraphQL 한글 문서 - 6. 스키마 확인](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-6-%EC%8A%A4%ED%82%A4%EB%A7%88-%ED%99%95%EC%9D%B8-91b4684ffd3d)
 
 </details>
+
+### 2018
 
 <details>
 <summary> 12월 </summary>
@@ -229,6 +232,7 @@
 - DOONDOONY 1회
 - YESDOING 1회
 - TUHBM 1회
+
 ⇒ 총 12회
   
 </details>
