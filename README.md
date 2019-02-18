@@ -220,6 +220,7 @@
 
 <details>
 <summary> Season 1 </summary>
+  
 - GODORI 1회
 - DALI 2회
 - CHRISYANG 1회
@@ -229,6 +230,7 @@
 - YESDOING 1회
 - TUHBM 1회
 ⇒ 총 12회
+  
 </details>
 
 ## 🍕 후기
