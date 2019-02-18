@@ -74,7 +74,7 @@
 - [X] YESDOING [(번역) 9 Tricks for Kickass JavaScript Developers in 2019](https://velog.io/@yesdoing/번역-9-Tricks-for-Kickass-JavaScript-Developers-in-2019)
 - [X] DALI [서평-함께자라기](https://medium.com/@lyhy0310/%ED%95%A8%EA%BB%98-%EC%9E%90%EB%9D%BC%EA%B8%B0-52da8d3da56d)
 - [ ] DOONDOONY
-- [ ] DEVJANG
+- [X] DEVJANG - [(독서) 자바스크립트를 깨우치다](https://devjang.github.io/2019/02/15/2019-02-15-enlightenment-js)
 - [X] TUHBM - [[번역] - 자바스크립트 코드 30초 시리즈<Date> 1편](https://tuhbm.github.io/2019/02/17/javascript30secDate/),
              [[번역] - 자바스크립트 코드 30초 시리즈<Array> 1편](https://tuhbm.github.io/2019/02/10/javascript30secArray1/) 
 - [X] CHRISYANG - [⚡️ Google Chrome Labs의 Quicklink로 웹페이지 UX 향상시키기](https://velog.io/@chris/-Google-Chrome-Labs%EC%9D%98-Quicklink%EB%A1%9C-%EC%9B%B9%ED%8E%98%EC%9D%B4%EC%A7%80-UX-%ED%96%A5%EC%83%81%EC%8B%9C%ED%82%A4%EA%B8%B0)

@@ -1,5 +1,9 @@
 # Posts
 
+## 2 월 3 주
+
+[(독서) 자바스크립트를 깨우치다](https://devjang.github.io/2019/02/15/2019-02-15-enlightenment-js)
+
 ## 12 월 2 주
 
 벌금
