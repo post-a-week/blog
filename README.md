@@ -54,6 +54,18 @@
 
 </details>
 
+#### 2월 4주
+- [ ] RAJEPHON
+- [ ] GODORI
+- [ ] YESDOING 
+- [ ] DALI
+- [ ] DOONDOONY
+- [ ] DEVJANG
+- [ ] TUHBM
+- [ ] CHRISYANG
+- [ ] JEEWHANR
+- [ ] JYHWNG
+
 #### 2 월 3 주
 - [X] RAJEPHON - [Akka 공부하기 - 01.4 Child Actors, Actor Hierarchies, and Supervision](https://rajephon.github.io/blog/2019/02/17/akka-04/)
 - [X] GODORI - [DOM이란 무엇인가?](https://velog.io/@godori/DOM%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80)
@@ -66,6 +78,8 @@
 - [X] CHRISYANG - [⚡️ Google Chrome Labs의 Quicklink로 웹페이지 UX 향상시키기](https://velog.io/@chris/-Google-Chrome-Labs%EC%9D%98-Quicklink%EB%A1%9C-%EC%9B%B9%ED%8E%98%EC%9D%B4%EC%A7%80-UX-%ED%96%A5%EC%83%81%EC%8B%9C%ED%82%A4%EA%B8%B0)
 - [X] JEEWHANR - [코딩 인터뷰 완전 분석](https://eclatant.io/2019/02/16/2019-02-16-CtCI/)
 - [X] JYHWNG - [Optimizing Performance with Cache Control](https://jyhwng.github.io/blog/performance-optimization-with-cache-control)
+
+---
 
 <details>
 <summary> 🏂Pre-Season ( ~ 2019.2.10) </summary>
@@ -203,6 +217,9 @@
 </details>
 
 ## 💰 벌금 현황
+
+<details>
+<summary> Season 1 </summary>
 - GODORI 1회
 - DALI 2회
 - CHRISYANG 1회
@@ -211,8 +228,8 @@
 - DOONDOONY 1회
 - YESDOING 1회
 - TUHBM 1회
-
 ⇒ 총 12회
+</details>
 
 ## 🍕 후기
 - [post-a-week 후기](https://slides.com/godori/post-a-week)
