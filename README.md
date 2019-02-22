@@ -19,7 +19,7 @@
 - 포스팅 예시 : 일반적인 기술 포스팅, 스터디나 책 정리, 원작자 허락맡은 번역글, 개발 회고, 기술 관련 메모 등
 
 ## ✏️ Blog
- * [닉네임] (개인 md 파일 링크) : 블로그 링크
+* [닉네임] (개인 md 파일 링크) : 블로그 링크
 - [GODORI](https://post-a-week.github.io/blog/GODORI) : https://velog.io/@godori
 - [RAJEPHON](https://post-a-week.github.io/blog/RAJEPHON) : https://rajephon.github.io/blog/
 - [DOONDOONY](https://post-a-week.github.io/blog/DOONDOONY) : https://velog.io/@doondoony
@@ -63,37 +63,38 @@
 - [ ] DALI
 - [ ] DOONDOONY
 - [ ] DEVJANG
-- [ ] TUHBM
+- [ ] TUHBM - [[번역] - 자바스크립트 코드 30초 시리즈<Utiltity> 1편](https://tuhbm.github.io/2019/02/22/javascript30secUtiltity/)
 - [ ] CHRISYANG
 - [ ] JEEWHANR
 - [ ] JYHWNG
 
 #### 2 월 3 주
-- [X] RAJEPHON - [Akka 공부하기 - 01.4 Child Actors, Actor Hierarchies, and Supervision](https://rajephon.github.io/blog/2019/02/17/akka-04/)
-- [X] GODORI - [DOM이란 무엇인가?](https://velog.io/@godori/DOM%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80)
-- [X] YESDOING [(번역) 9 Tricks for Kickass JavaScript Developers in 2019](https://velog.io/@yesdoing/번역-9-Tricks-for-Kickass-JavaScript-Developers-in-2019)
-- [X] DALI [서평-함께자라기](https://medium.com/@lyhy0310/%ED%95%A8%EA%BB%98-%EC%9E%90%EB%9D%BC%EA%B8%B0-52da8d3da56d)
+- [x] RAJEPHON - [Akka 공부하기 - 01.4 Child Actors, Actor Hierarchies, and Supervision](https://rajephon.github.io/blog/2019/02/17/akka-04/)
+- [x] GODORI - [DOM이란 무엇인가?](https://velog.io/@godori/DOM%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80)
+- [x] YESDOING [(번역) 9 Tricks for Kickass JavaScript Developers in 2019](https://velog.io/@yesdoing/번역-9-Tricks-for-Kickass-JavaScript-Developers-in-2019)
+- [x] DALI [서평-함께자라기](https://medium.com/@lyhy0310/%ED%95%A8%EA%BB%98-%EC%9E%90%EB%9D%BC%EA%B8%B0-52da8d3da56d)
 - [ ] DOONDOONY - 벌-금
-- [X] DEVJANG - [(독서) 자바스크립트를 깨우치다](https://devjang.github.io/2019/02/15/2019-02-15-enlightenment-js)
-- [X] TUHBM - [[번역] - 자바스크립트 코드 30초 시리즈<Date> 1편](https://tuhbm.github.io/2019/02/17/javascript30secDate/),
-             [[번역] - 자바스크립트 코드 30초 시리즈<Array> 1편](https://tuhbm.github.io/2019/02/10/javascript30secArray1/) 
-- [X] CHRISYANG - [⚡️ Google Chrome Labs의 Quicklink로 웹페이지 UX 향상시키기](https://velog.io/@chris/-Google-Chrome-Labs%EC%9D%98-Quicklink%EB%A1%9C-%EC%9B%B9%ED%8E%98%EC%9D%B4%EC%A7%80-UX-%ED%96%A5%EC%83%81%EC%8B%9C%ED%82%A4%EA%B8%B0)
-- [X] JEEWHANR - [코딩 인터뷰 완전 분석](https://eclatant.io/2019/02/16/2019-02-16-CtCI/)
-- [X] JYHWNG - [Optimizing Performance with Cache Control](https://jyhwng.github.io/blog/performance-optimization-with-cache-control)
+- [x] DEVJANG - [(독서) 자바스크립트를 깨우치다](https://devjang.github.io/2019/02/15/2019-02-15-enlightenment-js)
+- [x] TUHBM - [[번역] - 자바스크립트 코드 30초 시리즈<Date> 1편](https://tuhbm.github.io/2019/02/17/javascript30secDate/),
+
+     ​                 [[번역] - 자바스크립트 코드 30초 시리즈<Array> 1편](https://tuhbm.github.io/2019/02/10/javascript30secArray1/) 
+- [x] CHRISYANG - [⚡️ Google Chrome Labs의 Quicklink로 웹페이지 UX 향상시키기](https://velog.io/@chris/-Google-Chrome-Labs%EC%9D%98-Quicklink%EB%A1%9C-%EC%9B%B9%ED%8E%98%EC%9D%B4%EC%A7%80-UX-%ED%96%A5%EC%83%81%EC%8B%9C%ED%82%A4%EA%B8%B0)
+- [x] JEEWHANR - [코딩 인터뷰 완전 분석](https://eclatant.io/2019/02/16/2019-02-16-CtCI/)
+- [x] JYHWNG - [Optimizing Performance with Cache Control](https://jyhwng.github.io/blog/performance-optimization-with-cache-control)
 
 
 <details>
 <summary> 🏂Pre-Season ( ~ 2019.2.10) </summary>
 
-- [X] CHRISYANG - [GraphQL 한글 문서 - 12. 모범 사례: 캐싱](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-12-%EB%AA%A8%EB%B2%94-%EC%82%AC%EB%A1%80-%EC%BA%90%EC%8B%B1-d3ea75aa4018)
-- [X] CHRISYANG - [GraphQL 한글 문서 - 11. 모범 사례: 페이지네이션](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-11-%EB%AA%A8%EB%B2%94-%EC%82%AC%EB%A1%80-%ED%8E%98%EC%9D%B4%EC%A7%80%EB%84%A4%EC%9D%B4%EC%85%98-71fc51aa0f7b)
-- [X] CHRISYANG - [GraphQL 한글 문서 - 10. 모범 사례: 인증](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-10-%EB%AA%A8%EB%B2%94-%EC%82%AC%EB%A1%80-%EC%9D%B8%EC%A6%9D-d71d1e356da3)
-- [X] CHRISYANG - [GraphQL 한글 문서 — 9. 모범 사례: HTTP를 통한 서빙](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-9-%EB%AA%A8%EB%B2%94-%EC%82%AC%EB%A1%80-http%EB%A5%BC-%ED%86%B5%ED%95%9C-%EC%84%9C%EB%B9%99-4735d9c8a68b)
-- [X] CHRISYANG - [[번역] 2018년, 내가 모르는 기술들](https://velog.io/@chris/%EB%B2%88%EC%97%AD-2018%EB%85%84-%EB%82%B4%EA%B0%80-%EB%AA%A8%EB%A5%B4%EB%8A%94-%EA%B8%B0%EC%88%A0%EB%93%A4-rnjr3h8mgj)
-- [X] CHRISYANG - [GraphQL 한글 문서 - 8. 모범 사례: 그래프로 생각하기](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-8-%EB%AA%A8%EB%B2%94-%EC%82%AC%EB%A1%80-%EA%B7%B8%EB%9E%98%ED%94%84%EB%A1%9C-%EC%83%9D%EA%B0%81%ED%95%98%EA%B8%B0-d8cfacd9567f)
-- [X] CHRISYANG - [GraphQL 한글 문서 - 7. 모범 사례: 소개](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-7-%EB%AA%A8%EB%B2%94-%EC%82%AC%EB%A1%80-%EC%86%8C%EA%B0%9C-7d318f0cd196)
-- [X] CHRISYANG - [2018 회고](https://medium.com/@ysm0622/2018-%ED%9A%8C%EA%B3%A0-a8518944eda8)
-- [X] CHRISYANG - [GraphQL 한글 문서 - 6. 스키마 확인](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-6-%EC%8A%A4%ED%82%A4%EB%A7%88-%ED%99%95%EC%9D%B8-91b4684ffd3d)
+- [x] CHRISYANG - [GraphQL 한글 문서 - 12. 모범 사례: 캐싱](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-12-%EB%AA%A8%EB%B2%94-%EC%82%AC%EB%A1%80-%EC%BA%90%EC%8B%B1-d3ea75aa4018)
+- [x] CHRISYANG - [GraphQL 한글 문서 - 11. 모범 사례: 페이지네이션](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-11-%EB%AA%A8%EB%B2%94-%EC%82%AC%EB%A1%80-%ED%8E%98%EC%9D%B4%EC%A7%80%EB%84%A4%EC%9D%B4%EC%85%98-71fc51aa0f7b)
+- [x] CHRISYANG - [GraphQL 한글 문서 - 10. 모범 사례: 인증](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-10-%EB%AA%A8%EB%B2%94-%EC%82%AC%EB%A1%80-%EC%9D%B8%EC%A6%9D-d71d1e356da3)
+- [x] CHRISYANG - [GraphQL 한글 문서 — 9. 모범 사례: HTTP를 통한 서빙](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-9-%EB%AA%A8%EB%B2%94-%EC%82%AC%EB%A1%80-http%EB%A5%BC-%ED%86%B5%ED%95%9C-%EC%84%9C%EB%B9%99-4735d9c8a68b)
+- [x] CHRISYANG - [[번역] 2018년, 내가 모르는 기술들](https://velog.io/@chris/%EB%B2%88%EC%97%AD-2018%EB%85%84-%EB%82%B4%EA%B0%80-%EB%AA%A8%EB%A5%B4%EB%8A%94-%EA%B8%B0%EC%88%A0%EB%93%A4-rnjr3h8mgj)
+- [x] CHRISYANG - [GraphQL 한글 문서 - 8. 모범 사례: 그래프로 생각하기](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-8-%EB%AA%A8%EB%B2%94-%EC%82%AC%EB%A1%80-%EA%B7%B8%EB%9E%98%ED%94%84%EB%A1%9C-%EC%83%9D%EA%B0%81%ED%95%98%EA%B8%B0-d8cfacd9567f)
+- [x] CHRISYANG - [GraphQL 한글 문서 - 7. 모범 사례: 소개](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-7-%EB%AA%A8%EB%B2%94-%EC%82%AC%EB%A1%80-%EC%86%8C%EA%B0%9C-7d318f0cd196)
+- [x] CHRISYANG - [2018 회고](https://medium.com/@ysm0622/2018-%ED%9A%8C%EA%B3%A0-a8518944eda8)
+- [x] CHRISYANG - [GraphQL 한글 문서 - 6. 스키마 확인](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-6-%EC%8A%A4%ED%82%A4%EB%A7%88-%ED%99%95%EC%9D%B8-91b4684ffd3d)
 
 </details>
 
@@ -103,26 +104,26 @@
 <summary> 12월 </summary>
 
 #### 12 월 2 주
-- [X] RAJEPHON ([Akka 공부하기 - 01.3 Props와 and IActorRef](https://rajephon.github.io/blog/2018/12/14/akka-03/))
-- [X] GODORI ([JavaScript 엔진 톺아보기(2)](https://velog.io/@godori/JavaScript-%EC%97%94%EC%A7%84-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0-2-pujpqum2ji))
+- [x] RAJEPHON ([Akka 공부하기 - 01.3 Props와 and IActorRef](https://rajephon.github.io/blog/2018/12/14/akka-03/))
+- [x] GODORI ([JavaScript 엔진 톺아보기(2)](https://velog.io/@godori/JavaScript-%EC%97%94%EC%A7%84-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0-2-pujpqum2ji))
 - [ ] YESDOING - 벌금
-- [X] DALI - [리액트_개발환경_갖추기.1](https://medium.com/@lyhy0310/react-dev-setting-v-1-fc0f7882ecd4)
-- [X] DOONDOONY ([🚀 Pipenv 로 파이썬 가상환경 설정](https://velog.io/@doondoony/pipenv-101))
+- [x] DALI - [리액트_개발환경_갖추기.1](https://medium.com/@lyhy0310/react-dev-setting-v-1-fc0f7882ecd4)
+- [x] DOONDOONY ([🚀 Pipenv 로 파이썬 가상환경 설정](https://velog.io/@doondoony/pipenv-101))
 - [ ] DEVJANG - 벌금
 - [ ] TUHBM - 벌금
-- [X] CHRISYANG [GraphQL 한글 문서 — 5. 실행](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-5-%EC%8B%A4%ED%96%89-81891be0770d)
-- [X] JEEWHANR [Async](https://eclatant.io/2018/12/10/2018-12-10-Async/)
+- [x] CHRISYANG [GraphQL 한글 문서 — 5. 실행](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-5-%EC%8B%A4%ED%96%89-81891be0770d)
+- [x] JEEWHANR [Async](https://eclatant.io/2018/12/10/2018-12-10-Async/)
 
 #### 12 월 1 주
-- [X] RAJEPHON ([Akka 공부하기 - 01.2 메세지 정의 및 핸들링](https://rajephon.github.io/blog/2018/12/08/akka-02/))
-- [X] GODORI ([Unity 쉐이더 튜토리얼](https://velog.io/@godori/2018-12-09-2312-%EC%9E%91%EC%84%B1%EB%90%A8-zvjph00nd7))
-- [X] YESDOING ([Hello Coding 그림으로 개념을 이해하는 알고리즘 - 1장 요약](https://velog.io/@yesdoing/Hello-Coding-%EA%B7%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C-%EA%B0%9C%EB%85%90%EC%9D%84-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-1%EC%9E%A5-%EC%9A%94%EC%95%BD))
-- [X] DALI [WebComponents1.1](https://medium.com/@lyhy0310/web-components-01-78d769063ada)
+- [x] RAJEPHON ([Akka 공부하기 - 01.2 메세지 정의 및 핸들링](https://rajephon.github.io/blog/2018/12/08/akka-02/))
+- [x] GODORI ([Unity 쉐이더 튜토리얼](https://velog.io/@godori/2018-12-09-2312-%EC%9E%91%EC%84%B1%EB%90%A8-zvjph00nd7))
+- [x] YESDOING ([Hello Coding 그림으로 개념을 이해하는 알고리즘 - 1장 요약](https://velog.io/@yesdoing/Hello-Coding-%EA%B7%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C-%EA%B0%9C%EB%85%90%EC%9D%84-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-1%EC%9E%A5-%EC%9A%94%EC%95%BD))
+- [x] DALI [WebComponents1.1](https://medium.com/@lyhy0310/web-components-01-78d769063ada)
 - [ ] DOONDOONY - 벌금
 - [ ] DEVJANG - 벌금
-- [X] TUHBM [번역 - OOCSS, BEM, SMACSS를 사용하여 CSS 구조를 효과적으로 구성하는 방법](https://tuhbm.github.io/2018/12/09/cssArchitecture/)
-- [X] CHRISYANG [GraphQL 한글 문서 — 4. 검증](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-4-%EA%B2%80%EC%A6%9D-eaee6ae75f72)
-- [X] JEEWHANR [Cookie || Web Storage](https://eclatant.io/2018/12/09/2018-12-09-Cookie-Web-Storage/)
+- [x] TUHBM [번역 - OOCSS, BEM, SMACSS를 사용하여 CSS 구조를 효과적으로 구성하는 방법](https://tuhbm.github.io/2018/12/09/cssArchitecture/)
+- [x] CHRISYANG [GraphQL 한글 문서 — 4. 검증](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-4-%EA%B2%80%EC%A6%9D-eaee6ae75f72)
+- [x] JEEWHANR [Cookie || Web Storage](https://eclatant.io/2018/12/09/2018-12-09-Cookie-Web-Storage/)
 
 </details>
 
@@ -130,46 +131,46 @@
 <summary> 11월 </summary>
 
 #### 11 월 5 주
-- [X] RAJEPHON ([Akka 공부하기 - 01.액터(Actors)와 액터시스템(ActorSystem)](https://rajephon.github.io/blog/2018/12/02/akka-01/))
-- [X] GODORI ([Fixing Vulnerability in My Package](https://velog.io/@godori/Today-I-Learned-2-kdjp6i252z))
+- [x] RAJEPHON ([Akka 공부하기 - 01.액터(Actors)와 액터시스템(ActorSystem)](https://rajephon.github.io/blog/2018/12/02/akka-01/))
+- [x] GODORI ([Fixing Vulnerability in My Package](https://velog.io/@godori/Today-I-Learned-2-kdjp6i252z))
 - [x] YESDOING ([TypeScript Basic Summary](https://velog.io/@yesdoing/TypeScript-Basic-Summary))
-- [X] DALI [함수형_프로그래밍_1.1](https://medium.com/@lyhy0310/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-01-01-b078d858eac5)
-- [X] DOONDOONY [📦 JavaScript Module System](https://velog.io/@doondoony/JavaScript-Module-System)
-- [X] DEVJANG [(번역) 멋진 ES6 - var, let 그리고 const를 깊이 살펴보다](https://devjang.github.io/2018/11/25/2018-11-25-var-let-and-const)
-- [X] TUHBM [번역 - 자바스크립트 분해(destructuring)](https://tuhbm.github.io/2018/12/01/javascriptDestructuring/)
-- [X] CHRISYANG [GraphQL 한글 문서 — 3. 스키마 & 타입](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-3-%EC%8A%A4%ED%82%A4%EB%A7%88-%ED%83%80%EC%9E%85-28b2da42eec0)
-- [X] JEEWHANR [이번 주에 접했던 것들 #3 : 18-12-02](https://eclatant.io/2018/12/02/2018-12-02-WeeklyHistory/)
+- [x] DALI [함수형_프로그래밍_1.1](https://medium.com/@lyhy0310/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-01-01-b078d858eac5)
+- [x] DOONDOONY [📦 JavaScript Module System](https://velog.io/@doondoony/JavaScript-Module-System)
+- [x] DEVJANG [(번역) 멋진 ES6 - var, let 그리고 const를 깊이 살펴보다](https://devjang.github.io/2018/11/25/2018-11-25-var-let-and-const)
+- [x] TUHBM [번역 - 자바스크립트 분해(destructuring)](https://tuhbm.github.io/2018/12/01/javascriptDestructuring/)
+- [x] CHRISYANG [GraphQL 한글 문서 — 3. 스키마 & 타입](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-3-%EC%8A%A4%ED%82%A4%EB%A7%88-%ED%83%80%EC%9E%85-28b2da42eec0)
+- [x] JEEWHANR [이번 주에 접했던 것들 #3 : 18-12-02](https://eclatant.io/2018/12/02/2018-12-02-WeeklyHistory/)
 
 
 #### 11 월 4 주
-- [X] RAJEPHON ([Akka 공부하기 - 00.액터 모델이란?](https://rajephon.github.io/blog/2018/11/25/akka-00/))
-- [X] GODORI ([JavaScript 엔진 톺아보기(1)](https://velog.io/@godori/JavaScript-%EC%97%94%EC%A7%84-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0-mdjowmjlcb))
+- [x] RAJEPHON ([Akka 공부하기 - 00.액터 모델이란?](https://rajephon.github.io/blog/2018/11/25/akka-00/))
+- [x] GODORI ([JavaScript 엔진 톺아보기(1)](https://velog.io/@godori/JavaScript-%EC%97%94%EC%A7%84-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0-mdjowmjlcb))
 - [x] YESDOING ([JSONP란?](https://velog.io/@yesdoing/JSONP%EB%9E%80-jujowt4jy7))
-- [X] DALI  ([This_JS개념정리](https://medium.com/@lyhy0310/js-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC%ED%95%98%EA%B8%B0-01-this-%ED%8E%B8-9b05663a5aff))
-- [X] DOONDOONY ([🍺 오픈소스에 커밋 with homebrew-cask](https://velog.io/@doondoony/how-to-commit-to-an-open-source-project-with-homebrew-cask))
+- [x] DALI  ([This_JS개념정리](https://medium.com/@lyhy0310/js-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC%ED%95%98%EA%B8%B0-01-this-%ED%8E%B8-9b05663a5aff))
+- [x] DOONDOONY ([🍺 오픈소스에 커밋 with homebrew-cask](https://velog.io/@doondoony/how-to-commit-to-an-open-source-project-with-homebrew-cask))
 - [ ] DEVJANG - 벌금
-- [X] TUHBM ([번역 - 비동기 자바스크립트의 간단한 참고서 3편](https://tuhbm.github.io/2018/11/24/async03/))
-- [X] CHRISYANG ([GraphQL 한글 문서 — 1. GraphQL 소개](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-1-graphql-%EC%86%8C%EA%B0%9C-5f4f38c267b1)) ([GraphQL 한글 문서 — 2. 쿼리 & 뮤테이션](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-2-%EC%BF%BC%EB%A6%AC-%EB%AE%A4%ED%85%8C%EC%9D%B4%EC%85%98-e152f29902e7))
-- [X] JEEWHANR ([이번 주에 접했던 것들 #2 : 18-11-25](https://eclatant.io/2018/11/25/2018-11-25-WeeklyHistory/))
+- [x] TUHBM ([번역 - 비동기 자바스크립트의 간단한 참고서 3편](https://tuhbm.github.io/2018/11/24/async03/))
+- [x] CHRISYANG ([GraphQL 한글 문서 — 1. GraphQL 소개](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-1-graphql-%EC%86%8C%EA%B0%9C-5f4f38c267b1)) ([GraphQL 한글 문서 — 2. 쿼리 & 뮤테이션](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-2-%EC%BF%BC%EB%A6%AC-%EB%AE%A4%ED%85%8C%EC%9D%B4%EC%85%98-e152f29902e7))
+- [x] JEEWHANR ([이번 주에 접했던 것들 #2 : 18-11-25](https://eclatant.io/2018/11/25/2018-11-25-WeeklyHistory/))
 
 #### 11 월 3 주
 - [ ] RAJEPHON - 벌금
-- [X] GODORI ([Notion 1년간의 사용기](https://velog.io/@godori/Notion-1%EB%85%84%EA%B0%84%EC%9D%98-%EC%82%AC%EC%9A%A9%EA%B8%B0-x7jon062yu))
-- [X] YESDOING ([My Weekly Keywords #1](https://velog.io/@yesdoing/My-Weekly-Keywords-1))
+- [x] GODORI ([Notion 1년간의 사용기](https://velog.io/@godori/Notion-1%EB%85%84%EA%B0%84%EC%9D%98-%EC%82%AC%EC%9A%A9%EA%B8%B0-x7jon062yu))
+- [x] YESDOING ([My Weekly Keywords #1](https://velog.io/@yesdoing/My-Weekly-Keywords-1))
 - [ ] DALI - 벌금
-- [X] DOONDOONY ([👨‍💻 [후기] 원티드와 함께하는 개발자 커리어 터치](https://velog.io/@doondoony/%ED%9B%84%EA%B8%B0-%EC%9B%90%ED%8B%B0%EB%93%9C%EC%99%80-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%BB%A4%EB%A6%AC%EC%96%B4-%ED%84%B0%EC%B9%98))
+- [x] DOONDOONY ([👨‍💻 [후기] 원티드와 함께하는 개발자 커리어 터치](https://velog.io/@doondoony/%ED%9B%84%EA%B8%B0-%EC%9B%90%ED%8B%B0%EB%93%9C%EC%99%80-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%BB%A4%EB%A6%AC%EC%96%B4-%ED%84%B0%EC%B9%98))
 - [ ] DEVJANG - 벌금
-- [X] TUHBM ([번역 - 비동기 자바스크립트의 간단한 참고서 2편](https://tuhbm.github.io/2018/11/14/async02/))
+- [x] TUHBM ([번역 - 비동기 자바스크립트의 간단한 참고서 2편](https://tuhbm.github.io/2018/11/14/async02/))
 - [ ] CHRISYANG - 벌금
-- [X] JEEWHANR ([이번 주에 접했던 것들 #1 : 18-11-18](https://eclatant.io/2018/11/18/2018-11-18-WeeklyHistory/))
+- [x] JEEWHANR ([이번 주에 접했던 것들 #1 : 18-11-18](https://eclatant.io/2018/11/18/2018-11-18-WeeklyHistory/))
 
 #### 11 월 2 주
-- [X] RAJEPHON ([OpenWrt 패키지 빌드 환경 세팅하기](https://rajephon.github.io/blog/2018/11/09/build-openwrt-00/))
+- [x] RAJEPHON ([OpenWrt 패키지 빌드 환경 세팅하기](https://rajephon.github.io/blog/2018/11/09/build-openwrt-00/))
 - [ ] GODORI - 벌금
 - [x] YESDOING ([JavaScript Testing Tool - Jest](https://velog.io/@yesdoing/JavaScript-Testing-Tool-Jest-opjocpva77))
 - [ ] DALI - 벌금
 - [ ] DOONDOONY - 1회 면제 사용
-- [X] DEVJANG ([신입 프론트엔드 개발자들의 구직을 위한 소소한 팁](https://devjang.github.io/2018/11/11/2018-11-11-new-fed-begginer-tip))
+- [x] DEVJANG ([신입 프론트엔드 개발자들의 구직을 위한 소소한 팁](https://devjang.github.io/2018/11/11/2018-11-11-new-fed-begginer-tip))
 - [x] TUHBM ([번역 - 비동기 자바스크립트의 간단한 참고서 1편](https://tuhbm.github.io/2018/11/05/async01/))
 - [x] CHRISYANG ([💻 유용한 생산성 툴 몇가지 소개](https://medium.com/@ysm0622/%EC%9C%A0%EC%9A%A9%ED%95%9C-%EC%83%9D%EC%82%B0%EC%84%B1-%ED%88%B4-%EB%AA%87%EA%B0%80%EC%A7%80-%EC%86%8C%EA%B0%9C-a5cda7f18c8b))
 - [x] JEEWHANR ([이번 주에 접했던 것들 #0 : 18-11-11](https://eclatant.io/2018/11/11/2018-11-11-WeeklyHistory/))
@@ -223,7 +224,7 @@
 
 <details>
 <summary> Season 1 </summary>
-  
+
 - GODORI 1회
 - DALI 2회
 - CHRISYANG 1회
@@ -234,7 +235,7 @@
 - TUHBM 1회
 
 ⇒ 총 12회
-  
+
 </details>
 
 ## 🍕 후기
