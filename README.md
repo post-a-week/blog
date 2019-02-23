@@ -65,7 +65,7 @@
 - [ ] DEVJANG
 - [x] TUHBM - [[번역] - 자바스크립트 코드 30초 시리즈<Utiltity> 1편](https://tuhbm.github.io/2019/02/22/javascript30secUtiltity/)
 - [ ] CHRISYANG
-- [ ] JEEWHANR
+- [X] JEEWHANR - [루비 인터뷰 질문](https://eclatant.io/2019/02/23/2019-02-23-Ruby/)
 - [ ] JYHWNG
 
 #### 2 월 3 주
