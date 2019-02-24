@@ -64,7 +64,7 @@
 - [ ] DOONDOONY - 벌-금
 - [X] DEVJANG - [(독서) 모던 자바스크립트](https://devjang.github.io/2019/02/22/2019-02-22-understanding-ecmascript-6)
 - [x] TUHBM - [[번역] - 자바스크립트 코드 30초 시리즈<Utiltity> 1편](https://tuhbm.github.io/2019/02/22/javascript30secUtiltity/)
-- [ ] CHRISYANG
+- [X] CHRISYANG - [웹 개발자 포트폴리오를 위한 10가지 팁](https://velog.io/@chris/%EC%9B%B9-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%EB%A5%BC-%EC%9C%84%ED%95%9C-10%EA%B0%80%EC%A7%80-%ED%8C%81)
 - [X] JEEWHANR - [루비 인터뷰 질문](https://eclatant.io/2019/02/23/2019-02-23-Ruby/)
 - [ ] JYHWNG
 
