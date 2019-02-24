@@ -62,7 +62,7 @@
 - [X] YESDOING - [TypeScript with React + Redux 사용하기](https://velog.io/@yesdoing/TypeScript-with-React-Redux-사용하기-k5jsis62ah)
 - [ ] DALI
 - [ ] DOONDOONY - 벌-금
-- [ ] DEVJANG
+- [X] DEVJANG - [(독서) 모던 자바스크립트](https://devjang.github.io/2019/02/22/2019-02-22-understanding-ecmascript-6)
 - [x] TUHBM - [[번역] - 자바스크립트 코드 30초 시리즈<Utiltity> 1편](https://tuhbm.github.io/2019/02/22/javascript30secUtiltity/)
 - [ ] CHRISYANG
 - [X] JEEWHANR - [루비 인터뷰 질문](https://eclatant.io/2019/02/23/2019-02-23-Ruby/)
