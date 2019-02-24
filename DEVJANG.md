@@ -1,5 +1,9 @@
 # Posts
 
+## 2 월 4 주
+
+[(독서) 모던 자바스크립트](https://devjang.github.io/2019/02/22/2019-02-22-understanding-ecmascript-6)
+
 ## 2 월 3 주
 
 [(독서) 자바스크립트를 깨우치다](https://devjang.github.io/2019/02/15/2019-02-15-enlightenment-js)
