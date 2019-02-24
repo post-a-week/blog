@@ -59,7 +59,7 @@
 #### 2월 4주
 - [ ] RAJEPHON
 - [ ] GODORI
-- [ ] YESDOING 
+- [X] YESDOING - [TypeScript with React + Redux 사용하기](https://velog.io/@yesdoing/TypeScript-with-React-Redux-사용하기-k5jsis62ah)
 - [ ] DALI
 - [ ] DOONDOONY - 벌-금
 - [ ] DEVJANG
