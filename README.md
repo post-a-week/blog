@@ -57,7 +57,7 @@
 ### 2019
 
 #### 2월 4주
-- [ ] RAJEPHON
+- [ ] RAJEPHON - 1회 면제 사용
 - [ ] GODORI
 - [X] YESDOING - [TypeScript with React + Redux 사용하기](https://velog.io/@yesdoing/TypeScript-with-React-Redux-사용하기-k5jsis62ah)
 - [ ] DALI
