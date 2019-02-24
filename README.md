@@ -58,7 +58,7 @@
 
 #### 2월 4주
 - [ ] RAJEPHON - 1회 면제 사용
-- [ ] GODORI
+- [X] GODORI - [Today I Learned (feat.Notion 템플릿)](https://velog.io/@godori/Today-I-Learned-feat.Notion-%ED%85%9C%ED%94%8C%EB%A6%BF-p7jsiy5i7x)
 - [X] YESDOING - [TypeScript with React + Redux 사용하기](https://velog.io/@yesdoing/TypeScript-with-React-Redux-사용하기-k5jsis62ah)
 - [ ] DALI
 - [ ] DOONDOONY - 벌-금
@@ -75,9 +75,7 @@
 - [x] DALI [서평-함께자라기](https://medium.com/@lyhy0310/%ED%95%A8%EA%BB%98-%EC%9E%90%EB%9D%BC%EA%B8%B0-52da8d3da56d)
 - [ ] DOONDOONY - 벌-금
 - [x] DEVJANG - [(독서) 자바스크립트를 깨우치다](https://devjang.github.io/2019/02/15/2019-02-15-enlightenment-js)
-- [x] TUHBM - [[번역] - 자바스크립트 코드 30초 시리즈<Date> 1편](https://tuhbm.github.io/2019/02/17/javascript30secDate/),
-
-     ​                 [[번역] - 자바스크립트 코드 30초 시리즈<Array> 1편](https://tuhbm.github.io/2019/02/10/javascript30secArray1/) 
+- [x] TUHBM - [[번역] - 자바스크립트 코드 30초 시리즈<Date> 1편](https://tuhbm.github.io/2019/02/17/javascript30secDate/),[[번역] - 자바스크립트 코드 30초 시리즈<Array> 1편](https://tuhbm.github.io/2019/02/10/javascript30secArray1/) 
 - [x] CHRISYANG - [⚡️ Google Chrome Labs의 Quicklink로 웹페이지 UX 향상시키기](https://velog.io/@chris/-Google-Chrome-Labs%EC%9D%98-Quicklink%EB%A1%9C-%EC%9B%B9%ED%8E%98%EC%9D%B4%EC%A7%80-UX-%ED%96%A5%EC%83%81%EC%8B%9C%ED%82%A4%EA%B8%B0)
 - [x] JEEWHANR - [코딩 인터뷰 완전 분석](https://eclatant.io/2019/02/16/2019-02-16-CtCI/)
 - [x] JYHWNG - [Optimizing Performance with Cache Control](https://jyhwng.github.io/blog/performance-optimization-with-cache-control)
