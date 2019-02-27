@@ -1,7 +1,10 @@
 # Posts
 
 ## 2월 4주
- [[번역] - 자바스크립트 코드 30초 시리즈<Utiltity> 1편](https://tuhbm.github.io/2019/02/22/javascript30secUtiltity/)
+[Typescript - 접근제한자](https://tuhbm.github.io/2019/02/27/accessModifier/)
+
+## 2월 4주
+[[번역] - 자바스크립트 코드 30초 시리즈<Utiltity> 1편](https://tuhbm.github.io/2019/02/22/javascript30secUtiltity/)
 
 ## 2월 3주
 
