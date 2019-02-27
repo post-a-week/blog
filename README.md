@@ -56,6 +56,18 @@
 
 ### 2019
 
+#### 2월 5주
+- [ ] RAJEPHON
+- [ ] GODORI
+- [ ] YESDOING
+- [ ] DALI
+- [ ] DOONDOONY
+- [ ] DEVJANG
+- [X] TUHBM - [Typescript - 접근제한자](https://tuhbm.github.io/2019/02/27/accessModifier/)
+- [ ] CHRISYANG
+- [ ] JEEWHANR
+- [ ] JYHWNG
+
 #### 2월 4주
 - [ ] RAJEPHON - 1회 면제 사용
 - [X] GODORI - [Today I Learned (feat.Notion 템플릿)](https://velog.io/@godori/Today-I-Learned-feat.Notion-%ED%85%9C%ED%94%8C%EB%A6%BF-p7jsiy5i7x)
@@ -63,7 +75,7 @@
 - [ ] DALI
 - [ ] DOONDOONY - 벌-금
 - [X] DEVJANG - [(독서) 모던 자바스크립트](https://devjang.github.io/2019/02/22/2019-02-22-understanding-ecmascript-6)
-- [x] TUHBM - [[번역] - 자바스크립트 코드 30초 시리즈<Utiltity> 1편](https://tuhbm.github.io/2019/02/22/javascript30secUtiltity/)
+- [X] TUHBM - [[번역] - 자바스크립트 코드 30초 시리즈<Utiltity> 1편](https://tuhbm.github.io/2019/02/22/javascript30secUtiltity/)
 - [X] CHRISYANG - [웹 개발자 포트폴리오를 위한 10가지 팁](https://velog.io/@chris/%EC%9B%B9-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%EB%A5%BC-%EC%9C%84%ED%95%9C-10%EA%B0%80%EC%A7%80-%ED%8C%81)
 - [X] JEEWHANR - [루비 인터뷰 질문](https://eclatant.io/2019/02/23/2019-02-23-Ruby/)
 - [ ] JYHWNG
@@ -75,7 +87,7 @@
 - [x] DALI [서평-함께자라기](https://medium.com/@lyhy0310/%ED%95%A8%EA%BB%98-%EC%9E%90%EB%9D%BC%EA%B8%B0-52da8d3da56d)
 - [ ] DOONDOONY - 벌-금
 - [x] DEVJANG - [(독서) 자바스크립트를 깨우치다](https://devjang.github.io/2019/02/15/2019-02-15-enlightenment-js)
-- [x] TUHBM - [[번역] - 자바스크립트 코드 30초 시리즈<Date> 1편](https://tuhbm.github.io/2019/02/17/javascript30secDate/),[[번역] - 자바스크립트 코드 30초 시리즈<Array> 1편](https://tuhbm.github.io/2019/02/10/javascript30secArray1/) 
+- [X] TUHBM - [[번역] - 자바스크립트 코드 30초 시리즈<Date> 1편](https://tuhbm.github.io/2019/02/17/javascript30secDate/),[[번역] - 자바스크립트 코드 30초 시리즈<Array> 1편](https://tuhbm.github.io/2019/02/10/javascript30secArray1/) 
 - [x] CHRISYANG - [⚡️ Google Chrome Labs의 Quicklink로 웹페이지 UX 향상시키기](https://velog.io/@chris/-Google-Chrome-Labs%EC%9D%98-Quicklink%EB%A1%9C-%EC%9B%B9%ED%8E%98%EC%9D%B4%EC%A7%80-UX-%ED%96%A5%EC%83%81%EC%8B%9C%ED%82%A4%EA%B8%B0)
 - [x] JEEWHANR - [코딩 인터뷰 완전 분석](https://eclatant.io/2019/02/16/2019-02-16-CtCI/)
 - [x] JYHWNG - [Optimizing Performance with Cache Control](https://jyhwng.github.io/blog/performance-optimization-with-cache-control)
