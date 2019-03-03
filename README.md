@@ -72,7 +72,7 @@
 - [ ] RAJEPHON - 1회 면제 사용
 - [X] GODORI - [Today I Learned (feat.Notion 템플릿)](https://velog.io/@godori/Today-I-Learned-feat.Notion-%ED%85%9C%ED%94%8C%EB%A6%BF-p7jsiy5i7x)
 - [X] YESDOING - [TypeScript with React + Redux 사용하기](https://velog.io/@yesdoing/TypeScript-with-React-Redux-사용하기-k5jsis62ah)
-- [ ] DALI
+- [ ] DALI - 1회 면제 사용
 - [ ] DOONDOONY - 벌-금
 - [X] DEVJANG - [(독서) 모던 자바스크립트](https://devjang.github.io/2019/02/22/2019-02-22-understanding-ecmascript-6)
 - [X] TUHBM - [[번역] - 자바스크립트 코드 30초 시리즈<Utiltity> 1편](https://tuhbm.github.io/2019/02/22/javascript30secUtiltity/)
