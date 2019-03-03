@@ -57,7 +57,7 @@
 ### 2019
 
 #### 2월 5주
-- [ ] RAJEPHON
+- [X] RAJEPHON - [깃허브 페이지에 커스텀 도메인 연결하기 🛰](https://blog.rajephon.dev/2019/03/01/github-custom-domain-with-cloudflare/)
 - [ ] GODORI
 - [ ] YESDOING
 - [ ] DALI

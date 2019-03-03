@@ -2,11 +2,21 @@
 
 # 2019
 
+## 2월 5주
+
+- [깃허브 페이지에 커스텀 도메인 연결하기 🛰](https://blog.rajephon.dev/2019/03/01/github-custom-domain-with-cloudflare/)
+
+## 2월 4주
+
+- 1회 면제 사용
+
 ## 2월 3주
 
 - [Akka 공부하기 - 01.4 Child Actors, Actor Hierarchies, and Supervision](https://rajephon.github.io/blog/2019/02/17/akka-04/)
 
 # 2018
+<details>
+<summary> 접기 </summary>
 
 ## 12월 2주
 
@@ -54,3 +64,5 @@
 ## 10월 1주
 
 - [아마존 SES 세팅부터 Node.js 활용 메일 전송까지](https://rajephon.github.io/blog/2018/10/06/Amazon-SES-Setup-00/)
+
+</details>
