@@ -60,7 +60,7 @@
 - [X] RAJEPHON - [깃허브 페이지에 커스텀 도메인 연결하기 🛰](https://blog.rajephon.dev/2019/03/01/github-custom-domain-with-cloudflare/)
 - [ ] GODORI
 - [ ] YESDOING
-- [ ] DALI - [WIL 0225~0303](https://medium.com/@lyhy0310/wil-0225-03-03-4c30aadd437e)
+- [X] DALI - [WIL 0225~0303](https://medium.com/@lyhy0310/wil-0225-03-03-4c30aadd437e)
 - [ ] DOONDOONY
 - [ ] DEVJANG
 - [X] TUHBM - [Typescript - 접근제한자](https://tuhbm.github.io/2019/02/27/accessModifier/)
