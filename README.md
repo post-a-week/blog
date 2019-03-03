@@ -61,7 +61,7 @@
 - [ ] GODORI
 - [ ] YESDOING
 - [X] DALI - [WIL 0225~0303](https://medium.com/@lyhy0310/wil-0225-03-03-4c30aadd437e)
-- [ ] DOONDOONY
+- [X] DOONDOONY - [IP(Internet Protocol) 란 무엇인가](https://velog.io/@doondoony/ip101)
 - [X] DEVJANG - [JS30 - 스터디](https://devjang.github.io/2019/03/03/2019-03-03-javascipt30-1)
 - [X] TUHBM - [Typescript - 접근제한자](https://tuhbm.github.io/2019/02/27/accessModifier/)
 - [ ] CHRISYANG
