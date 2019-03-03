@@ -1,5 +1,9 @@
 # Posts
 
+## 2 월 5 주
+
+[JS30 - 스터디](https://devjang.github.io/2019/03/03/2019-03-03-javascipt30-1)
+
 ## 2 월 4 주
 
 [(독서) 모던 자바스크립트](https://devjang.github.io/2019/02/22/2019-02-22-understanding-ecmascript-6)
