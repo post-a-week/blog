@@ -3,6 +3,12 @@
 ## 2월 5주
 [👻 IP(Internet Protocol) 란 무엇인가](https://velog.io/@doondoony/ip101)
 
+## 2월 4주
+골든 벌-금
+
+## 2월 3주
+골든 벌-금
+
 ## 12월 2주
 [🚀 Pipenv 로 파이썬 가상환경 설정](https://velog.io/@doondoony/pipenv-101)
 
