@@ -1,7 +1,7 @@
 # Posts
 
 ## 2월 5주
-[IP(Internet Protocol) 란 무엇인가](https://velog.io/@doondoony/ip101)
+[👻 IP(Internet Protocol) 란 무엇인가](https://velog.io/@doondoony/ip101)
 
 ## 12월 2주
 [🚀 Pipenv 로 파이썬 가상환경 설정](https://velog.io/@doondoony/pipenv-101)
