@@ -2,7 +2,7 @@
 
 ## 2월 5주  
 
-- [X] DALI - [WIL 0225~0303](https://medium.com/@lyhy0310/wil-0225-03-03-4c30aadd437e)
+- DALI - [WIL 0225~0303](https://medium.com/@lyhy0310/wil-0225-03-03-4c30aadd437e)
 ## 2월 4주  
 
 - ...
