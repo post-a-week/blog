@@ -70,7 +70,7 @@
 
 #### 3월 1주
 - [X] RAJEPHON - [깃허브 페이지에 커스텀 도메인 연결하기 🛰](https://blog.rajephon.dev/2019/03/01/github-custom-domain-with-cloudflare/)
-- [X] GODORI - [velog 배너 생성기를 만들어 봅시다](https://velog.io/@godori/2019-03-03-2303-작성됨)
+- [X] GODORI - [velog 배너 생성기를 만들어 봅시다](https://velog.io/@godori/banner-maker)
 - [ ] YESDOING
 - [X] DALI - [WIL 0225~0303](https://medium.com/@lyhy0310/wil-0225-03-03-4c30aadd437e)
 - [X] DOONDOONY - [IP(Internet Protocol) 란 무엇인가](https://velog.io/@doondoony/ip101)
@@ -244,6 +244,10 @@
 
 ## 💰 벌금 현황
 
+### 2019
+**Season 2**
+
+### 2018
 <details>
 <summary> Season 1 </summary>
 
