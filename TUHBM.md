@@ -1,6 +1,9 @@
 # Posts
 
-## 2월 4주
+## 3월 2주
+[SEO(Search Engine Optimization) 검색 엔진 최적화 2편](https://tuhbm.github.io/2019/03/04/seo2/)
+
+## 3월 1주
 [Typescript - 접근제한자](https://tuhbm.github.io/2019/02/27/accessModifier/)
 
 ## 2월 4주

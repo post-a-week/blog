@@ -63,7 +63,7 @@
 - [ ] DALI
 - [ ] DOONDOONY
 - [ ] DEVJANG
-- [ ] TUHBM
+- [X] TUHBM - [SEO(Search Engine Optimization) 검색 엔진 최적화 2편](https://tuhbm.github.io/2019/03/04/seo2/)
 - [ ] CHRISYANG
 - [ ] JEEWHANR
 - [ ] JYHWNG
