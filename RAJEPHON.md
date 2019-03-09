@@ -4,7 +4,7 @@
 
 ## 3월 2주
 
-- [Today I Learned (20190303~20190309)](https://blog.rajephon.dev/2019/03/09/today-i-learned-20190303-20190309/)
+- [얼랭 학습기 (20190303~20190309)](https://blog.rajephon.dev/2019/03/09/erlang-learned-20190303-20190309/)
 
 ## 3월 1주
 
