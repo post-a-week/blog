@@ -66,7 +66,7 @@
 - [X] TUHBM - [SEO(Search Engine Optimization) 검색 엔진 최적화 2편](https://tuhbm.github.io/2019/03/04/seo2/)
 - [ ] CHRISYANG
 - [ ] JEEWHANR
-- [ ] JYHWNG
+- [X] JYHWNG - [Let's use input to the fullest](https://jyhwng.github.io/blog/html5-input)
 
 #### 3월 1주
 - [X] RAJEPHON - [깃허브 페이지에 커스텀 도메인 연결하기 🛰](https://blog.rajephon.dev/2019/03/01/github-custom-domain-with-cloudflare/)
@@ -78,7 +78,7 @@
 - [X] TUHBM - [Typescript - 접근제한자](https://tuhbm.github.io/2019/02/27/accessModifier/)
 - [X] CHRISYANG - 벌금
 - [ ] JEEWHANR
-- [ ] JYHWNG
+- [ ] JYHWNG - 벌금
 
 #### 2월 4주
 - [ ] RAJEPHON - 1회 면제 사용
@@ -90,7 +90,7 @@
 - [X] TUHBM - [[번역] - 자바스크립트 코드 30초 시리즈<Utiltity> 1편](https://tuhbm.github.io/2019/02/22/javascript30secUtiltity/)
 - [X] CHRISYANG - [웹 개발자 포트폴리오를 위한 10가지 팁](https://velog.io/@chris/%EC%9B%B9-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%EB%A5%BC-%EC%9C%84%ED%95%9C-10%EA%B0%80%EC%A7%80-%ED%8C%81)
 - [X] JEEWHANR - [루비 인터뷰 질문](https://eclatant.io/2019/02/23/2019-02-23-Ruby/)
-- [ ] JYHWNG
+- [ ] JYHWNG - 1회 면제 
 
 #### 2 월 3 주
 - [x] RAJEPHON - [Akka 공부하기 - 01.4 Child Actors, Actor Hierarchies, and Supervision](https://blog.rajephon.dev/2019/02/17/akka-04/)
