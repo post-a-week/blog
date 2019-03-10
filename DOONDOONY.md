@@ -1,6 +1,9 @@
 # Posts
 
-## 2월 5주
+## 3월 2주
+[🐍 How Python works?](https://velog.io/@doondoony/How-Python-works)
+
+## 3월 1주
 [👻 IP(Internet Protocol) 란 무엇인가](https://velog.io/@doondoony/ip101)
 
 ## 2월 4주
