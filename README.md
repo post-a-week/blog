@@ -61,7 +61,7 @@
 - [ ] GODORI
 - [X] YESDOING - [JavaScript Collections](https://velog.io/@yesdoing/JavaScript-Collections)
 - [ ] DALI
-- [ ] DOONDOONY
+- [X] DOONDOONY - [How Python works?](https://velog.io/@doondoony/How-Python-works)
 - [ ] DEVJANG
 - [X] TUHBM - [SEO(Search Engine Optimization) 검색 엔진 최적화 2편](https://tuhbm.github.io/2019/03/04/seo2/)
 - [ ] CHRISYANG
