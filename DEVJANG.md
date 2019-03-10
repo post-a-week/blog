@@ -1,6 +1,10 @@
 # Posts
 
-## 2 월 5 주
+## 3 월 2 주
+
+[JS30 - 스터디](https://devjang.github.io/2019/03/10/2019-03-10-javascipt30-2)
+
+## 3 월 1 주
 
 [JS30 - 스터디](https://devjang.github.io/2019/03/03/2019-03-03-javascipt30-1)
 
