@@ -62,7 +62,7 @@
 - [X] YESDOING - [JavaScript Collections](https://velog.io/@yesdoing/JavaScript-Collections)
 - [ ] DALI
 - [X] DOONDOONY - [How Python works?](https://velog.io/@doondoony/How-Python-works)
-- [ ] DEVJANG
+- [X] DEVJANG - [JS30 - 스터디](https://devjang.github.io/2019/03/10/2019-03-10-javascipt30-2)
 - [X] TUHBM - [SEO(Search Engine Optimization) 검색 엔진 최적화 2편](https://tuhbm.github.io/2019/03/04/seo2/)
 - [ ] CHRISYANG
 - [ ] JEEWHANR
