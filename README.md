@@ -56,9 +56,21 @@
 
 ### 2019
 
+#### 3월 3주
+- [ ] RAJEPHON
+- [ ] GODORI
+- [ ] YESDOING 
+- [ ] DALI
+- [ ] DOONDOONY
+- [ ] DEVJANG
+- [ ] TUHBM
+- [ ] CHRISYANG
+- [ ] JEEWHANR
+- [ ] JYHWNG
+
 #### 3월 2주
 - [X] RAJEPHON - [얼랭 학습기 (20190303~20190309)](https://blog.rajephon.dev/2019/03/09/erlang-learned-20190303-20190309/)
-- [ ] GODORI
+- [ ] GODORI - 면제권 사용
 - [X] YESDOING - [JavaScript Collections](https://velog.io/@yesdoing/JavaScript-Collections)
 - [ ] DALI
 - [X] DOONDOONY - [How Python works?](https://velog.io/@doondoony/How-Python-works)
