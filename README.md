@@ -29,7 +29,7 @@
 - [TUHBM](https://post-a-week.github.io/blog/TUHBM) : https://tuhbm.github.io/
 - [CHRISYANG](https://post-a-week.github.io/blog/CHRISYANG) : https://medium.com/@ysm0622
 - [JEEWHANR](https://github.com/post-a-week/blog/blob/master/JEEWHANR.md) : https://eclatant.io/
-- [JYHWNG](https://github.com/post-a-week/blog/blob/master/JYHWNG.md): https://jyhwng.github.io/blog/
+- [JYHWNG](https://github.com/post-a-week/blog/blob/master/JYHWNG.md): https://jyhwng.github.io/
 
 ## 📘 History
 
