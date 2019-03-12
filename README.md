@@ -63,7 +63,7 @@
 - [ ] DALI
 - [ ] DOONDOONY
 - [ ] DEVJANG
-- [ ] TUHBM
+- [X] TUHBM - [SEO(Search Engine Optimization) 검색 엔진 최적화 3편](https://tuhbm.github.io/2019/03/12/seo3/)
 - [ ] CHRISYANG
 - [ ] JEEWHANR
 - [ ] JYHWNG
@@ -99,7 +99,7 @@
 - [ ] DALI - 1회 면제 사용
 - [ ] DOONDOONY - 벌-금
 - [X] DEVJANG - [(독서) 모던 자바스크립트](https://devjang.github.io/2019/02/22/2019-02-22-understanding-ecmascript-6)
-- [X] TUHBM - [[번역] - 자바스크립트 코드 30초 시리즈<Utiltity> 1편](https://tuhbm.github.io/2019/02/22/javascript30secUtiltity/)
+- [X] TUHBM - [(번역) - 자바스크립트 코드 30초 시리즈<Utiltity> 1편](https://tuhbm.github.io/2019/02/22/javascript30secUtiltity/)
 - [X] CHRISYANG - [웹 개발자 포트폴리오를 위한 10가지 팁](https://velog.io/@chris/%EC%9B%B9-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%EB%A5%BC-%EC%9C%84%ED%95%9C-10%EA%B0%80%EC%A7%80-%ED%8C%81)
 - [X] JEEWHANR - [루비 인터뷰 질문](https://eclatant.io/2019/02/23/2019-02-23-Ruby/)
 - [ ] JYHWNG - 1회 면제 
@@ -111,7 +111,7 @@
 - [x] DALI [서평-함께자라기](https://medium.com/@lyhy0310/%ED%95%A8%EA%BB%98-%EC%9E%90%EB%9D%BC%EA%B8%B0-52da8d3da56d)
 - [ ] DOONDOONY - 벌-금
 - [x] DEVJANG - [(독서) 자바스크립트를 깨우치다](https://devjang.github.io/2019/02/15/2019-02-15-enlightenment-js)
-- [X] TUHBM - [[번역] - 자바스크립트 코드 30초 시리즈<Date> 1편](https://tuhbm.github.io/2019/02/17/javascript30secDate/),[[번역] - 자바스크립트 코드 30초 시리즈<Array> 1편](https://tuhbm.github.io/2019/02/10/javascript30secArray1/) 
+- [X] TUHBM - [(번역) - 자바스크립트 코드 30초 시리즈<Date> 1편](https://tuhbm.github.io/2019/02/17/javascript30secDate/),[(번역) - 자바스크립트 코드 30초 시리즈<Array> 1편](https://tuhbm.github.io/2019/02/10/javascript30secArray1/) 
 - [x] CHRISYANG - [⚡️ Google Chrome Labs의 Quicklink로 웹페이지 UX 향상시키기](https://velog.io/@chris/-Google-Chrome-Labs%EC%9D%98-Quicklink%EB%A1%9C-%EC%9B%B9%ED%8E%98%EC%9D%B4%EC%A7%80-UX-%ED%96%A5%EC%83%81%EC%8B%9C%ED%82%A4%EA%B8%B0)
 - [x] JEEWHANR - [코딩 인터뷰 완전 분석](https://eclatant.io/2019/02/16/2019-02-16-CtCI/)
 - [x] JYHWNG - [Optimizing Performance with Cache Control](https://jyhwng.github.io/blog/performance-optimization-with-cache-control)
@@ -124,7 +124,7 @@
 - [x] CHRISYANG - [GraphQL 한글 문서 - 11. 모범 사례: 페이지네이션](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-11-%EB%AA%A8%EB%B2%94-%EC%82%AC%EB%A1%80-%ED%8E%98%EC%9D%B4%EC%A7%80%EB%84%A4%EC%9D%B4%EC%85%98-71fc51aa0f7b)
 - [x] CHRISYANG - [GraphQL 한글 문서 - 10. 모범 사례: 인증](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-10-%EB%AA%A8%EB%B2%94-%EC%82%AC%EB%A1%80-%EC%9D%B8%EC%A6%9D-d71d1e356da3)
 - [x] CHRISYANG - [GraphQL 한글 문서 — 9. 모범 사례: HTTP를 통한 서빙](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-9-%EB%AA%A8%EB%B2%94-%EC%82%AC%EB%A1%80-http%EB%A5%BC-%ED%86%B5%ED%95%9C-%EC%84%9C%EB%B9%99-4735d9c8a68b)
-- [x] CHRISYANG - [[번역] 2018년, 내가 모르는 기술들](https://velog.io/@chris/%EB%B2%88%EC%97%AD-2018%EB%85%84-%EB%82%B4%EA%B0%80-%EB%AA%A8%EB%A5%B4%EB%8A%94-%EA%B8%B0%EC%88%A0%EB%93%A4-rnjr3h8mgj)
+- [x] CHRISYANG - [(번역) 2018년, 내가 모르는 기술들](https://velog.io/@chris/%EB%B2%88%EC%97%AD-2018%EB%85%84-%EB%82%B4%EA%B0%80-%EB%AA%A8%EB%A5%B4%EB%8A%94-%EA%B8%B0%EC%88%A0%EB%93%A4-rnjr3h8mgj)
 - [x] CHRISYANG - [GraphQL 한글 문서 - 8. 모범 사례: 그래프로 생각하기](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-8-%EB%AA%A8%EB%B2%94-%EC%82%AC%EB%A1%80-%EA%B7%B8%EB%9E%98%ED%94%84%EB%A1%9C-%EC%83%9D%EA%B0%81%ED%95%98%EA%B8%B0-d8cfacd9567f)
 - [x] CHRISYANG - [GraphQL 한글 문서 - 7. 모범 사례: 소개](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-7-%EB%AA%A8%EB%B2%94-%EC%82%AC%EB%A1%80-%EC%86%8C%EA%B0%9C-7d318f0cd196)
 - [x] CHRISYANG - [2018 회고](https://medium.com/@ysm0622/2018-%ED%9A%8C%EA%B3%A0-a8518944eda8)
