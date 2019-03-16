@@ -57,7 +57,7 @@
 ### 2019
 
 #### 3월 3주
-- [ ] RAJEPHON
+- [X] RAJEPHON - [Erlang - 00. Hello World](https://blog.rajephon.dev/2019/03/13/erlang-00-hello-world/)
 - [ ] GODORI
 - [ ] YESDOING 
 - [ ] DALI
