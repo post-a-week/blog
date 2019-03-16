@@ -2,6 +2,10 @@
 
 # 2019
 
+## 3월 3주
+
+- [Erlang - 00. Hello World](https://blog.rajephon.dev/2019/03/13/erlang-00-hello-world/)
+
 ## 3월 2주
 
 - [얼랭 학습기 (20190303~20190309)](https://blog.rajephon.dev/2019/03/09/erlang-learned-20190303-20190309/)
