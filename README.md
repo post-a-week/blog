@@ -59,7 +59,7 @@
 #### 3월 3주
 - [X] RAJEPHON - [Erlang - 00. Hello World](https://blog.rajephon.dev/2019/03/13/erlang-00-hello-world/)
 - [ ] GODORI
-- [ ] YESDOING 
+- [ ] YESDOING - 벌금
 - [ ] DALI
 - [ ] DOONDOONY
 - [X] DEVJANG - [JS30 - 스터디](https://devjang.github.io/2019/03/17/2019-03-17-javascipt30-3)
