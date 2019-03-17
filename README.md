@@ -56,9 +56,11 @@
 
 ### 2019
 
+#### 3월 4주
+
 #### 3월 3주
 - [X] RAJEPHON - [Erlang - 00. Hello World](https://blog.rajephon.dev/2019/03/13/erlang-00-hello-world/)
-- [ ] GODORI
+- [X] GODORI - [Today I Lerned (march)](https://velog.io/@godori/TIL-March)
 - [ ] YESDOING - 벌금
 - [ ] DALI
 - [ ] DOONDOONY
