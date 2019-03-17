@@ -1,5 +1,8 @@
 # Posts
 
+## 3월 3주
+[🐍 Python GIL](https://velog.io/@doondoony/Python-GIL)
+
 ## 3월 2주
 [🐍 How Python works?](https://velog.io/@doondoony/How-Python-works)
 
