@@ -62,7 +62,7 @@
 - [ ] YESDOING 
 - [ ] DALI
 - [ ] DOONDOONY
-- [ ] DEVJANG
+- [X] DEVJANG - [JS30 - 스터디](https://devjang.github.io/2019/03/17/2019-03-17-javascipt30-3)
 - [X] TUHBM - [SEO(Search Engine Optimization) 검색 엔진 최적화 3편](https://tuhbm.github.io/2019/03/12/seo3/)
 - [ ] CHRISYANG
 - [ ] JEEWHANR
