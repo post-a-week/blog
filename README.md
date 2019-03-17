@@ -63,7 +63,7 @@
 - [X] GODORI - [Today I Lerned (march)](https://velog.io/@godori/TIL-March)
 - [ ] YESDOING - 벌금
 - [ ] DALI
-- [ ] DOONDOONY
+- [X] DOONDOONY - [Python GIL](https://velog.io/@doondoony/Python-GIL)
 - [X] DEVJANG - [JS30 - 스터디](https://devjang.github.io/2019/03/17/2019-03-17-javascipt30-3)
 - [X] TUHBM - [SEO(Search Engine Optimization) 검색 엔진 최적화 3편](https://tuhbm.github.io/2019/03/12/seo3/)
 - [ ] CHRISYANG
