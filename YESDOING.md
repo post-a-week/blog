@@ -1,5 +1,8 @@
 # [YESDOING](https://velog.io/@yesdoing)
 
+## 3월 3주 
+벌금
+
 ## 3월 2주 
 [JavaScript Collections](https://velog.io/@yesdoing/JavaScript-Collections)
 
