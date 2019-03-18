@@ -57,18 +57,28 @@
 ### 2019
 
 #### 3월 4주
+- [ ] RAJEPHON
+- [ ] GODORI
+- [ ] YESDOING 
+- [ ] DALI
+- [ ] DOONDOONY
+- [ ] DEVJANG
+- [ ] TUHBM
+- [ ] CHRISYANG
+- [ ] JEEWHANR
+- [ ] JYHWNG
 
 #### 3월 3주
 - [X] RAJEPHON - [Erlang - 00. Hello World](https://blog.rajephon.dev/2019/03/13/erlang-00-hello-world/)
 - [X] GODORI - [Today I Lerned (march)](https://velog.io/@godori/TIL-March)
 - [ ] YESDOING - 벌금
-- [ ] DALI
+- [ ] DALI - 벌금
 - [X] DOONDOONY - [Python GIL](https://velog.io/@doondoony/Python-GIL)
 - [X] DEVJANG - [JS30 - 스터디](https://devjang.github.io/2019/03/17/2019-03-17-javascipt30-3)
 - [X] TUHBM - [SEO(Search Engine Optimization) 검색 엔진 최적화 3편](https://tuhbm.github.io/2019/03/12/seo3/)
-- [ ] CHRISYANG
-- [ ] JEEWHANR
-- [ ] JYHWNG
+- [ ] CHRISYANG - 벌금
+- [ ] JEEWHANR - 벌금
+- [ ] JYHWNG - 벌금
 
 #### 3월 2주
 - [X] RAJEPHON - [얼랭 학습기 (20190303~20190309)](https://blog.rajephon.dev/2019/03/09/erlang-learned-20190303-20190309/)
@@ -78,8 +88,8 @@
 - [X] DOONDOONY - [How Python works?](https://velog.io/@doondoony/How-Python-works)
 - [X] DEVJANG - [JS30 - 스터디](https://devjang.github.io/2019/03/10/2019-03-10-javascipt30-2)
 - [X] TUHBM - [SEO(Search Engine Optimization) 검색 엔진 최적화 2편](https://tuhbm.github.io/2019/03/04/seo2/)
-- [ ] CHRISYANG
-- [ ] JEEWHANR
+- [ ] CHRISYANG - 벌금
+- [ ] JEEWHANR - 벌금
 - [X] JYHWNG - [Let's use input to the fullest](https://jyhwng.github.io/blog/html5-input)
 
 #### 3월 1주
@@ -91,7 +101,7 @@
 - [X] DEVJANG - [JS30 - 스터디](https://devjang.github.io/2019/03/03/2019-03-03-javascipt30-1)
 - [X] TUHBM - [Typescript - 접근제한자](https://tuhbm.github.io/2019/02/27/accessModifier/)
 - [X] CHRISYANG - 벌금
-- [ ] JEEWHANR
+- [ ] JEEWHANR - 벌금
 - [ ] JYHWNG - 벌금
 
 #### 2월 4주
