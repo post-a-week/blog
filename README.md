@@ -106,6 +106,7 @@
 
 <details>
 <summary> 2월 </summary>
+  
 #### 2월 4주
 - [ ] RAJEPHON - 1회 면제 사용
 - [X] GODORI - [Today I Learned (feat.Notion 템플릿)](https://velog.io/@godori/Today-I-Learned-feat.Notion-%ED%85%9C%ED%94%8C%EB%A6%BF-p7jsiy5i7x)
