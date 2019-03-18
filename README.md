@@ -104,6 +104,8 @@
 - [ ] JEEWHANR - 벌금
 - [ ] JYHWNG - 벌금
 
+<details>
+<summary> 2월 </summary>
 #### 2월 4주
 - [ ] RAJEPHON - 1회 면제 사용
 - [X] GODORI - [Today I Learned (feat.Notion 템플릿)](https://velog.io/@godori/Today-I-Learned-feat.Notion-%ED%85%9C%ED%94%8C%EB%A6%BF-p7jsiy5i7x)
@@ -127,7 +129,7 @@
 - [x] CHRISYANG - [⚡️ Google Chrome Labs의 Quicklink로 웹페이지 UX 향상시키기](https://velog.io/@chris/-Google-Chrome-Labs%EC%9D%98-Quicklink%EB%A1%9C-%EC%9B%B9%ED%8E%98%EC%9D%B4%EC%A7%80-UX-%ED%96%A5%EC%83%81%EC%8B%9C%ED%82%A4%EA%B8%B0)
 - [x] JEEWHANR - [코딩 인터뷰 완전 분석](https://eclatant.io/2019/02/16/2019-02-16-CtCI/)
 - [x] JYHWNG - [Optimizing Performance with Cache Control](https://jyhwng.github.io/blog/performance-optimization-with-cache-control)
-
+  </details>
 
 <details>
 <summary> 🏂Pre-Season ( ~ 2019.2.10) </summary>
