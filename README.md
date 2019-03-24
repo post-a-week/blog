@@ -57,7 +57,7 @@
 ### 2019
 
 #### 3월 4주
-- [ ] RAJEPHON
+- [X] RAJEPHON - [Erlang - 01. Data Types](https://blog.rajephon.dev/2019/03/24/erlang-01-data-types/)
 - [ ] GODORI
 - [ ] YESDOING 
 - [ ] DALI

@@ -2,6 +2,10 @@
 
 # 2019
 
+## 3월 4주
+
+- [Erlang - 01. Data Types](https://blog.rajephon.dev/2019/03/24/erlang-01-data-types/)
+
 ## 3월 3주
 
 - [Erlang - 00. Hello World](https://blog.rajephon.dev/2019/03/13/erlang-00-hello-world/)
