@@ -60,7 +60,7 @@
 - [X] RAJEPHON - [Erlang - 01. Data Types](https://blog.rajephon.dev/2019/03/24/erlang-01-data-types/)
 - [ ] GODORI
 - [ ] YESDOING 
-- [ ] DALI
+- [X] DALI - [VuePress이용_StaticSite만들기](https://medium.com/@lyhy0310/vuepress-01-static-cite-%EB%A7%8C%EB%93%A4%EA%B8%B0-7929d6b8b593)
 - [X] DOONDOONY - [JavaScript Proxy](https://velog.io/@doondoony/JavaScript-Proxy-101)
 - [X] DEVJANG - [JS30 - 스터디](https://devjang.github.io/2019/03/24/2019-03-24-javascipt30-4)
 - [ ] TUHBM - [Axios를 사용하여 HTTP요청하기](https://tuhbm.github.io/2019/03/21/axios/)
