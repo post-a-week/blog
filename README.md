@@ -66,7 +66,7 @@
 - [ ] TUHBM - [Axios를 사용하여 HTTP요청하기](https://tuhbm.github.io/2019/03/21/axios/)
 - [ ] CHRISYANG
 - [ ] JEEWHANR
-- [ ] JYHWNG
+- [X] JYHWNG - [React + Next.js + TypeScript + Netlify = ❤️](https://jyhwng.github.io/react-typescript-nextjs/)
 
 #### 3월 3주
 - [X] RAJEPHON - [Erlang - 00. Hello World](https://blog.rajephon.dev/2019/03/13/erlang-00-hello-world/)
