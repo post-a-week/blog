@@ -62,7 +62,7 @@
 - [ ] YESDOING 
 - [ ] DALI
 - [ ] DOONDOONY
-- [ ] DEVJANG
+- [X] DEVJANG - [JS30 - 스터디](https://devjang.github.io/2019/03/24/2019-03-24-javascipt30-4)
 - [ ] TUHBM - [Axios를 사용하여 HTTP요청하기](https://tuhbm.github.io/2019/03/21/axios/)
 - [ ] CHRISYANG
 - [ ] JEEWHANR
