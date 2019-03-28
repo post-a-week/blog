@@ -1,5 +1,8 @@
 # Posts
 
+## 3월 5주
+[👀 IntersectionObserver API](https://velog.io/@doondoony/IntersectionObserver)
+
 ## 3월 4주
 [JavaScript Proxy](https://velog.io/@doondoony/JavaScript-Proxy-101)
 
