@@ -1,5 +1,11 @@
 # [YESDOING](https://velog.io/@yesdoing)
 
+## 3월 5주
+[(번역)Usage with TypeScript](https://yesdoing.github.io/posting/2019/03/31/usage_with_typescript.html)
+
+## 3월 4주
+벌금
+
 ## 3월 3주 
 벌금
 
