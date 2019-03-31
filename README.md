@@ -60,7 +60,6 @@
 - [X] RAJEPHON - [Erlang - 02. Pattern Matching](https://blog.rajephon.dev/2019/03/27/erlang-02-pattern-matching/)
 - [ ] GODORI
 - [X] YESDOING - [(번역)Usage with TypeScript](https://yesdoing.github.io/posting/2019/03/31/usage_with_typescript.html)
-
 - [ ] DALI
 - [X] DOONDOONY [👀 IntersectionObserver API](https://velog.io/@doondoony/IntersectionObserver)
 - [X] DEVJANG - [JS30 - 스터디](https://devjang.github.io/2019/03/31/2019-03-31-javascipt30-5)
