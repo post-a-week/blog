@@ -62,7 +62,7 @@
 - [ ] YESDOING 
 - [ ] DALI
 - [X] DOONDOONY [👀 IntersectionObserver API](https://velog.io/@doondoony/IntersectionObserver)
-- [ ] DEVJANG
+- [X] DEVJANG - [JS30 - 스터디](https://devjang.github.io/2019/03/31/2019-03-31-javascipt30-5)
 - [ ] TUHBM
 - [X] CHRISYANG [💻 프론트엔드 면접 질문 - CSS](https://velog.io/@chris/-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-CSS)
 - [ ] JEEWHANR
