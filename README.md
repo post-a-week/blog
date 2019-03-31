@@ -64,7 +64,7 @@
 - [X] DOONDOONY [👀 IntersectionObserver API](https://velog.io/@doondoony/IntersectionObserver)
 - [ ] DEVJANG
 - [ ] TUHBM
-- [ ] CHRISYANG
+- [X] CHRISYANG [💻 프론트엔드 면접 질문 - CSS](https://velog.io/@chris/-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-CSS)
 - [ ] JEEWHANR
 - [ ] JYHWNG
 
@@ -76,7 +76,7 @@
 - [X] DOONDOONY - [JavaScript Proxy](https://velog.io/@doondoony/JavaScript-Proxy-101)
 - [X] DEVJANG - [JS30 - 스터디](https://devjang.github.io/2019/03/24/2019-03-24-javascipt30-4)
 - [ ] TUHBM - [Axios를 사용하여 HTTP요청하기](https://tuhbm.github.io/2019/03/21/axios/)
-- [X] CHRISYANG - [프론트엔드 면접 질문 - HTML](https://velog.io/@chris/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-HTML-p1jtn656rb)
+- [X] CHRISYANG - [💻 프론트엔드 면접 질문 - HTML](https://velog.io/@chris/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-HTML-p1jtn656rb)
 - [ ] JEEWHANR
 - [X] JYHWNG - [React + Next.js + TypeScript + Netlify = ❤️](https://jyhwng.github.io/react-typescript-nextjs/)
 
