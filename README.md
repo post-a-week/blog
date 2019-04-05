@@ -63,7 +63,7 @@
 - [ ] DOONDOONY
 - [ ] DEVJANG
 - [X] TUHBM - [개발자도구 - performance편](https://tuhbm.github.io/2019/04/02/devTools-performance/)
-- [ ] CHRISYANG
+- [X] CHRISYANG [💻 프론트엔드 면접 질문 - CSS #2](https://velog.io/@chris/-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-CSS-2)
 - [ ] JEEWHANR
 - [ ] JYHWNG
 
@@ -75,7 +75,7 @@
 - [X] DOONDOONY [👀 IntersectionObserver API](https://velog.io/@doondoony/IntersectionObserver)
 - [X] DEVJANG - [JS30 - 스터디](https://devjang.github.io/2019/03/31/2019-03-31-javascipt30-5)
 - [ ] TUHBM - 벌금
-- [X] CHRISYANG [💻 프론트엔드 면접 질문 - CSS](https://velog.io/@chris/-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-CSS)
+- [X] CHRISYANG [💻 프론트엔드 면접 질문 - CSS #1](https://velog.io/@chris/-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-CSS)
 - [ ] JEEWHANR
 - [ ] JYHWNG
 
