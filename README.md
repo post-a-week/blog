@@ -56,7 +56,7 @@
 
 ### 2019
 ### 4월 1주
-- [ ] RAJEPHON
+- [X] RAJEPHON - [개비스콘 짤 생성기 포스트모템](https://blog.rajephon.dev/2019/04/04/gaviscon-meme-generator-postmortem/)
 - [ ] GODORI
 - [ ] YESDOING 
 - [ ] DALI
