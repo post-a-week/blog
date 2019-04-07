@@ -1,5 +1,8 @@
 # Posts
 
+## 4월 1주
+[자바스크립트의 IIFE](https://velog.io/@doondoony/javascript-iife)
+
 ## 3월 5주
 [👀 IntersectionObserver API](https://velog.io/@doondoony/IntersectionObserver)
 
