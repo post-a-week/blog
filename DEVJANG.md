@@ -2,6 +2,10 @@
 
 ## 3 월 5 주
 
+[JS30 - 스터디](https://devjang.github.io/2019/04/07/2019-04-07-javascipt30-6)
+
+## 3 월 5 주
+
 [JS30 - 스터디](https://devjang.github.io/2019/03/31/2019-03-31-javascipt30-5)
 
 ## 3 월 4 주
