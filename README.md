@@ -55,6 +55,18 @@
 </details>
 
 ### 2019
+### 4월 2주
+- [ ] RAJEPHON
+- [ ] GODORI
+- [ ] YESDOING 
+- [ ] DALI
+- [ ] DOONDOONY
+- [ ] DEVJANG
+- [X] TUHBM - [개발자도구 - Audits편](https://tuhbm.github.io/2019/04/10/devTools-audits/)
+- [ ] CHRISYANG
+- [ ] JEEWHANR
+- [ ] JYHWNG
+
 ### 4월 1주
 - [X] RAJEPHON - [개비스콘 짤 생성기 포스트모템](https://blog.rajephon.dev/2019/04/04/gaviscon-meme-generator-postmortem/)
 - [ ] GODORI
@@ -62,7 +74,7 @@
 - [ ] DALI
 - [X] DOONDOONY - [자바스크립트의 IIFE](https://velog.io/@doondoony/javascript-iife)
 - [X] DEVJANG - [JS30 - 스터디](https://devjang.github.io/2019/04/07/2019-04-07-javascipt30-6)
-- [X] TUHBM - [개발자도구 - performance편](https://tuhbm.github.io/2019/04/02/devTools-performance/)
+- [X] TUHBM - [개발자도구 - Performance편](https://tuhbm.github.io/2019/04/02/devTools-performance/)
 - [X] CHRISYANG [💻 프론트엔드 면접 질문 - CSS #2](https://velog.io/@chris/-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-CSS-2)
 - [X] JEEWHANR - [카카오와 네이버를 통한 소셜 로그인](https://eclatant.io/2019/04/08/2019-04-08-KakaoAndNaver/)
 - [ ] JYHWNG
