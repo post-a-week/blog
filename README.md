@@ -56,7 +56,7 @@
 
 ### 2019
 ### 4월 2주
-- [ ] RAJEPHON
+- [X] RAJEPHON - [Erlang - 03. Lists](https://blog.rajephon.dev/2019/04/14/erlang-03-lists/)
 - [ ] GODORI
 - [ ] YESDOING 
 - [X] DALI [es6-for-of](https://medium.com/@lyhy0310/js-keyword-02-for-of-iterator-iterable-8d59c367bb3e)
