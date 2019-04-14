@@ -1,5 +1,8 @@
 # Posts
 
+## 4월 2주
+[Python 복합 할당 연산자](https://velog.io/@doondoony/python-augmented-assignment-statements)
+
 ## 4월 1주
 [자바스크립트의 IIFE](https://velog.io/@doondoony/javascript-iife)
 
