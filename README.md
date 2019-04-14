@@ -55,9 +55,22 @@
 </details>
 
 ### 2019
+
+### 4월 3주
+- [ ] RAJEPHON
+- [ ] GODORI
+- [ ] YESDOING 
+- [ ] DALI
+- [ ] DOONDOONY
+- [ ] DEVJANG
+- [ ] TUHBM
+- [ ] CHRISYANG
+- [ ] JEEWHANR
+- [ ] JYHWNG
+
 ### 4월 2주
 - [X] RAJEPHON - [Erlang - 03. Lists](https://blog.rajephon.dev/2019/04/14/erlang-03-lists/)
-- [ ] GODORI
+- [X] GODORI - [Women Tech Makers 2019 후기 - 스태프는 처음이라](https://velog.io/@godori/wtm-2019)
 - [X] YESDOING - [Node.js 에서 웹 크롤링하기](https://velog.io/@yesdoing/Node.js-에서-웹-크롤링하기-wtjugync1m)
 - [X] DALI [es6-for-of](https://medium.com/@lyhy0310/js-keyword-02-for-of-iterator-iterable-8d59c367bb3e)
 - [X] DOONDOONY - [Python 복합 할당 연산자](https://velog.io/@doondoony/python-augmented-assignment-statements)
@@ -69,7 +82,7 @@
 
 ### 4월 1주
 - [X] RAJEPHON - [개비스콘 짤 생성기 포스트모템](https://blog.rajephon.dev/2019/04/04/gaviscon-meme-generator-postmortem/)
-- [ ] GODORI
+- [ ] GODORI - 벌금
 - [ ] YESDOING 벌금
 - [ ] DALI 벌금
 - [X] DOONDOONY - [자바스크립트의 IIFE](https://velog.io/@doondoony/javascript-iife)
