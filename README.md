@@ -60,7 +60,7 @@
 - [ ] GODORI
 - [ ] YESDOING 
 - [X] DALI [es6-for-of](https://medium.com/@lyhy0310/js-keyword-02-for-of-iterator-iterable-8d59c367bb3e)
-- [ ] DOONDOONY
+- [X] DOONDOONY - [Python 복합 할당 연산자](https://velog.io/@doondoony/python-augmented-assignment-statements)
 - [ ] DEVJANG
 - [X] TUHBM - [개발자도구 - Audits편](https://tuhbm.github.io/2019/04/10/devTools-audits/)
 - [ ] CHRISYANG
