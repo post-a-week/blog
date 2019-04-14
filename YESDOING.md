@@ -1,5 +1,11 @@
 # [YESDOING](https://velog.io/@yesdoing)
 
+### 4월 2주
+[Node.js 에서 웹 크롤링하기](https://velog.io/@yesdoing/Node.js-에서-웹-크롤링하기-wtjugync1m)
+
+### 4월 1주
+벌금
+
 ## 3월 5주
 [(번역)Usage with TypeScript](https://yesdoing.github.io/posting/2019/03/31/usage_with_typescript.html)
 
