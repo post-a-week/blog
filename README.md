@@ -61,7 +61,7 @@
 - [X] YESDOING - [Node.js 에서 웹 크롤링하기](https://velog.io/@yesdoing/Node.js-에서-웹-크롤링하기-wtjugync1m)
 - [X] DALI [es6-for-of](https://medium.com/@lyhy0310/js-keyword-02-for-of-iterator-iterable-8d59c367bb3e)
 - [X] DOONDOONY - [Python 복합 할당 연산자](https://velog.io/@doondoony/python-augmented-assignment-statements)
-- [ ] DEVJANG
+- [X] DEVJANG - [JS30 - 스터디](https://devjang.github.io/2019/04/14/2019-04-14-javascipt30-7)
 - [X] TUHBM - [개발자도구 - Audits편](https://tuhbm.github.io/2019/04/10/devTools-audits/)
 - [ ] CHRISYANG
 - [ ] JEEWHANR
