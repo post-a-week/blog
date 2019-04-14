@@ -59,7 +59,7 @@
 - [ ] RAJEPHON
 - [ ] GODORI
 - [ ] YESDOING 
-- [ ] DALI
+- [X] DALI [es6-for-of](https://medium.com/@lyhy0310/js-keyword-02-for-of-iterator-iterable-8d59c367bb3e)
 - [ ] DOONDOONY
 - [ ] DEVJANG
 - [X] TUHBM - [개발자도구 - Audits편](https://tuhbm.github.io/2019/04/10/devTools-audits/)
@@ -71,7 +71,7 @@
 - [X] RAJEPHON - [개비스콘 짤 생성기 포스트모템](https://blog.rajephon.dev/2019/04/04/gaviscon-meme-generator-postmortem/)
 - [ ] GODORI
 - [ ] YESDOING 
-- [ ] DALI
+- [ ] DALI 벌금
 - [X] DOONDOONY - [자바스크립트의 IIFE](https://velog.io/@doondoony/javascript-iife)
 - [X] DEVJANG - [JS30 - 스터디](https://devjang.github.io/2019/04/07/2019-04-07-javascipt30-6)
 - [X] TUHBM - [개발자도구 - Performance편](https://tuhbm.github.io/2019/04/02/devTools-performance/)
@@ -83,7 +83,7 @@
 - [X] RAJEPHON - [Erlang - 02. Pattern Matching](https://blog.rajephon.dev/2019/03/27/erlang-02-pattern-matching/)
 - [X] GODORI - [Factory Method Pattern in JS](https://velog.io/@godori/factory-method-pattern)
 - [X] YESDOING - [(번역)Usage with TypeScript](https://yesdoing.github.io/posting/2019/03/31/usage_with_typescript.html)
-- [ ] DALI
+- [ ] DALI 
 - [X] DOONDOONY [👀 IntersectionObserver API](https://velog.io/@doondoony/IntersectionObserver)
 - [X] DEVJANG - [JS30 - 스터디](https://devjang.github.io/2019/03/31/2019-03-31-javascipt30-5)
 - [ ] TUHBM - 벌금
