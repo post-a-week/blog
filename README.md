@@ -76,7 +76,7 @@
 - [X] DOONDOONY - [Python 복합 할당 연산자](https://velog.io/@doondoony/python-augmented-assignment-statements)
 - [X] DEVJANG - [JS30 - 스터디](https://devjang.github.io/2019/04/14/2019-04-14-javascipt30-7)
 - [X] TUHBM - [개발자도구 - Audits편](https://tuhbm.github.io/2019/04/10/devTools-audits/)
-- [ ] CHRISYANG
+- [X] CHRISYANG [💻 프론트엔드 면접 질문 - CSS #3](https://velog.io/@chris/-프론트엔드-면접-질문-CSS-3-q8juigpxkt)
 - [ ] JEEWHANR
 - [ ] JYHWNG
 
