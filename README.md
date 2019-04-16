@@ -61,7 +61,7 @@
 - [ ] GODORI
 - [ ] YESDOING 
 - [ ] DALI
-- [ ] DOONDOONY
+- [X] DOONDOONY - [Python functools.wraps 를 알아보자](https://velog.io/@doondoony/python-functools-wraps)
 - [ ] DEVJANG
 - [ ] TUHBM
 - [ ] CHRISYANG
