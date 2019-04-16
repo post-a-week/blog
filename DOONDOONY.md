@@ -1,7 +1,7 @@
 # Posts
 
 ## 4월 3주
-[Python functools.wraps 를 알아보자](https://velog.io/@doondoony/python-functools-wraps)
+[🐍 Python functools.wraps 를 알아보자](https://velog.io/@doondoony/python-functools-wraps)
 
 ## 4월 2주
 [Python 복합 할당 연산자](https://velog.io/@doondoony/python-augmented-assignment-statements)
