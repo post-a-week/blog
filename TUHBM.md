@@ -1,5 +1,8 @@
 # Posts
 
+## 4월 3주
+[book리뷰 - 알고리즘이 욕망하는 것들](https://tuhbm.github.io/2019/04/17/bookAlgorithms/)
+
 ## 4월 2주
 [개발자도구 - Audits편](https://tuhbm.github.io/2019/04/10/devTools-audits/)
 
