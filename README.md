@@ -58,7 +58,7 @@
 
 ### 4월 3주
 - [X] RAJEPHON - [Erlang - 04. Functions](https://blog.rajephon.dev/2019/04/20/erlang-04-functions/)
-- [ ] GODORI
+- [X] GODORI - [🌱 Spring Boot 에러 처리 페이지 만들기](https://velog.io/@godori/spring-boot-error)
 - [ ] YESDOING 
 - [ ] DALI
 - [X] DOONDOONY - [🐍 Python functools.wraps 를 알아보자](https://velog.io/@doondoony/python-functools-wraps)
