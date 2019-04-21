@@ -57,13 +57,13 @@
 ### 2019
 
 ### 4월 3주
-- [ ] RAJEPHON
+- [X] RAJEPHON - [Erlang - 04. Functions](https://blog.rajephon.dev/2019/04/20/erlang-04-functions/)
 - [ ] GODORI
 - [ ] YESDOING 
 - [ ] DALI
 - [X] DOONDOONY - [🐍 Python functools.wraps 를 알아보자](https://velog.io/@doondoony/python-functools-wraps)
 - [ ] DEVJANG
-- [ ] TUHBM - [book리뷰 - 알고리즘이 욕망하는 것들](https://tuhbm.github.io/2019/04/17/bookAlgorithms/)
+- [X] TUHBM - [book리뷰 - 알고리즘이 욕망하는 것들](https://tuhbm.github.io/2019/04/17/bookAlgorithms/)
 - [ ] CHRISYANG
 - [ ] JEEWHANR
 - [ ] JYHWNG

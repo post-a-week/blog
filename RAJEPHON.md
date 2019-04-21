@@ -2,6 +2,10 @@
 
 # 2019
 
+## 4월 3주
+
+- [Erlang - 04. Functions](https://blog.rajephon.dev/2019/04/20/erlang-04-functions/)
+
 ## 4월 2주
 
 - [Erlang - 03. Lists](https://blog.rajephon.dev/2019/04/14/erlang-03-lists/)
