@@ -56,6 +56,18 @@
 
 ### 2019
 
+### 4월 4주
+- [ ] RAJEPHON
+- [ ] GODORI
+- [ ] YESDOING 
+- [ ] DALI
+- [ ] DOONDOONY
+- [ ] DEVJANG
+- [ ] TUHBM
+- [ ] CHRISYANG
+- [ ] JEEWHANR
+- [ ] JYHWNG
+
 ### 4월 3주
 - [X] RAJEPHON - [Erlang - 04. Functions](https://blog.rajephon.dev/2019/04/20/erlang-04-functions/)
 - [X] GODORI - [🌱 Spring Boot 에러 처리 페이지 만들기](https://velog.io/@godori/spring-boot-error)
@@ -92,6 +104,9 @@
 - [X] JEEWHANR - [카카오와 네이버를 통한 소셜 로그인](https://eclatant.io/2019/04/08/2019-04-08-KakaoAndNaver/)
 - [ ] JYHWNG
 
+
+<details>
+<summary> 3월 </summary>
 #### 3월 5주
 - [X] RAJEPHON - [Erlang - 02. Pattern Matching](https://blog.rajephon.dev/2019/03/27/erlang-02-pattern-matching/)
 - [X] GODORI - [Factory Method Pattern in JS](https://velog.io/@godori/factory-method-pattern)
@@ -151,6 +166,7 @@
 - [X] CHRISYANG - 벌금
 - [ ] JEEWHANR - 벌금
 - [ ] JYHWNG - 벌금
+</details>
 
 <details>
 <summary> 2월 </summary>
