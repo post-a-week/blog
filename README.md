@@ -76,7 +76,7 @@
 - [X] DOONDOONY - [🐍 Python functools.wraps 를 알아보자](https://velog.io/@doondoony/python-functools-wraps)
 - [ ] DEVJANG - 1회 면제 사용
 - [X] TUHBM - [book리뷰 - 알고리즘이 욕망하는 것들](https://tuhbm.github.io/2019/04/17/bookAlgorithms/)
-- [ ] CHRISYANG
+- [X] CHRISYANG [💻 프론트엔드 면접 질문 - JS #1](https://velog.io/@chris/-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-JS-1)
 - [ ] JEEWHANR
 - [ ] JYHWNG
 
