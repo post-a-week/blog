@@ -1,5 +1,8 @@
 # Posts
 
+## 4월 4주
+[용어정리 - 아키텍처란 무엇인가?](https://tuhbm.github.io/2019/04/24/architecture/)
+
 ## 4월 3주
 [book리뷰 - 알고리즘이 욕망하는 것들](https://tuhbm.github.io/2019/04/17/bookAlgorithms/)
 
