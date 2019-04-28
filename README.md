@@ -57,7 +57,7 @@
 ### 2019
 
 ### 4월 4주
-- [ ] RAJEPHON
+- [X] RAJEPHON - [Erlang - 05. Rebar3 Project Setup](https://blog.rajephon.dev/2019/04/25/erlang-05-rebar3-project-setup/)
 - [ ] GODORI
 - [ ] YESDOING 
 - [ ] DALI

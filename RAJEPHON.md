@@ -2,6 +2,10 @@
 
 # 2019
 
+## 4월 4주
+
+- [Erlang - 05. Rebar3 Project Setup](https://blog.rajephon.dev/2019/04/25/erlang-05-rebar3-project-setup/)
+
 ## 4월 3주
 
 - [Erlang - 04. Functions](https://blog.rajephon.dev/2019/04/20/erlang-04-functions/)
