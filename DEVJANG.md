@@ -1,5 +1,9 @@
 # Posts
 
+## 4 월 4 주
+
+[JS30 - 스터디](https://devjang.github.io/2019/04/27/2019-04-27-javascipt30-8)
+
 ## 4 월 3 주
 
 1회 면제 사용
