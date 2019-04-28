@@ -59,7 +59,7 @@
 ### 4월 4주
 - [X] RAJEPHON - [Erlang - 05. Rebar3 Project Setup](https://blog.rajephon.dev/2019/04/25/erlang-05-rebar3-project-setup/)
 - [X] GODORI - [Docker Cheat Sheet](https://velog.io/@godori/-Docker-Cheat-Sheet)
-- [ ] YESDOING 
+- [X] YESDOING - [How the V8 engine works?](https://velog.io/@yesdoing/How-the-V8-engine-works-lvjv0wxtt8)
 - [ ] DALI
 - [X] DOONDOONY [🌈 colorls 로 ls 명령을 더 예쁘게 보기](https://velog.io/@doondoony/macos-colorls-installation)
 - [ ] DEVJANG
@@ -71,7 +71,7 @@
 ### 4월 3주
 - [X] RAJEPHON - [Erlang - 04. Functions](https://blog.rajephon.dev/2019/04/20/erlang-04-functions/)
 - [X] GODORI - [🌱 Spring Boot 에러 처리 페이지 만들기](https://velog.io/@godori/spring-boot-error)
-- [ ] YESDOING 
+- [ ] YESDOING - 벌금
 - [ ] DALI
 - [X] DOONDOONY - [🐍 Python functools.wraps 를 알아보자](https://velog.io/@doondoony/python-functools-wraps)
 - [ ] DEVJANG - 1회 면제 사용
@@ -95,7 +95,7 @@
 ### 4월 1주
 - [X] RAJEPHON - [개비스콘 짤 생성기 포스트모템](https://blog.rajephon.dev/2019/04/04/gaviscon-meme-generator-postmortem/)
 - [ ] GODORI - 벌금
-- [ ] YESDOING 벌금
+- [ ] YESDOING - 벌금
 - [ ] DALI 벌금
 - [X] DOONDOONY - [자바스크립트의 IIFE](https://velog.io/@doondoony/javascript-iife)
 - [X] DEVJANG - [JS30 - 스터디](https://devjang.github.io/2019/04/07/2019-04-07-javascipt30-6)
