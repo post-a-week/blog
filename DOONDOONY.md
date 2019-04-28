@@ -1,5 +1,8 @@
 # Posts
 
+## 4월 4주
+[🌈 colorls 로 ls 명령을 더 예쁘게 보기](https://velog.io/@doondoony/macos-colorls-installation)
+
 ## 4월 3주
 [🐍 Python functools.wraps 를 알아보자](https://velog.io/@doondoony/python-functools-wraps)
 
