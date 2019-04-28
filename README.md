@@ -58,7 +58,7 @@
 
 ### 4월 4주
 - [X] RAJEPHON - [Erlang - 05. Rebar3 Project Setup](https://blog.rajephon.dev/2019/04/25/erlang-05-rebar3-project-setup/)
-- [ ] GODORI
+- [X] GODORI - [Docker Cheat Sheet](https://velog.io/@godori/-Docker-Cheat-Sheet)
 - [ ] YESDOING 
 - [ ] DALI
 - [X] DOONDOONY [🌈 colorls 로 ls 명령을 더 예쁘게 보기](https://velog.io/@doondoony/macos-colorls-installation)
