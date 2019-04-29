@@ -56,6 +56,18 @@
 
 ### 2019
 
+### ⛳️ Final
+- [ ] RAJEPHON
+- [ ] GODORI
+- [ ] YESDOING 
+- [ ] DALI
+- [ ] DOONDOONY
+- [ ] DEVJANG
+- [ ] TUHBM
+- [ ] CHRISYANG
+- [ ] JEEWHANR
+- [ ] JYHWNG
+
 ### 4월 4주
 - [X] RAJEPHON - [Erlang - 05. Rebar3 Project Setup](https://blog.rajephon.dev/2019/04/25/erlang-05-rebar3-project-setup/)
 - [X] GODORI - [Docker Cheat Sheet](https://velog.io/@godori/-Docker-Cheat-Sheet)
