@@ -58,7 +58,7 @@
 
 ### ⛳️ Final
 - [ ] RAJEPHON
-- [ ] GODORI
+- [X] GODORI - [🐙 Quick Start: Docker Compose](https://velog.io/@godori/-Docker-Compose-Quick-Guide)
 - [ ] YESDOING 
 - [ ] DALI
 - [ ] DOONDOONY
