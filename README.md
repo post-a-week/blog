@@ -57,7 +57,7 @@
 ### 2019
 
 ### ⛳️ Final
-- [ ] RAJEPHON
+- [X] RAJEPHON - [🐳 도커를 이용해 쉽게 IRC 서버 구축하기](https://blog.rajephon.dev/2019/04/30/setup-irc-server-with-docker/)
 - [X] GODORI - [🐙 Quick Start: Docker Compose](https://velog.io/@godori/-Docker-Compose-Quick-Guide)
 - [ ] YESDOING 
 - [ ] DALI
