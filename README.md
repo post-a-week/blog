@@ -60,7 +60,7 @@
 - [X] RAJEPHON - [🐳 도커를 이용해 쉽게 IRC 서버 구축하기](https://blog.rajephon.dev/2019/04/30/setup-irc-server-with-docker/)
 - [X] GODORI - [🐙 Quick Start: Docker Compose](https://velog.io/@godori/-Docker-Compose-Quick-Guide)
 - [ ] YESDOING 
-- [ ] DALI
+- [X] DALI - [장고_DRF_시작하기_01](https://medium.com/@lyhy0310/django-rest-framework-01-9c389c09fef2)
 - [X] DOONDOONY - [파일 끝에는 항상 개행을 추가해야 해요](https://velog.io/@doondoony/posix-eol)
 - [ ] DEVJANG
 - [ ] TUHBM
@@ -72,7 +72,7 @@
 - [X] RAJEPHON - [Erlang - 05. Rebar3 Project Setup](https://blog.rajephon.dev/2019/04/25/erlang-05-rebar3-project-setup/)
 - [X] GODORI - [Docker Cheat Sheet](https://velog.io/@godori/-Docker-Cheat-Sheet)
 - [X] YESDOING - [How the V8 engine works?](https://velog.io/@yesdoing/How-the-V8-engine-works-lvjv0wxtt8)
-- [ ] DALI
+- [ ] DALI - 벌금 
 - [X] DOONDOONY [🌈 colorls 로 ls 명령을 더 예쁘게 보기](https://velog.io/@doondoony/macos-colorls-installation)
 - [X] DEVJANG - [JS30 - 스터디](https://devjang.github.io/2019/04/27/2019-04-27-javascipt30-8)
 - [X] TUHBM - [용어정리 - 아키텍처란 무엇인가?](https://tuhbm.github.io/2019/04/24/architecture/)
@@ -124,7 +124,7 @@
 - [X] RAJEPHON - [Erlang - 02. Pattern Matching](https://blog.rajephon.dev/2019/03/27/erlang-02-pattern-matching/)
 - [X] GODORI - [Factory Method Pattern in JS](https://velog.io/@godori/factory-method-pattern)
 - [X] YESDOING - [(번역)Usage with TypeScript](https://yesdoing.github.io/posting/2019/03/31/usage_with_typescript.html)
-- [ ] DALI 
+- [ ] DALI - 
 - [X] DOONDOONY [👀 IntersectionObserver API](https://velog.io/@doondoony/IntersectionObserver)
 - [X] DEVJANG - [JS30 - 스터디](https://devjang.github.io/2019/03/31/2019-03-31-javascipt30-5)
 - [ ] TUHBM - 벌금
