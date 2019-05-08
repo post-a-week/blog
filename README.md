@@ -59,7 +59,7 @@
 ### ⛳️ Final
 - [X] RAJEPHON - [🐳 도커를 이용해 쉽게 IRC 서버 구축하기](https://blog.rajephon.dev/2019/04/30/setup-irc-server-with-docker/)
 - [X] GODORI - [🐙 Quick Start: Docker Compose](https://velog.io/@godori/-Docker-Compose-Quick-Guide)
-- [ ] YESDOING 
+- [ ] YESDOING - 벌금
 - [X] DALI - [장고_DRF_시작하기_01](https://medium.com/@lyhy0310/django-rest-framework-01-9c389c09fef2)
 - [X] DOONDOONY - [파일 끝에는 항상 개행을 추가해야 해요](https://velog.io/@doondoony/posix-eol)
 - [ ] DEVJANG - 벌금
@@ -357,6 +357,7 @@
 - GODORI 2회
 - DOONDOONY 1회
 - JEEWHANR 9회
+- YESDOING 6회
 
 ⇒ 총 회
 
