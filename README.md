@@ -353,6 +353,7 @@
 <summary> Season 2 </summary>
 
 - DEVJANG 1회
+- TUHBM 1회
 
 ⇒ 총 회
 
