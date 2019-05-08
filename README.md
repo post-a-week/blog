@@ -56,7 +56,12 @@
 
 ### 2019
 
-### ⛳️ Final
+### 🏂 Pre-Season
+
+###### 5월 2주
+- [x] CHRISYANG - [💻 프론트엔드 면접 질문 - JS #4](https://velog.io/@chris/-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-JS-4)
+
+### 5월 1주 - ⛳️ Final
 - [X] RAJEPHON - [🐳 도커를 이용해 쉽게 IRC 서버 구축하기](https://blog.rajephon.dev/2019/04/30/setup-irc-server-with-docker/)
 - [X] GODORI - [🐙 Quick Start: Docker Compose](https://velog.io/@godori/-Docker-Compose-Quick-Guide)
 - [ ] YESDOING - 벌금
