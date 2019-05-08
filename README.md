@@ -62,7 +62,7 @@
 - [ ] YESDOING 
 - [X] DALI - [장고_DRF_시작하기_01](https://medium.com/@lyhy0310/django-rest-framework-01-9c389c09fef2)
 - [X] DOONDOONY - [파일 끝에는 항상 개행을 추가해야 해요](https://velog.io/@doondoony/posix-eol)
-- [ ] DEVJANG
+- [ ] DEVJANG - 벌금
 - [ ] TUHBM
 - [X] CHRISYANG - [💻 프론트엔드 면접 질문 - JS #3](https://velog.io/@chris/-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-JS-3)
 - [ ] JEEWHANR
