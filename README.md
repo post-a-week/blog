@@ -349,7 +349,14 @@
 ## 💰 벌금 현황
 
 ### 2019
-**Season 2**
+<details>
+<summary> Season 2 </summary>
+
+- DEVJANG 1회
+
+⇒ 총 회
+
+</details>
 
 ### 2018
 <details>
