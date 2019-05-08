@@ -354,6 +354,7 @@
 
 - DEVJANG 1회
 - TUHBM 1회
+- GODORI 2회
 
 ⇒ 총 회
 
