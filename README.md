@@ -89,7 +89,7 @@
 - [X] RAJEPHON - [Erlang - 04. Functions](https://blog.rajephon.dev/2019/04/20/erlang-04-functions/)
 - [X] GODORI - [🌱 Spring Boot 에러 처리 페이지 만들기](https://velog.io/@godori/spring-boot-error)
 - [ ] YESDOING - 벌금
-- [ ] DALI
+- [ ] DALI - 벌금 
 - [X] DOONDOONY - [🐍 Python functools.wraps 를 알아보자](https://velog.io/@doondoony/python-functools-wraps)
 - [ ] DEVJANG - 1회 면제 사용
 - [X] TUHBM - [book리뷰 - 알고리즘이 욕망하는 것들](https://tuhbm.github.io/2019/04/17/bookAlgorithms/)
