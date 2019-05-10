@@ -74,6 +74,7 @@
 
 <details>
 <summary> 4월 </summary>
+  
   ### 4월 4주
 - [X] RAJEPHON - [Erlang - 05. Rebar3 Project Setup](https://blog.rajephon.dev/2019/04/25/erlang-05-rebar3-project-setup/)
 - [X] GODORI - [Docker Cheat Sheet](https://velog.io/@godori/-Docker-Cheat-Sheet)
@@ -121,6 +122,7 @@
 - [X] CHRISYANG [💻 프론트엔드 면접 질문 - CSS #2](https://velog.io/@chris/-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-CSS-2)
 - [X] JEEWHANR - [카카오와 네이버를 통한 소셜 로그인](https://eclatant.io/2019/04/08/2019-04-08-KakaoAndNaver/)
 - [ ] JYHWNG
+
 </details>
 
 <details>
