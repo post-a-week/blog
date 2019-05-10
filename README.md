@@ -363,6 +363,7 @@
 - DOONDOONY 1회
 - JEEWHANR 9회
 - YESDOING 6회
+- DALI 5회
 
 ⇒ 총 회
 
