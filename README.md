@@ -367,6 +367,7 @@
 - JEEWHANR 8회
 - YESDOING 6회
 - DALI 6회
+- CHRISYANG 2회
 
 ⇒ 총 회
 
