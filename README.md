@@ -129,7 +129,7 @@
 - [X] RAJEPHON - [Erlang - 02. Pattern Matching](https://blog.rajephon.dev/2019/03/27/erlang-02-pattern-matching/)
 - [X] GODORI - [Factory Method Pattern in JS](https://velog.io/@godori/factory-method-pattern)
 - [X] YESDOING - [(번역)Usage with TypeScript](https://yesdoing.github.io/posting/2019/03/31/usage_with_typescript.html)
-- [ ] DALI - 
+- [ ] DALI - 벌금 
 - [X] DOONDOONY [👀 IntersectionObserver API](https://velog.io/@doondoony/IntersectionObserver)
 - [X] DEVJANG - [JS30 - 스터디](https://devjang.github.io/2019/03/31/2019-03-31-javascipt30-5)
 - [ ] TUHBM - 벌금
@@ -363,7 +363,7 @@
 - DOONDOONY 1회
 - JEEWHANR 9회
 - YESDOING 6회
-- DALI 5회
+- DALI 6회
 
 ⇒ 총 회
 
