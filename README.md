@@ -368,8 +368,8 @@
 - YESDOING 6회
 - DALI 6회
 - CHRISYANG 2회
-
-⇒ 총 회
+- JYHWNG 7회
+⇒ 총 34회
 
 </details>
 
@@ -385,7 +385,6 @@
 - DOONDOONY 1회
 - YESDOING 1회
 - TUHBM 1회
-
 ⇒ 총 12회
 
 </details>
