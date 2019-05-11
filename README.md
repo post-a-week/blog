@@ -360,6 +360,7 @@
 <details>
 <summary> Season 2 </summary>
 
+- RAJEPHON 0회
 - DEVJANG 1회
 - TUHBM 1회
 - GODORI 2회
@@ -369,6 +370,7 @@
 - DALI 6회
 - CHRISYANG 2회
 - JYHWNG 7회
+
 ⇒ 총 34회
 
 </details>
@@ -385,6 +387,7 @@
 - DOONDOONY 1회
 - YESDOING 1회
 - TUHBM 1회
+
 ⇒ 총 12회
 
 </details>
