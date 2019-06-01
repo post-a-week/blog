@@ -30,6 +30,7 @@
 - [CHRISYANG](https://post-a-week.github.io/blog/CHRISYANG) : https://medium.com/@ysm0622
 - [JEEWHANR](https://github.com/post-a-week/blog/blob/master/JEEWHANR.md) : https://eclatant.io/
 - [JYHWNG](https://github.com/post-a-week/blog/blob/master/JYHWNG.md): https://jyhwng.github.io/
+- [Y0C](https://github.com/post-a-week/blog/blob/master/Y0C.md): https://y0c.github.io
 
 ## 📘 History
 
@@ -51,16 +52,39 @@
 - [ ] CHRISYANG
 - [ ] JEEWHANR
 - [ ] JYHWNG
+- [ ] Y0C
 
 </details>
 
-### 2019
+### 2019 - 2
+
+### 🏄 Pre-Season
+
+### 6월 2주
+
+- [ ] RAJEPHON
+- [ ] GODORI
+- [ ] YESDOING
+- [ ] DALI
+- [ ] DOONDOONY
+- [ ] DEVJANG
+- [ ] TUHBM
+- [ ] CHRISYANG
+- [ ] JEEWHANR
+- [ ] JYHWNG
+
+
+### 2019 - 1
 
 ### 🏄 Pre-Season
 
 - [x] CHRISYANG - [💻 프론트엔드 면접 질문 - JS #4](https://velog.io/@chris/-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-JS-4)
 
-### ⛳️ Final
+<details>
+
+<summary> 5월 </summary>
+
+  ### ⛳️ Final
 - [X] RAJEPHON - [🐳 도커를 이용해 쉽게 IRC 서버 구축하기](https://blog.rajephon.dev/2019/04/30/setup-irc-server-with-docker/)
 - [X] GODORI - [🐙 Quick Start: Docker Compose](https://velog.io/@godori/-Docker-Compose-Quick-Guide)
 - [ ] YESDOING - 벌금
@@ -72,7 +96,10 @@
 - [ ] JEEWHANR
 - [X] JYHWNG - [Image Loading Optimization](https://jyhwng.github.io/image-optimization)
 
+</details>
+
 <details>
+  
 <summary> 4월 </summary>
   
   ### 4월 4주
@@ -356,7 +383,13 @@
 
 ## 💰 벌금 현황
 
-### 2019
+### 2019 - 2
+<details>
+<summary> Season 3 </summary>
+
+</details>
+
+### 2019 - 1
 <details>
 <summary> Season 2 </summary>
 
