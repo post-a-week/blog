@@ -35,12 +35,12 @@
 ## 📘 History
 
 <details>
-<summary> 표시는 클릭하면 펼칠 수 있습니다. </summary>
+<summary>표시는 클릭하면 펼칠 수 있습니다. </summary>
 이렇게요!
 </details>
 
 <details>
-<summary>멤버 체크 양식 </summary>
+<summary>멤버 체크 양식</summary>
 
 - [ ] RAJEPHON
 - [ ] GODORI
@@ -424,6 +424,6 @@
 </details>
 
 ## 🍕 후기
-- [post-a-week 후기](https://slides.com/godori/post-a-week)
-
+- [post-a-week season1 후기](https://slides.com/godori/post-a-week)
+- [post-a-week season2 후기](https://slides.com/godori/post-a-week-season-2)
 **[⬆ Top](#바로가기)**
