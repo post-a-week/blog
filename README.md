@@ -74,7 +74,7 @@
 - [ ] CHRISYANG
 - [ ] JEEWHANR
 - [ ] JYHWNG
-
+- [ ] Y0C
 
 ### 2019 - 1
 
