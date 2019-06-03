@@ -62,7 +62,7 @@
 - [ ] DALI
 - [ ] DOONDOONY
 - [ ] DEVJANG
-- [ ] TUHBM
+- [X] TUHBM - [book리뷰 - 게임으로 익히는 코딩 알고리즘](https://tuhbm.github.io/2019/06/03/gameLearningAlgorithm/)
 - [ ] CHRISYANG
 - [ ] JEEWHANR
 - [ ] Y0C

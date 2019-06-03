@@ -1,5 +1,8 @@
 # Posts
 
+## 6월 1주 ~ 2주
+[book리뷰 - 게임으로 익히는 코딩 알고리즘](https://tuhbm.github.io/2019/06/03/gameLearningAlgorithm/)
+*****
 ## 5월 1주
 벌금
 
