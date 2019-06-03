@@ -20,7 +20,6 @@
 ## ✏️ Blog
 * [닉네임] (개인 md 파일 링크) : 블로그 링크
 - [GODORI](https://post-a-week.github.io/blog/GODORI) : https://velog.io/@godori
-- [RAJEPHON](https://post-a-week.github.io/blog/RAJEPHON) : https://blog.rajephon.dev/
 - [DOONDOONY](https://post-a-week.github.io/blog/DOONDOONY) : https://velog.io/@doondoony
 - [YESDOING](https://post-a-week.github.io/blog/YESDOING) : https://velog.io/@yesdoing
 - [DALI](https://post-a-week.github.io/blog/DALI) :https://medium.com/@lyhy0310
@@ -28,9 +27,8 @@
 - [TUHBM](https://post-a-week.github.io/blog/TUHBM) : https://tuhbm.github.io/
 - [CHRISYANG](https://post-a-week.github.io/blog/CHRISYANG) : https://medium.com/@ysm0622
 - [JEEWHANR](https://github.com/post-a-week/blog/blob/master/JEEWHANR.md) : https://eclatant.io/
-- [JYHWNG](https://github.com/post-a-week/blog/blob/master/JYHWNG.md): https://jyhwng.github.io/
 - [Y0C](https://github.com/post-a-week/blog/blob/master/Y0C.md): https://y0c.github.io
-- HERTZ : https://hzz6.tistory.com/
+- [HERTZ]() : https://hzz6.tistory.com/
 
 ## 📘 History
 
@@ -42,7 +40,6 @@
 <details>
 <summary>멤버 체크 양식</summary>
 
-- [ ] RAJEPHON
 - [ ] GODORI
 - [ ] YESDOING 
 - [ ] DALI
@@ -51,20 +48,31 @@
 - [ ] TUHBM
 - [ ] CHRISYANG
 - [ ] JEEWHANR
-- [ ] JYHWNG
 - [ ] Y0C
+- [ ] HERTZ
 
 </details>
 
 ### 2019 - 2 (Season 3)
 
 ### 1회차
-- [ ] MEMBER
 
-### 🏄 Pre-Season ( ~ 2019.5.31)
+- [ ] GODORI
+- [ ] YESDOING 
+- [ ] DALI
+- [ ] DOONDOONY
+- [ ] DEVJANG
+- [ ] TUHBM
+- [ ] CHRISYANG
+- [ ] JEEWHANR
+- [ ] Y0C
+- [ ] HERTZ
+
+<details>
+<summary>🏄 Pre-Season ( ~ 2019.5.31)</summary>
 
 - [x] CHRISYANG - [💻 프론트엔드 면접 질문 - JS #4](https://velog.io/@chris/-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-JS-4)
-
+</details>
 ### 2019 - 1 (Season 2)
 
 <details>
