@@ -30,6 +30,7 @@
 - [JEEWHANR](https://github.com/post-a-week/blog/blob/master/JEEWHANR.md) : https://eclatant.io/
 - [JYHWNG](https://github.com/post-a-week/blog/blob/master/JYHWNG.md): https://jyhwng.github.io/
 - [Y0C](https://github.com/post-a-week/blog/blob/master/Y0C.md): https://y0c.github.io
+- [HERTZ]: https://hzz6.tistory.com/
 
 ## 📘 History
 
