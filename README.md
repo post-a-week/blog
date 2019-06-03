@@ -25,7 +25,7 @@
 - [DALI](https://post-a-week.github.io/blog/DALI) :https://medium.com/@lyhy0310
 - [DEVJANG](https://post-a-week.github.io/blog/DEVJANG) :https://devjang.github.io
 - [TUHBM](https://post-a-week.github.io/blog/TUHBM) : https://tuhbm.github.io/
-- [CHRISYANG](https://post-a-week.github.io/blog/CHRISYANG) : https://medium.com/@ysm0622
+- [CHRISYANG](https://post-a-week.github.io/blog/CHRISYANG) : https://velog.io/@chris
 - [JEEWHANR](https://github.com/post-a-week/blog/blob/master/JEEWHANR.md) : https://eclatant.io/
 - [Y0C](https://github.com/post-a-week/blog/blob/master/Y0C.md): https://y0c.github.io
 - [HERTZ]() : https://hzz6.tistory.com/
@@ -74,7 +74,9 @@
 <summary>🏄 Pre-Season ( ~ 2019.5.31)</summary>
 
 - [x] CHRISYANG - [💻 프론트엔드 면접 질문 - JS #4](https://velog.io/@chris/-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-JS-4)
+- [x] CHRISYANG - [▶️ Github Actions에 추가된 schedule 기능으로 Crontab 대체하기](https://velog.io/@chris/-Github-Actions%EC%97%90-%EC%B6%94%EA%B0%80%EB%90%9C-schedule-%EA%B8%B0%EB%8A%A5%EC%9C%BC%EB%A1%9C-Crontab-%EB%8C%80%EC%B2%B4%ED%95%98%EA%B8%B0)
 </details>
+
 
 <details>
 
