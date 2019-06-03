@@ -53,7 +53,7 @@
 
 </details>
 
-### 2019 - 2 (Season 3)
+### 2019 Season 3
 
 ### 1회차
 
@@ -68,12 +68,13 @@
 - [ ] Y0C
 - [ ] HERTZ
 
+### 2019 Season 2
+
 <details>
 <summary>🏄 Pre-Season ( ~ 2019.5.31)</summary>
 
 - [x] CHRISYANG - [💻 프론트엔드 면접 질문 - JS #4](https://velog.io/@chris/-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-JS-4)
 </details>
-### 2019 - 1 (Season 2)
 
 <details>
 
@@ -378,13 +379,11 @@
 
 ## 💰 벌금 현황
 
-### 2019 - 2
 <details>
 <summary> Season 3 </summary>
 
 </details>
 
-### 2019 - 1
 <details>
 <summary> Season 2 </summary>
 
@@ -403,7 +402,6 @@
 
 </details>
 
-### 2018
 <details>
 <summary> Season 1 </summary>
 
