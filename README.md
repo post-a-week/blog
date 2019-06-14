@@ -65,7 +65,7 @@
 - [X] TUHBM - [book리뷰 - 게임으로 익히는 코딩 알고리즘](https://tuhbm.github.io/2019/06/03/gameLearningAlgorithm/)
 - [X] CHRISYANG - [📚 한 주간 본 IT 글, 영상 아카이브 #1](https://velog.io/@chris/-%ED%95%9C-%EC%A3%BC%EA%B0%84-%EB%B3%B8-IT-%EA%B8%80-%EC%98%81%EC%83%81-%EC%95%84%EC%B9%B4%EC%9D%B4%EB%B8%8C-1)
 - [ ] JEEWHANR
-- [ ] Y0C
+- [X] Y0C - [📦 Monorepo Tutorial](https://y0c.github.io/2019/06/14/monorepo-tutorial)
 - [ ] HERTZ
 
 ### 2019 Season 2
