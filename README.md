@@ -28,7 +28,7 @@
 - [CHRISYANG](https://post-a-week.github.io/blog/CHRISYANG) : https://velog.io/@chris
 - [JEEWHANR](https://github.com/post-a-week/blog/blob/master/JEEWHANR.md) : https://eclatant.io/
 - [Y0C](https://github.com/post-a-week/blog/blob/master/Y0C.md): https://y0c.github.io
-- [HERTZ]() : https://hzz6.tistory.com/
+- [HERTZ](https://github.com/post-a-week/blog/blob/master/HERTZ.md) : https://velog.io/@629hz
 
 ## 📘 History
 
