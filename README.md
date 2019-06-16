@@ -59,7 +59,7 @@
 
 - [ ] GODORI
 - [ ] YESDOING 
-- [ ] DALI
+- [X] DALI - [debounceAndThrottling](https://amorfati0310.github.io/devLab/dev/debounce.html)
 - [ ] DOONDOONY
 - [ ] DEVJANG
 - [X] TUHBM - [book리뷰 - 게임으로 익히는 코딩 알고리즘](https://tuhbm.github.io/2019/06/03/gameLearningAlgorithm/)
