@@ -68,7 +68,7 @@
 
 ### 1회차 ( ~ 6/16)
 
-- [ ] GODORI - [JavaScript에서 클립보드 복사 구현하기](https://velog.io/@godori/js-clipboard-copy)
+- [X] GODORI - [JavaScript에서 클립보드 복사 구현하기](https://velog.io/@godori/js-clipboard-copy)
 - [X] YESDOING - [내맘대로 React A to Z - 1](https://velog.io/@yesdoing/%EB%82%B4%EB%A7%98%EB%8C%80%EB%A1%9C-%EB%A6%AC%EC%95%A1%ED%8A%B8-A-to-Z-1-9pjwz1o6ai)
 - [X] DALI - [debounceAndThrottling](https://amorfati0310.github.io/devLab/dev/debounce.html)
 - [X] DOONDOONY - [대단히 주관적인 기계식 키보드 사용 후기](https://velog.io/@doondoony/mechanical-keyboards)
