@@ -1,5 +1,8 @@
 # Posts
 
+## 6월 2주
+[⌨️ 대단히 주관적인 기계식 키보드 사용 후기](https://velog.io/@doondoony/mechanical-keyboards)
+
 ## 5월 1주
 [🥬 파일 끝에는 항상 개행을 추가해야 해요](https://velog.io/@doondoony/posix-eol)
 
