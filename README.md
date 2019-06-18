@@ -18,17 +18,17 @@
 - 기타 문의 사항: gej.okpo@gmail.com
 
 ## ✏️ Blog
-* [닉네임] (개인 md 파일 링크) : 블로그 링크
-- [GODORI](https://post-a-week.github.io/blog/GODORI) : https://velog.io/@godori
-- [DOONDOONY](https://post-a-week.github.io/blog/DOONDOONY) : https://velog.io/@doondoony
-- [YESDOING](https://post-a-week.github.io/blog/YESDOING) : https://velog.io/@yesdoing
-- [DALI](https://post-a-week.github.io/blog/DALI) :https://medium.com/@lyhy0310
-- [DEVJANG](https://post-a-week.github.io/blog/DEVJANG) :https://devjang.github.io
-- [TUHBM](https://post-a-week.github.io/blog/TUHBM) : https://tuhbm.github.io/
-- [CHRISYANG](https://post-a-week.github.io/blog/CHRISYANG) : https://velog.io/@chris
-- [JEEWHANR](https://github.com/post-a-week/blog/blob/master/JEEWHANR.md) : https://eclatant.io/
-- [Y0C](https://github.com/post-a-week/blog/blob/master/Y0C.md): https://y0c.github.io
-- [HERTZ](https://github.com/post-a-week/blog/blob/master/HERTZ.md) : https://velog.io/@629hz
+* [닉네임] (개인 md 파일 링크) : 블로그 링크 - ⛳️ 이번 시즌 목표
+- [GODORI](https://post-a-week.github.io/blog/GODORI) : https://velog.io/@godori - 하나 이상의 플랫폼에 포스팅하기
+- [DOONDOONY](https://post-a-week.github.io/blog/DOONDOONY) : https://velog.io/@doondoony - 1. 최소 4번 이상 글 쓰기 / 2. Docker 관련 글 하나 이상 쓰기
+- [YESDOING](https://post-a-week.github.io/blog/YESDOING) : https://velog.io/@yesdoing - CRA 없이 리액트 프로젝트를 구성하는 UI-Component 제작기 시리즈 쓰기
+- [DALI](https://post-a-week.github.io/blog/DALI) :https://medium.com/@lyhy0310 - 개인 블로그에 글 꾸준히 올리기
+- [DEVJANG](https://post-a-week.github.io/blog/DEVJANG) :https://devjang.github.io - 퀄리티 낮은 포스팅하지 않기!!
+- [TUHBM](https://post-a-week.github.io/blog/TUHBM) : https://tuhbm.github.io/ - 면제권 쓰지 않기
+- [CHRISYANG](https://post-a-week.github.io/blog/CHRISYANG) : https://velog.io/@chris - 번역글이 아닌 직접 쓰는 글 1편 이상 꼭 쓰기!
+- [JEEWHANR](https://github.com/post-a-week/blog/blob/master/JEEWHANR.md) : https://eclatant.io/ - 면제권 쓰지 않기
+- [Y0C](https://github.com/post-a-week/blog/blob/master/Y0C.md): https://y0c.github.io - 밀리지 않고 포스트 작성하기
+- [HERTZ](https://github.com/post-a-week/blog/blob/master/HERTZ.md) : https://velog.io/@629hz - 목표는 글 꾸준히 올리기
 
 ## 📘 History
 
