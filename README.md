@@ -63,7 +63,7 @@
 - [ ] YESDOING 
 - [ ] DALI
 - [ ] DOONDOONY
-- [ ] DEVJANG
+- [X] DEVJANG - [GDG FRONT-ENDGAME 참관기](https://devjang.github.io/2019/06/24/2019-06-24-gdg-dev-fest)
 - [ ] TUHBM
 - [ ] CHRISYANG
 - [ ] JEEWHANR
