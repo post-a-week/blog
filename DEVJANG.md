@@ -1,5 +1,9 @@
 # Posts
 
+## 6 월 3 ~ 4 주
+
+[GDG FRONT-ENDGAME 참관기](https://devjang.github.io/2019/06/24/2019-06-24-gdg-dev-fest)
+
 ## 6 월 1 ~ 2 주
 
 [(독서) 모던 웹을 위한 HTML5+CSS3 바이블](https://devjang.github.io/2019/06/09/2019-06-09-modern-web-html5-css3)
