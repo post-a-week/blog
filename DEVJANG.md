@@ -2,7 +2,7 @@
 
 ## 6 월 3 ~ 4 주
 
-[GDG FRONT-ENDGAME 참관기](https://devjang.github.io/2019/06/24/2019-06-24-gdg-dev-fest)
+[GDG FRONT-ENDGAME 참관기](https://devjang.github.io/2019/06/24/2019-06-24-gdg-front-endgame)
 
 ## 6 월 1 ~ 2 주
 
