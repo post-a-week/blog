@@ -5,6 +5,9 @@
 ### 6월 1주 ~ 2주
 [book리뷰 - 게임으로 익히는 코딩 알고리즘](https://tuhbm.github.io/2019/06/03/gameLearningAlgorithm/)
 
+### 6월 3주 ~ 4주
+[Rxjs를 시작하기전에...](https://tuhbm.github.io/2019/06/28/rxjs1/)
+
 *****
 
 ## 2019 Season 2
