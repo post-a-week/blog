@@ -1,5 +1,8 @@
 # Posts
 
+## 6월 4주
+[🐍 SQL Formatting in Python](https://velog.io/@doondoony/python-sql-formatting)
+
 ## 6월 2주
 [⌨️ 대단히 주관적인 기계식 키보드 사용 후기](https://velog.io/@doondoony/mechanical-keyboards)
 
