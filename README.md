@@ -58,8 +58,21 @@
 </details>
 
 ### 2019 Season 3
-### 2회차 ( ~ 6/30)
+
+### 3회차 ( ~ 7/14)
 - [ ] GODORI
+- [ ] YESDOING 
+- [ ] DALI
+- [ ] DOONDOONY
+- [ ] DEVJANG
+- [ ] TUHBM
+- [ ] CHRISYANG
+- [ ] JEEWHANR
+- [ ] Y0C
+- [ ] HERTZ
+
+### 2회차 ( ~ 6/30)
+- [X] GODORI [Netlify 브랜치 배포를 위한 서브 도메인 설정하기](https://velog.io/@godori/netlify-branch-sub-domain)
 - [ ] YESDOING 
 - [X] DALI - [js생성자함수](https://amorfati0310.github.io/learning-note/newFn.html)
 - [X] DOONDOONY - [🐍 SQL Formatting in Python](https://velog.io/@doondoony/python-sql-formatting)
