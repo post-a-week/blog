@@ -65,7 +65,7 @@
 - [X] DOONDOONY - [🐍 SQL Formatting in Python](https://velog.io/@doondoony/python-sql-formatting)
 - [X] DEVJANG - [GDG FRONT-ENDGAME 참관기](https://devjang.github.io/2019/06/24/2019-06-24-gdg-front-endgame)
 - [X] TUHBM - [Rxjs를 시작하기전에...](https://tuhbm.github.io/2019/06/28/rxjs1/)
-- [ ] CHRISYANG
+- [X] CHRISYANG - [📚 한 주간 본 IT 글, 영상 아카이브 #3](https://velog.io/@chris/-%ED%95%9C-%EC%A3%BC%EA%B0%84-%EB%B3%B8-IT-%EA%B8%80-%EC%98%81%EC%83%81-%EC%95%84%EC%B9%B4%EC%9D%B4%EB%B8%8C-3), [📚 한 주간 본 IT 글, 영상 아카이브 #4](https://velog.io/@chris/-%ED%95%9C-%EC%A3%BC%EA%B0%84-%EB%B3%B8-IT-%EA%B8%80-%EC%98%81%EC%83%81-%EC%95%84%EC%B9%B4%EC%9D%B4%EB%B8%8C-4)
 - [ ] JEEWHANR
 - [X] Y0C - [🚀 React Infinite scroll 구현하기](https://y0c.github.io/2019/06/30/react-infinite-scroll/)
 - [X] HERTZ -[Android Jetpack Lifecycle (1)](https://hzz6.tistory.com/25)
