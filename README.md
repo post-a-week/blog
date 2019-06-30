@@ -32,7 +32,7 @@
 - [CHRISYANG](https://post-a-week.github.io/blog/CHRISYANG) : https://velog.io/@chris - 번역글이 아닌 직접 쓰는 글 1편 이상 꼭 쓰기!
 - [JEEWHANR](https://github.com/post-a-week/blog/blob/master/JEEWHANR.md) : https://eclatant.io/ - 면제권 쓰지 않기
 - [Y0C](https://github.com/post-a-week/blog/blob/master/Y0C.md): https://y0c.github.io - 밀리지 않고 포스트 작성하기
-- [HERTZ](https://github.com/post-a-week/blog/blob/master/HERTZ.md) : https://velog.io/@629hz - 목표는 글 꾸준히 올리기
+- [HERTZ](https://github.com/post-a-week/blog/blob/master/HERTZ.md) : https://hzz6.tistory.com - 목표는 글 꾸준히 올리기
 
 ## 📘 History
 
@@ -68,7 +68,7 @@
 - [ ] CHRISYANG
 - [ ] JEEWHANR
 - [X] Y0C - [🚀 React Infinite scroll 구현하기](https://y0c.github.io/2019/06/30/react-infinite-scroll/)
-- [ ] HERTZ
+- [X] HERTZ -[[Android Jetpack] Android Lifecycle (1)] (https://hzz6.tistory.com/25)
 
 ### 1회차 ( ~ 6/16)
 
