@@ -1,4 +1,4 @@
-# [HERTZ](https://velog.io/@629hz)
+# [HERTZ](https://hzz6.tistory.com/)
 
-### 6월 1주
-
+### 6월 3주
+-[Android Jetpack Lifecycle (1)](https://hzz6.tistory.com/25)
