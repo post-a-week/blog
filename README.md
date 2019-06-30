@@ -62,7 +62,7 @@
 - [ ] GODORI
 - [ ] YESDOING 
 - [ ] DALI
-- [X] DOONDOONY - [SQL Formatting in Python](https://velog.io/@doondoony/python-sql-formatting)
+- [X] DOONDOONY - [🐍 SQL Formatting in Python](https://velog.io/@doondoony/python-sql-formatting)
 - [X] DEVJANG - [GDG FRONT-ENDGAME 참관기](https://devjang.github.io/2019/06/24/2019-06-24-gdg-front-endgame)
 - [X] TUHBM - [Rxjs를 시작하기전에...](https://tuhbm.github.io/2019/06/28/rxjs1/)
 - [ ] CHRISYANG
