@@ -68,7 +68,7 @@
 - [ ] CHRISYANG
 - [ ] JEEWHANR
 - [X] Y0C - [🚀 React Infinite scroll 구현하기](https://y0c.github.io/2019/06/30/react-infinite-scroll/)
-- [X] HERTZ -[Android Lifecycle (1)](https://hzz6.tistory.com/25)
+- [X] HERTZ -[Android Jetpack Lifecycle (1)](https://hzz6.tistory.com/25)
 
 ### 1회차 ( ~ 6/16)
 
