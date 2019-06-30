@@ -67,7 +67,7 @@
 - [X] TUHBM - [Rxjs를 시작하기전에...](https://tuhbm.github.io/2019/06/28/rxjs1/)
 - [ ] CHRISYANG
 - [ ] JEEWHANR
-- [ ] Y0C
+- [X] Y0C - [🚀 React Infinite scroll 구현하기](https://y0c.github.io/2019/06/30/react-infinite-scroll/)
 - [ ] HERTZ
 
 ### 1회차 ( ~ 6/16)
