@@ -61,7 +61,7 @@
 ### 2회차 ( ~ 6/30)
 - [ ] GODORI
 - [ ] YESDOING 
-- [ ] DALI
+- [X] DALI - [js생성자함수](https://amorfati0310.github.io/learning-note/newFn.html)
 - [X] DOONDOONY - [🐍 SQL Formatting in Python](https://velog.io/@doondoony/python-sql-formatting)
 - [X] DEVJANG - [GDG FRONT-ENDGAME 참관기](https://devjang.github.io/2019/06/24/2019-06-24-gdg-front-endgame)
 - [X] TUHBM - [Rxjs를 시작하기전에...](https://tuhbm.github.io/2019/06/28/rxjs1/)
