@@ -66,7 +66,7 @@
 - [X] DOONDOONY - [🐍 Python short-circuit all & any function](https://velog.io/@doondoony/python-all-any-builtin-functions)
 - [X] DEVJANG - [게임으로 익히는 코딩 알고리즘](https://devjang.github.io/2019/07/12/2019-07-12-coding-algorithm-with-game)
 - [X] TUHBM - [RxJS 시작하기](https://tuhbm.github.io/2019/07/14/rxjs2/)
-- [ ] CHRISYANG
+- [X] CHRISYANG - [📚 한 주간 본 IT 글, 영상 아카이브 #5](https://velog.io/@chris/weekly-archive-5), [📚 한 주간 본 IT 글, 영상 아카이브 #6](https://velog.io/@chris/weekly-archive-6)
 - [ ] JEEWHANR
 - [X] Y0C - [Vim Configuration 정리](https://y0c.github.io/2019/07/14/vim-config-for-js-developer/)
 - [ ] HERTZ
