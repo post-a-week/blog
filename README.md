@@ -64,7 +64,7 @@
 - [ ] YESDOING 
 - [ ] DALI
 - [ ] DOONDOONY
-- [ ] DEVJANG
+- [X] DEVJANG - [게임으로 익히는 코딩 알고리즘](https://devjang.github.io/2019/07/12/2019-07-12-coding-algorithm-with-game)
 - [X] TUHBM - [RxJS 시작하기](https://tuhbm.github.io/2019/07/14/rxjs2/)
 - [ ] CHRISYANG
 - [ ] JEEWHANR
