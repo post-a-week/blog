@@ -68,7 +68,7 @@
 - [X] TUHBM - [RxJS 시작하기](https://tuhbm.github.io/2019/07/14/rxjs2/)
 - [ ] CHRISYANG
 - [ ] JEEWHANR
-- [ ] Y0C
+- [X] Y0C - [Vim Configuration 정리](https://y0c.github.io/2019/07/14/vim-config-for-js-developer/)
 - [ ] HERTZ
 
 ### 2회차 ( ~ 6/30)
