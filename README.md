@@ -61,7 +61,7 @@
 
 ### 3회차 ( ~ 7/14)
 - [ ] GODORI
-- [ ] YESDOING 
+- [X] YESDOING - [유용한 Git 도구들](https://velog.io/@yesdoing/유용한-Git-도구들)
 - [ ] DALI
 - [ ] DOONDOONY
 - [X] DEVJANG - [게임으로 익히는 코딩 알고리즘](https://devjang.github.io/2019/07/12/2019-07-12-coding-algorithm-with-game)
