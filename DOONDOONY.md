@@ -1,5 +1,8 @@
 # Posts
 
+## 7월 2주
+[🐍 Python short-circuit all & any function](https://velog.io/@doondoony/python-all-any-builtin-functions)
+
 ## 6월 4주
 [🐍 SQL Formatting in Python](https://velog.io/@doondoony/python-sql-formatting)
 
