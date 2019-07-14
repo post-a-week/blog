@@ -65,7 +65,7 @@
 - [ ] DALI
 - [ ] DOONDOONY
 - [ ] DEVJANG
-- [ ] TUHBM
+- [X] TUHBM - [RxJS 시작하기](https://tuhbm.github.io/2019/07/14/rxjs2/)
 - [ ] CHRISYANG
 - [ ] JEEWHANR
 - [ ] Y0C
