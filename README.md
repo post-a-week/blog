@@ -59,6 +59,18 @@
 
 ### 2019 Season 3
 
+### 4회차 ( ~ 7/28)
+- [ ] GODORI
+- [ ] YESDOING 
+- [ ] DALI
+- [ ] DOONDOONY
+- [ ] DEVJANG
+- [ ] TUHBM
+- [ ] CHRISYANG
+- [ ] JEEWHANR
+- [ ] Y0C
+- [ ] HERTZ
+
 ### 3회차 ( ~ 7/14)
 - [ ] GODORI - 면제권 사용
 - [X] YESDOING - [유용한 Git 도구들](https://velog.io/@yesdoing/유용한-Git-도구들)
