@@ -60,7 +60,7 @@
 ### 2019 Season 3
 
 ### 4회차 ( ~ 7/28)
-- [ ] GODORI
+- [X] GODORI - [🎢 Git Rebase 활용하기](https://velog.io/@godori/Git-Rebase)
 - [ ] YESDOING 
 - [ ] DALI
 - [ ] DOONDOONY
