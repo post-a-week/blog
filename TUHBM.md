@@ -2,6 +2,9 @@
 
 ## 2019 Season 3
 
+### 7월 3주 ~ 4주
+[새로운 CSS 레이아웃](https://tuhbm.github.io/2019/07/28/newLayout/)
+
 ### 7월 1주 ~ 2주
 [RxJS 시작하기](https://tuhbm.github.io/2019/07/14/rxjs2/)
 
