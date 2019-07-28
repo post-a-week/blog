@@ -65,7 +65,7 @@
 - [ ] DALI
 - [ ] DOONDOONY
 - [ ] DEVJANG
-- [ ] TUHBM
+- [X] TUHBM - [새로운 CSS 레이아웃](https://tuhbm.github.io/2019/07/28/newLayout/)
 - [ ] CHRISYANG
 - [ ] JEEWHANR
 - [ ] Y0C
