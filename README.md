@@ -8,7 +8,7 @@
       
 ## 바로가기
 - [📘 History](#-history)
-- [💰벌금 현황](#-벌금-현황)
+- [💰 벌금 현황](#-벌금-현황)
 - [🍕 후기 ](#-후기)
 
 ## 📌 Rule
@@ -66,7 +66,7 @@
 - [ ] DOONDOONY
 - [ ] DEVJANG
 - [X] TUHBM - [새로운 CSS 레이아웃](https://tuhbm.github.io/2019/07/28/newLayout/)
-- [ ] CHRISYANG
+- [X] CHRISYANG - [📚 한 주간 본 IT 글, 영상 아카이브 #7](https://velog.io/@chris/weekly-archive-7), [📚 한 주간 본 IT 글, 영상 아카이브 #8](https://velog.io/@chris/weekly-archive-8)
 - [X] JEEWHANR - [리듀서 초기화](https://eclatant.io/2019/07/28/2019-07-28-Reducer-Initialize/)
 - [ ] Y0C
 - [ ] HERTZ
