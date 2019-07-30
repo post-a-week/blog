@@ -59,6 +59,18 @@
 
 ### 2019 Season 3
 
+### 5회차 ( ~ 8/11)
+- [ ] GODORI
+- [ ] YESDOING 
+- [ ] DALI
+- [ ] DOONDOONY
+- [ ] DEVJANG
+- [ ] TUHBM
+- [ ] CHRISYANG
+- [ ] JEEWHANR
+- [ ] Y0C
+- [ ] HERTZ
+
 ### 4회차 ( ~ 7/28)
 - [X] GODORI - [🎢 Git Rebase 활용하기](https://velog.io/@godori/Git-Rebase)
 - [ ] YESDOING 
