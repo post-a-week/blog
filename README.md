@@ -65,7 +65,7 @@
 - [ ] DALI
 - [ ] DOONDOONY
 - [ ] DEVJANG
-- [ ] TUHBM
+- [X] TUHBM - [혼자 공부하는 c언어](https://tuhbm.github.io/2019/08/07/personalClanguage/)
 - [ ] CHRISYANG
 - [ ] JEEWHANR
 - [ ] Y0C
