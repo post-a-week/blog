@@ -2,6 +2,9 @@
 
 ## 2019 Season 3
 
+### 8월 1주 ~ 8월 2주
+[혼자 공부하는 c언어](https://tuhbm.github.io/2019/08/07/personalClanguage/)
+
 ### 7월 3주 ~ 4주
 [새로운 CSS 레이아웃](https://tuhbm.github.io/2019/07/28/newLayout/)
 
