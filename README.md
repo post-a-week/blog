@@ -62,7 +62,7 @@
 ### 5회차 ( ~ 8/11)
 - [ ] GODORI
 - [X] YESDOING - [Getting Started Go](https://velog.io/@yesdoing/Getting-Started-Go)
-- [ ] DALI
+- [X] DALI - [vue-test-utils-01](https://amorfati0310.github.io/learning-note/vue-test-01.html)
 - [ ] DOONDOONY
 - [ ] DEVJANG
 - [X] TUHBM - [혼자 공부하는 c언어](https://tuhbm.github.io/2019/08/07/personalClanguage/)
@@ -74,7 +74,7 @@
 ### 4회차 ( ~ 7/28)
 - [X] GODORI - [🎢 Git Rebase 활용하기](https://velog.io/@godori/Git-Rebase)
 - [ ] YESDOING 
-- [ ] DALI
+- [ ] DALI - 면제권 사용 ? (다 한 번 있나요? 아니면 벌금 )
 - [ ] DOONDOONY
 - [ ] DEVJANG
 - [X] TUHBM - [새로운 CSS 레이아웃](https://tuhbm.github.io/2019/07/28/newLayout/)
