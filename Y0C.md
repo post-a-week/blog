@@ -1,5 +1,8 @@
 # Posts
 
+## 8월 2주
+[TDD로 Golang 시작하기](https://y0c.github.io/2019/08/11/beginning-go/)
+
 ## 7월 2주
 [Vim Configuration 정리](https://y0c.github.io/2019/07/14/vim-config-for-js-developer/)
 
