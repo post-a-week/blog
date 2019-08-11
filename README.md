@@ -68,7 +68,7 @@
 - [X] TUHBM - [혼자 공부하는 c언어](https://tuhbm.github.io/2019/08/07/personalClanguage/)
 - [ ] CHRISYANG
 - [ ] JEEWHANR
-- [ ] Y0C
+- [X] Y0C - [TDD로 Golang 시작하기](https://y0c.github.io/2019/08/11/beginning-go/)
 - [ ] HERTZ
 
 ### 4회차 ( ~ 7/28)
