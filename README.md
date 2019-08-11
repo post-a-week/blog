@@ -66,7 +66,7 @@
 - [ ] DOONDOONY
 - [ ] DEVJANG
 - [X] TUHBM - [혼자 공부하는 c언어](https://tuhbm.github.io/2019/08/07/personalClanguage/)
-- [ ] CHRISYANG
+- [X] CHRISYANG - [📚 한 주간 본 IT 글, 영상 아카이브 #9](https://velog.io/@chris/weekly-archive-9), [📚 한 주간 본 IT 글, 영상 아카이브 #10](https://velog.io/@chris/weekly-archive-10), [💻 당신의 사이드 프로젝트를 위한 10가지 팁](https://velog.io/@chris/10-tips-for-starting-and-creating-side-projects)
 - [ ] JEEWHANR
 - [X] Y0C - [TDD로 Golang 시작하기](https://y0c.github.io/2019/08/11/beginning-go/)
 - [X] HERTZ - [Retrofit 사용하기.](https://hzz6.tistory.com/26)
