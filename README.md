@@ -69,7 +69,7 @@
 - [ ] CHRISYANG
 - [ ] JEEWHANR
 - [X] Y0C - [TDD로 Golang 시작하기](https://y0c.github.io/2019/08/11/beginning-go/)
-- [ ] HERTZ
+- [X] HERTZ - [Retrofit 사용하기.](https://hzz6.tistory.com/26)
 
 ### 4회차 ( ~ 7/28)
 - [X] GODORI - [🎢 Git Rebase 활용하기](https://velog.io/@godori/Git-Rebase)
