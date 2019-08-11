@@ -61,7 +61,7 @@
 
 ### 5회차 ( ~ 8/11)
 - [ ] GODORI
-- [ ] YESDOING 
+- [X] YESDOING - [Getting Started Go](https://velog.io/@yesdoing/Getting-Started-Go)
 - [ ] DALI
 - [ ] DOONDOONY
 - [ ] DEVJANG
