@@ -30,7 +30,7 @@
 - [DEVJANG](https://post-a-week.github.io/blog/DEVJANG) :https://devjang.github.io - 퀄리티 낮은 포스팅하지 않기!!
 - [TUHBM](https://post-a-week.github.io/blog/TUHBM) : https://tuhbm.github.io/ - 면제권 쓰지 않기
 - [CHRISYANG](https://post-a-week.github.io/blog/CHRISYANG) : https://velog.io/@chris - 번역글이 아닌 직접 쓰는 글 1편 이상 꼭 쓰기!
-- [JEEWHANR](https://github.com/post-a-week/blog/blob/master/JEEWHANR.md) : https://eclatant.io/ - 면제권 쓰지 않기
+- [JEEWHANR](https://github.com/post-a-week/blog/blob/master/JEEWHANR.md) : https://jeewhan.io/ - 면제권 쓰지 않기
 - [Y0C](https://github.com/post-a-week/blog/blob/master/Y0C.md): https://y0c.github.io - 밀리지 않고 포스트 작성하기
 - [HERTZ](https://github.com/post-a-week/blog/blob/master/HERTZ.md) : https://hzz6.tistory.com - 목표는 글 꾸준히 올리기
 
@@ -91,7 +91,7 @@
 - [ ] DEVJANG - 면제권 사용
 - [X] TUHBM - [새로운 CSS 레이아웃](https://tuhbm.github.io/2019/07/28/newLayout/)
 - [X] CHRISYANG - [📚 한 주간 본 IT 글, 영상 아카이브 #7](https://velog.io/@chris/weekly-archive-7), [📚 한 주간 본 IT 글, 영상 아카이브 #8](https://velog.io/@chris/weekly-archive-8)
-- [X] JEEWHANR - [리듀서 초기화](https://eclatant.io/2019/07/28/2019-07-28-Reducer-Initialize/)
+- [X] JEEWHANR - [리듀서 초기화](https://jeewhan.io/2019/07/28/2019-07-28-Reducer-Initialize/)
 - [ ] Y0C
 - [ ] HERTZ
 
@@ -115,7 +115,7 @@
 - [X] DEVJANG - [GDG FRONT-ENDGAME 참관기](https://devjang.github.io/2019/06/24/2019-06-24-gdg-front-endgame)
 - [X] TUHBM - [Rxjs를 시작하기전에...](https://tuhbm.github.io/2019/06/28/rxjs1/)
 - [X] CHRISYANG - [📚 한 주간 본 IT 글, 영상 아카이브 #3](https://velog.io/@chris/-%ED%95%9C-%EC%A3%BC%EA%B0%84-%EB%B3%B8-IT-%EA%B8%80-%EC%98%81%EC%83%81-%EC%95%84%EC%B9%B4%EC%9D%B4%EB%B8%8C-3), [📚 한 주간 본 IT 글, 영상 아카이브 #4](https://velog.io/@chris/-%ED%95%9C-%EC%A3%BC%EA%B0%84-%EB%B3%B8-IT-%EA%B8%80-%EC%98%81%EC%83%81-%EC%95%84%EC%B9%B4%EC%9D%B4%EB%B8%8C-4)
-- [X] JEEWHANR - [장바구니 만들기](https://eclatant.io/2019/06/30/2019-06-30-Cart/)
+- [X] JEEWHANR - [장바구니 만들기](https://jeewhan.io/2019/06/30/2019-06-30-Cart/)
 - [X] Y0C - [🚀 React Infinite scroll 구현하기](https://y0c.github.io/2019/06/30/react-infinite-scroll/)
 - [X] HERTZ -[Android Jetpack Lifecycle (1)](https://hzz6.tistory.com/25)
 
@@ -128,7 +128,7 @@
 - [X] DEVJANG - [(독서) 모던 웹을 위한 HTML5+CSS3 바이블](https://devjang.github.io/2019/06/09/2019-06-09-modern-web-html5-css3)
 - [X] TUHBM - [book리뷰 - 게임으로 익히는 코딩 알고리즘](https://tuhbm.github.io/2019/06/03/gameLearningAlgorithm/)
 - [X] CHRISYANG - [📚 한 주간 본 IT 글, 영상 아카이브 #1](https://velog.io/@chris/-%ED%95%9C-%EC%A3%BC%EA%B0%84-%EB%B3%B8-IT-%EA%B8%80-%EC%98%81%EC%83%81-%EC%95%84%EC%B9%B4%EC%9D%B4%EB%B8%8C-1), [📚 한 주간 본 IT 글, 영상 아카이브 #2](https://velog.io/@chris/-%ED%95%9C-%EC%A3%BC%EA%B0%84-%EB%B3%B8-IT-%EA%B8%80-%EC%98%81%EC%83%81-%EC%95%84%EC%B9%B4%EC%9D%B4%EB%B8%8C-2)
-- [X] JEEWHANR - [React Redux Hooks](https://eclatant.io/2019/06/16/2019-06-16-ReactReduxHooks/)
+- [X] JEEWHANR - [React Redux Hooks](https://jeewhan.io/2019/06/16/2019-06-16-ReactReduxHooks/)
 - [X] Y0C - [📦 Monorepo Tutorial](https://y0c.github.io/2019/06/14/monorepo-tutorial)
 - [ ] HERTZ
 
@@ -209,7 +209,7 @@
 - [X] DEVJANG - [JS30 - 스터디](https://devjang.github.io/2019/04/07/2019-04-07-javascipt30-6)
 - [X] TUHBM - [개발자도구 - Performance편](https://tuhbm.github.io/2019/04/02/devTools-performance/)
 - [X] CHRISYANG [💻 프론트엔드 면접 질문 - CSS #2](https://velog.io/@chris/-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-CSS-2)
-- [X] JEEWHANR - [카카오와 네이버를 통한 소셜 로그인](https://eclatant.io/2019/04/08/2019-04-08-KakaoAndNaver/)
+- [X] JEEWHANR - [카카오와 네이버를 통한 소셜 로그인](https://jeewhan.io/2019/04/08/2019-04-08-KakaoAndNaver/)
 - [ ] JYHWNG
 
 </details>
@@ -290,7 +290,7 @@
 - [X] DEVJANG - [(독서) 모던 자바스크립트](https://devjang.github.io/2019/02/22/2019-02-22-understanding-ecmascript-6)
 - [X] TUHBM - [(번역) - 자바스크립트 코드 30초 시리즈<Utiltity> 1편](https://tuhbm.github.io/2019/02/22/javascript30secUtiltity/)
 - [X] CHRISYANG - [웹 개발자 포트폴리오를 위한 10가지 팁](https://velog.io/@chris/%EC%9B%B9-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%EB%A5%BC-%EC%9C%84%ED%95%9C-10%EA%B0%80%EC%A7%80-%ED%8C%81)
-- [X] JEEWHANR - [루비 인터뷰 질문](https://eclatant.io/2019/02/23/2019-02-23-Ruby/)
+- [X] JEEWHANR - [루비 인터뷰 질문](https://jeewhan.io/2019/02/23/2019-02-23-Ruby/)
 - [ ] JYHWNG - 1회 면제 
 
 #### 2 월 3 주
@@ -302,7 +302,7 @@
 - [x] DEVJANG - [(독서) 자바스크립트를 깨우치다](https://devjang.github.io/2019/02/15/2019-02-15-enlightenment-js)
 - [X] TUHBM - [(번역) - 자바스크립트 코드 30초 시리즈<Date> 1편](https://tuhbm.github.io/2019/02/17/javascript30secDate/),[(번역) - 자바스크립트 코드 30초 시리즈<Array> 1편](https://tuhbm.github.io/2019/02/10/javascript30secArray1/) 
 - [x] CHRISYANG - [⚡️ Google Chrome Labs의 Quicklink로 웹페이지 UX 향상시키기](https://velog.io/@chris/-Google-Chrome-Labs%EC%9D%98-Quicklink%EB%A1%9C-%EC%9B%B9%ED%8E%98%EC%9D%B4%EC%A7%80-UX-%ED%96%A5%EC%83%81%EC%8B%9C%ED%82%A4%EA%B8%B0)
-- [x] JEEWHANR - [코딩 인터뷰 완전 분석](https://eclatant.io/2019/02/16/2019-02-16-CtCI/)
+- [x] JEEWHANR - [코딩 인터뷰 완전 분석](https://jeewhan.io/2019/02/16/2019-02-16-CtCI/)
 - [x] JYHWNG - [Optimizing Performance with Cache Control](https://jyhwng.github.io/blog/performance-optimization-with-cache-control)
   </details>
 
@@ -335,7 +335,7 @@
 - [ ] DEVJANG - 벌금
 - [ ] TUHBM - 벌금
 - [x] CHRISYANG [GraphQL 한글 문서 — 5. 실행](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-5-%EC%8B%A4%ED%96%89-81891be0770d)
-- [x] JEEWHANR [Async](https://eclatant.io/2018/12/10/2018-12-10-Async/)
+- [x] JEEWHANR [Async](https://jeewhan.io/2018/12/10/2018-12-10-Async/)
 
 #### 12 월 1 주
 - [x] RAJEPHON ([Akka 공부하기 - 01.2 메세지 정의 및 핸들링](https://blog.rajephon.dev/2018/12/08/akka-02/))
@@ -346,7 +346,7 @@
 - [ ] DEVJANG - 벌금
 - [x] TUHBM [번역 - OOCSS, BEM, SMACSS를 사용하여 CSS 구조를 효과적으로 구성하는 방법](https://tuhbm.github.io/2018/12/09/cssArchitecture/)
 - [x] CHRISYANG [GraphQL 한글 문서 — 4. 검증](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-4-%EA%B2%80%EC%A6%9D-eaee6ae75f72)
-- [x] JEEWHANR [Cookie || Web Storage](https://eclatant.io/2018/12/09/2018-12-09-Cookie-Web-Storage/)
+- [x] JEEWHANR [Cookie || Web Storage](https://jeewhan.io/2018/12/09/2018-12-09-Cookie-Web-Storage/)
 
 </details>
 
@@ -362,7 +362,7 @@
 - [x] DEVJANG [(번역) 멋진 ES6 - var, let 그리고 const를 깊이 살펴보다](https://devjang.github.io/2018/11/25/2018-11-25-var-let-and-const)
 - [x] TUHBM [번역 - 자바스크립트 분해(destructuring)](https://tuhbm.github.io/2018/12/01/javascriptDestructuring/)
 - [x] CHRISYANG [GraphQL 한글 문서 — 3. 스키마 & 타입](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-3-%EC%8A%A4%ED%82%A4%EB%A7%88-%ED%83%80%EC%9E%85-28b2da42eec0)
-- [x] JEEWHANR [이번 주에 접했던 것들 #3 : 18-12-02](https://eclatant.io/2018/12/02/2018-12-02-WeeklyHistory/)
+- [x] JEEWHANR [이번 주에 접했던 것들 #3 : 18-12-02](https://jeewhan.io/2018/12/02/2018-12-02-WeeklyHistory/)
 
 
 #### 11 월 4 주
@@ -374,7 +374,7 @@
 - [ ] DEVJANG - 벌금
 - [x] TUHBM ([번역 - 비동기 자바스크립트의 간단한 참고서 3편](https://tuhbm.github.io/2018/11/24/async03/))
 - [x] CHRISYANG ([GraphQL 한글 문서 — 1. GraphQL 소개](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-1-graphql-%EC%86%8C%EA%B0%9C-5f4f38c267b1)) ([GraphQL 한글 문서 — 2. 쿼리 & 뮤테이션](https://medium.com/@ysm0622/graphql-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-2-%EC%BF%BC%EB%A6%AC-%EB%AE%A4%ED%85%8C%EC%9D%B4%EC%85%98-e152f29902e7))
-- [x] JEEWHANR ([이번 주에 접했던 것들 #2 : 18-11-25](https://eclatant.io/2018/11/25/2018-11-25-WeeklyHistory/))
+- [x] JEEWHANR ([이번 주에 접했던 것들 #2 : 18-11-25](https://jeewhan.io/2018/11/25/2018-11-25-WeeklyHistory/))
 
 #### 11 월 3 주
 - [ ] RAJEPHON - 벌금
@@ -385,7 +385,7 @@
 - [ ] DEVJANG - 벌금
 - [x] TUHBM ([번역 - 비동기 자바스크립트의 간단한 참고서 2편](https://tuhbm.github.io/2018/11/14/async02/))
 - [ ] CHRISYANG - 벌금
-- [x] JEEWHANR ([이번 주에 접했던 것들 #1 : 18-11-18](https://eclatant.io/2018/11/18/2018-11-18-WeeklyHistory/))
+- [x] JEEWHANR ([이번 주에 접했던 것들 #1 : 18-11-18](https://jeewhan.io/2018/11/18/2018-11-18-WeeklyHistory/))
 
 #### 11 월 2 주
 - [x] RAJEPHON ([OpenWrt 패키지 빌드 환경 세팅하기](https://blog.rajephon.dev/2018/11/09/build-openwrt-00/))
@@ -396,7 +396,7 @@
 - [x] DEVJANG ([신입 프론트엔드 개발자들의 구직을 위한 소소한 팁](https://devjang.github.io/2018/11/11/2018-11-11-new-fed-begginer-tip))
 - [x] TUHBM ([번역 - 비동기 자바스크립트의 간단한 참고서 1편](https://tuhbm.github.io/2018/11/05/async01/))
 - [x] CHRISYANG ([💻 유용한 생산성 툴 몇가지 소개](https://medium.com/@ysm0622/%EC%9C%A0%EC%9A%A9%ED%95%9C-%EC%83%9D%EC%82%B0%EC%84%B1-%ED%88%B4-%EB%AA%87%EA%B0%80%EC%A7%80-%EC%86%8C%EA%B0%9C-a5cda7f18c8b))
-- [x] JEEWHANR ([이번 주에 접했던 것들 #0 : 18-11-11](https://eclatant.io/2018/11/11/2018-11-11-WeeklyHistory/))
+- [x] JEEWHANR ([이번 주에 접했던 것들 #0 : 18-11-11](https://jeewhan.io/2018/11/11/2018-11-11-WeeklyHistory/))
 
 #### 11 월 1 주
 
