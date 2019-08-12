@@ -59,6 +59,18 @@
 
 ### 2019 Season 3
 
+### 6회차 ( ~ 8/25)
+- [ ] GODORI
+- [ ] YESDOING 
+- [ ] DALI
+- [ ] DOONDOONY
+- [ ] DEVJANG
+- [ ] TUHBM
+- [ ] CHRISYANG
+- [ ] JEEWHANR
+- [ ] Y0C
+- [ ] HERTZ
+
 ### 5회차 ( ~ 8/11)
 - [ ] GODORI
 - [X] YESDOING - [Getting Started Go](https://velog.io/@yesdoing/Getting-Started-Go)
@@ -74,7 +86,7 @@
 ### 4회차 ( ~ 7/28)
 - [X] GODORI - [🎢 Git Rebase 활용하기](https://velog.io/@godori/Git-Rebase)
 - [ ] YESDOING 
-- [ ] DALI - 면제권 사용 ? (다 한 번 있나요? 아니면 벌금 )
+- [ ] DALI - 면제권 사용
 - [ ] DOONDOONY
 - [ ] DEVJANG
 - [X] TUHBM - [새로운 CSS 레이아웃](https://tuhbm.github.io/2019/07/28/newLayout/)
