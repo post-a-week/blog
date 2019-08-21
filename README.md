@@ -65,7 +65,7 @@
 - [ ] DALI
 - [ ] DOONDOONY
 - [ ] DEVJANG
-- [ ] TUHBM
+- [X] TUHBM - [book리뷰 - SMACSS](https://tuhbm.github.io/2019/08/21/book-review-smacss/)
 - [ ] CHRISYANG
 - [ ] JEEWHANR
 - [ ] Y0C
@@ -77,7 +77,7 @@
 - [X] DALI - [vue-test-utils-01](https://amorfati0310.github.io/learning-note/vue-test-01.html)
 - [ ] DOONDOONY
 - [X] DEVJANG - [프로그래밍 면접 이렇게 준비한다](https://devjang.github.io/2019/08/09/2019-08-09-programming-interviews-exposed)
-- [X] TUHBM - [혼자 공부하는 c언어](https://tuhbm.github.io/2019/08/07/personalClanguage/)
+- [X] TUHBM - [book리뷰 - 혼자 공부하는 c언어](https://tuhbm.github.io/2019/08/07/personalClanguage/)
 - [X] CHRISYANG - [📚 한 주간 본 IT 글, 영상 아카이브 #9](https://velog.io/@chris/weekly-archive-9), [📚 한 주간 본 IT 글, 영상 아카이브 #10](https://velog.io/@chris/weekly-archive-10), [💻 당신의 사이드 프로젝트를 위한 10가지 팁](https://velog.io/@chris/10-tips-for-starting-and-creating-side-projects)
 - [X] JEEWHANR - [API Handler](https://www.notion.so/jeewhan/190811-API-Handler-46c2077dd9944b1cb2f05e5de0c9c181)
 - [X] Y0C - [TDD로 Golang 시작하기](https://y0c.github.io/2019/08/11/beginning-go/)
@@ -89,7 +89,7 @@
 - [ ] DALI - 면제권 사용
 - [ ] DOONDOONY
 - [ ] DEVJANG - 면제권 사용
-- [X] TUHBM - [새로운 CSS 레이아웃](https://tuhbm.github.io/2019/07/28/newLayout/)
+- [X] TUHBM - [book리뷰 - 새로운 CSS 레이아웃](https://tuhbm.github.io/2019/07/28/newLayout/)
 - [X] CHRISYANG - [📚 한 주간 본 IT 글, 영상 아카이브 #7](https://velog.io/@chris/weekly-archive-7), [📚 한 주간 본 IT 글, 영상 아카이브 #8](https://velog.io/@chris/weekly-archive-8)
 - [X] JEEWHANR - [리듀서 초기화](https://jeewhan.io/2019/07/28/2019-07-28-Reducer-Initialize/)
 - [ ] Y0C

@@ -2,6 +2,9 @@
 
 ## 2019 Season 3
 
+### 8월 3주 ~ 8월 4주
+[book리뷰 - SMACSS](https://tuhbm.github.io/2019/08/21/book-review-smacss/)
+
 ### 8월 1주 ~ 8월 2주
 [혼자 공부하는 c언어](https://tuhbm.github.io/2019/08/07/personalClanguage/)
 
