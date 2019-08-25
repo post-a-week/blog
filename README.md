@@ -69,7 +69,7 @@
 - [X] TUHBM - [book리뷰 - SMACSS](https://tuhbm.github.io/2019/08/21/book-review-smacss/)
 - [ ] CHRISYANG
 - [ ] JEEWHANR
-- [ ] Y0C
+- [X] Y0C - [Golang과 Lambda를 활용한 알림 서비스 개발기](https://y0c.github.io/2019/08/25/go-lambda-develop-notify-service/)
 - [X] HERTZ - [[번역 및 정리] Understanding CPU and I/O bound for asynchronous operations](https://hzz6.tistory.com/27)
 
 ### 5회차 ( ~ 8/11)
