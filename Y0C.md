@@ -1,5 +1,8 @@
 # Posts
 
+## 8월 4주
+[Golang과 Lambda를 활용한 알림 서비스 개발기](https://y0c.github.io/2019/08/25/go-lambda-develop-notify-service/)
+
 ## 8월 2주
 [TDD로 Golang 시작하기](https://y0c.github.io/2019/08/11/beginning-go/)
 
