@@ -43,7 +43,7 @@
 
 <details>
 <summary>멤버 체크 양식</summary>
-
+    
 - [ ] GODORI
 - [ ] YESDOING 
 - [ ] DALI
@@ -60,7 +60,8 @@
 ### 2019 Season 3
 
 ### 6회차 ( ~ 8/25)
-- [ ] GODORI
+
+- [X] GODORI [Rebasing a Branch in Git](https://dev.to/godori/rebasing-a-branch-in-git-3bc)
 - [ ] YESDOING 
 - [ ] DALI
 - [ ] DOONDOONY
