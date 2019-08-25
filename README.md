@@ -70,7 +70,7 @@
 - [ ] CHRISYANG
 - [ ] JEEWHANR
 - [ ] Y0C
-- [ ] HERTZ
+- [X] HERTZ - [[번역 및 정리] Understanding CPU and I/O bound for asynchronous operations](https://hzz6.tistory.com/27)
 
 ### 5회차 ( ~ 8/11)
 - [ ] GODORI
