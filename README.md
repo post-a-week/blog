@@ -62,7 +62,7 @@
 ### 6회차 ( ~ 8/25)
 
 - [X] GODORI [Rebasing a Branch in Git](https://dev.to/godori/rebasing-a-branch-in-git-3bc)
-- [ ] YESDOING 
+- [X] YESDOING [[번역] - Component-Driven Development](https://velog.io/@yesdoing/번역-Component-Driven-Development-udjzqwqgay)
 - [ ] DALI
 - [ ] DOONDOONY
 - [ ] DEVJANG
