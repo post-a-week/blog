@@ -65,7 +65,7 @@
 - [X] YESDOING [[번역] - Component-Driven Development](https://velog.io/@yesdoing/번역-Component-Driven-Development-udjzqwqgay)
 - [ ] DALI
 - [ ] DOONDOONY
-- [ ] DEVJANG
+- [X] DEVJANG - [개발자의 공부하기](https://devjang.github.io/2019/08/25/2019-08-25-learning-developer)
 - [X] TUHBM - [book리뷰 - SMACSS](https://tuhbm.github.io/2019/08/21/book-review-smacss/)
 - [X] CHRISYANG - [📚 한 주간 본 IT 글, 영상 아카이브 #11](https://velog.io/@chris/weekly-archive-11), [📚 한 주간 본 IT 글, 영상 아카이브 #12](https://velog.io/@chris/weekly-archive-12)
 - [ ] JEEWHANR
