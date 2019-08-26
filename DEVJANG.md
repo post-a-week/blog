@@ -1,8 +1,11 @@
 # Posts
 
+## 6회차 ( ~ 8/25)
+[개발자의 공부하기](https://devjang.github.io/2019/08/25/2019-08-25-learning-developer)
+
 ## 5회차 ( ~ 8/11)
 
-[프로그래밍 면접 이렇게 준비한다](https://devjang.github.io/2019/08/09/2019-08-09-programming-interviews-exposed)
+[(독서) 프로그래밍 면접 이렇게 준비한다](https://devjang.github.io/2019/08/09/2019-08-09-programming-interviews-exposed)
 
 ## 4회차 ( ~ 7/28)
 
@@ -10,7 +13,7 @@
 
 ## 3회차 ( ~ 7/14)
 
-[게임으로 익히는 코딩 알고리즘](https://devjang.github.io/2019/07/12/2019-07-12-coding-algorithm-with-game)
+[(독서) 게임으로 익히는 코딩 알고리즘](https://devjang.github.io/2019/07/12/2019-07-12-coding-algorithm-with-game)
 
 ## 2회차 ( ~ 6/30)
 
