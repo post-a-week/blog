@@ -448,16 +448,16 @@
 
 <details>
 <summary> Season 3 </summary>
-- GODORI
-- YESDOING 
-- DALI
-- DOONDOONY
-- DEVJANG
-- TUHBM
-- CHRISYANG
-- JEEWHANR
-- Y0C
-- HERTZ
+
+- GODORI - 1회
+- YESDOING - 1회
+- DALI - 1회
+- DOONDOONY - 2회
+- JEEWHANR - 1회
+- HERTZ - 2회
+
+⇒ 총 8회
+
 </details>
 
 <details>
