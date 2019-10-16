@@ -448,7 +448,16 @@
 
 <details>
 <summary> Season 3 </summary>
-
+- GODORI
+- YESDOING 
+- DALI
+- DOONDOONY
+- DEVJANG
+- TUHBM
+- CHRISYANG
+- JEEWHANR
+- Y0C
+- HERTZ
 </details>
 
 <details>
