@@ -29,15 +29,15 @@
 
 ## ✏️ Blog
 * [닉네임] (개인 md 파일 링크) : 블로그 링크 - ⛳️ 이번 시즌 목표
-- [GODORI](https://post-a-week.github.io/blog/GODORI) : https://velog.io/@godori - 하나 이상의 플랫폼에 포스팅하기
-- [DOONDOONY](https://post-a-week.github.io/blog/DOONDOONY) : https://velog.io/@doondoony - 1. 최소 4번 이상 글 쓰기 / 2. Docker 관련 글 하나 이상 쓰기
-- [YESDOING](https://post-a-week.github.io/blog/YESDOING) : https://velog.io/@yesdoing - CRA 없이 리액트 프로젝트를 구성하는 UI-Component 제작기 시리즈 쓰기
-- [DALI](https://post-a-week.github.io/blog/DALI) :https://medium.com/@lyhy0310 - 개인 블로그에 글 꾸준히 올리기
-- [DEVJANG](https://post-a-week.github.io/blog/DEVJANG) :https://devjang.github.io - 퀄리티 낮은 포스팅하지 않기!!
-- [CHRISYANG](https://post-a-week.github.io/blog/CHRISYANG) : https://velog.io/@chris - 번역글이 아닌 직접 쓰는 글 1편 이상 꼭 쓰기!
-- [JEEWHANR](https://github.com/post-a-week/blog/blob/master/JEEWHANR.md) : https://jeewhan.io/ - 면제권 쓰지 않기
-- [Y0C](https://github.com/post-a-week/blog/blob/master/Y0C.md): https://y0c.github.io - 밀리지 않고 포스트 작성하기
-- [DEVSSUN]()
+- [GODORI](https://post-a-week.github.io/blog/GODORI) : https://velog.io/@godori - 1. 배너메이커 리뉴얼하고 후기 쓰기 2.연말 회고 포스트 쓰기
+- [DOONDOONY](https://post-a-week.github.io/blog/DOONDOONY) : https://velog.io/@doondoony - 시즌목표는 한 번이라도 글을 쓰는 것입니다 ㅇㅅㅇ
+- [YESDOING](https://post-a-week.github.io/blog/YESDOING) : https://velog.io/@yesdoing - 제대로 토이 프로젝트를 진행하고 주 단위의 회고글을 작성하는 것
+- [DALI](https://post-a-week.github.io/blog/DALI) :https://medium.com/@lyhy0310 - 1. 4주동안 빠짐 없이 글 쓰기 -> JS 자료구조 알고리즘 & 코어 자바스크립트 읽으며 글 쓰기 ! 책 다 읽기 + 글 정리
+- [DEVJANG](https://post-a-week.github.io/blog/DEVJANG) :https://devjang.github.io - 퀄리티있고 흔치 않은 아티클 작성
+- [CHRISYANG](https://post-a-week.github.io/blog/CHRISYANG) : https://velog.io/@chris - 2019년 회고글 작성하기! (한해정리를 11월부터 작성시작해서 2019년 12월 31일 전에 작성완료하기!)
+- [JEEWHANR](https://github.com/post-a-week/blog/blob/master/JEEWHANR.md) : https://jeewhan.io/ - 일요일 이전에 제출하기!
+- [Y0C](https://github.com/post-a-week/blog/blob/master/Y0C.md): https://y0c.github.io - 매주 포스팅하기
+- [DEVSSUN](https://post-a-week.github.io/blog/DEVSSUN): https://hyesunzzang.tistory.com/ - 1. 매주 글 쓰기 2. Git 관련 글 한편 쓰기
 
 ## 📘 History
 
