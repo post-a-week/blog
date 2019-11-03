@@ -1,9 +1,3 @@
-# Season 4
+# Posts
 
-## week 1
-
-## week 2
-
-## week 3
-
-## week 4
+## 11월 1주
