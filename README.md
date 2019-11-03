@@ -11,15 +11,21 @@
 - [💰 벌금 현황](#-벌금-현황)
 - [🍕 후기 ](#-후기)
 
-## 📌 Rule
+## 📌 Basic Rule
 
-- 2주마다 블로그 **포스트 하나를 작성**하고 **메인 README.md 파일에 글 링크를 업데이트**합니다.
-- 개인 [닉네임].md파일을 포함하여 모든 업데이트 사항은 직접 편집해 주세요. PR로 추가하려면 본인이 직접 merge 하면 됩니다.
+- 정해진 기간 안에 블로그 **포스트 하나를 작성**하고 **메인 README.md 파일에 글 링크를 업데이트**합니다.
 - 마감 시간은 월요일로 넘어가는 일요일 밤 12시까지입니다.
-- 벌금은 1 회당 5 천원이며, 벌금 현황에 기록해 두었다가 12주가 끝난 후 정산할 예정입니다.
-- 모든 멤버는 한 회의 포스트를 쉴 수 있는 면제권이 1회 주어집니다.
+- 개인 [닉네임].md파일을 포함하여 모든 업데이트 사항은 직접 편집해 주세요. PR로 추가하려면 본인이 직접 merge 하면 됩니다.
+- 해당 주에 작성하지 못한 경우 벌금으로 기록됩니다. 벌금은 시즌이 끝난 후 마지막에 정산합니다.
 - 기술과 관련된 주제를 작성해 주세요! 형식과 내용 및 분량은 자유입니다. (예시: 기술 포스팅, 스터디나 책 정리, 번역, 회고 등)
+- 모인 벌금은 모임 운영비로 사용하거나 우수 작성자분께 지급됩니다.
 - 기타 문의 사항: gej.okpo@gmail.com
+
+## Season 4 Rule
+
+- 1회차: 11.03 ~ 11.10 / 2회차: 11.11 ~ 11.17 / 3회차: 11.18 ~ 11.24 / 4회차: 11.25 ~ 12.01
+- 1주일에 한 번 포스트를 작성합니다.
+- 회차당 미작성 시 벌금은 10,000원입니다.
 
 ## ✏️ Blog
 * [닉네임] (개인 md 파일 링크) : 블로그 링크 - ⛳️ 이번 시즌 목표
@@ -28,11 +34,10 @@
 - [YESDOING](https://post-a-week.github.io/blog/YESDOING) : https://velog.io/@yesdoing - CRA 없이 리액트 프로젝트를 구성하는 UI-Component 제작기 시리즈 쓰기
 - [DALI](https://post-a-week.github.io/blog/DALI) :https://medium.com/@lyhy0310 - 개인 블로그에 글 꾸준히 올리기
 - [DEVJANG](https://post-a-week.github.io/blog/DEVJANG) :https://devjang.github.io - 퀄리티 낮은 포스팅하지 않기!!
-- [TUHBM](https://post-a-week.github.io/blog/TUHBM) : https://tuhbm.github.io/ - 면제권 쓰지 않기
 - [CHRISYANG](https://post-a-week.github.io/blog/CHRISYANG) : https://velog.io/@chris - 번역글이 아닌 직접 쓰는 글 1편 이상 꼭 쓰기!
 - [JEEWHANR](https://github.com/post-a-week/blog/blob/master/JEEWHANR.md) : https://jeewhan.io/ - 면제권 쓰지 않기
 - [Y0C](https://github.com/post-a-week/blog/blob/master/Y0C.md): https://y0c.github.io - 밀리지 않고 포스트 작성하기
-- [HERTZ](https://github.com/post-a-week/blog/blob/master/HERTZ.md) : https://hzz6.tistory.com - 목표는 글 꾸준히 올리기
+- [DEVSSUN]()
 
 ## 📘 History
 
@@ -49,13 +54,27 @@
 - [ ] DALI
 - [ ] DOONDOONY
 - [ ] DEVJANG
-- [ ] TUHBM
 - [ ] CHRISYANG
 - [ ] JEEWHANR
 - [ ] Y0C
-- [ ] HERTZ
+- [ ] DEVSSUN
 
 </details>
+
+### 2019 Season 4
+
+### 1회차 ( ~ 11/10)
+    
+- [ ] GODORI
+- [ ] YESDOING 
+- [ ] DALI
+- [ ] DOONDOONY
+- [ ] DEVJANG
+- [ ] CHRISYANG
+- [ ] JEEWHANR
+- [ ] Y0C
+- [ ] DEVSSUN
+
 
 ### 2019 Season 3
 
