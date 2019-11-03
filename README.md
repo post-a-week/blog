@@ -21,7 +21,7 @@
 - 모인 벌금은 모임 운영비로 사용하거나 우수 작성자분께 지급됩니다.
 - 기타 문의 사항: gej.okpo@gmail.com
 
-## Season 4 Rule
+## 🍂Season 4 Rule
 
 - 1주일에 한 번 포스트를 작성합니다.
 - 회차당 미작성 시 벌금은 1만원입니다.
@@ -518,5 +518,6 @@
 ## 🍕 후기
 - [post-a-week season1 후기](https://slides.com/godori/post-a-week)
 - [post-a-week season2 후기](https://slides.com/godori/post-a-week-season-2)
+- [post-a-week season3 후기](https://slides.com/godori/post-a-week-3)
 
 **[⬆ Top](#바로가기)**
