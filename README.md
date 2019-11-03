@@ -37,7 +37,7 @@
 - [CHRISYANG](https://post-a-week.github.io/blog/CHRISYANG) : https://velog.io/@chris - 2019년 회고글 작성하기! (한해정리를 11월부터 작성시작해서 2019년 12월 31일 전에 작성완료하기!)
 - [JEEWHANR](https://github.com/post-a-week/blog/blob/master/JEEWHANR.md) : https://jeewhan.io/ - 일요일 이전에 제출하기!
 - [Y0C](https://github.com/post-a-week/blog/blob/master/Y0C.md): https://y0c.github.io - 매주 포스팅하기
-- [DEVSSUN](https://post-a-week.github.io/blog/DEVSSUN): https://hyesunzzang.tistory.com/ - 1. 매주 글 쓰기 2. Git 관련 글 한편 쓰기
+- [DEVSSUN](https://github.com/post-a-week/blog/blob/master/DEVSSUN.md): https://hyesunzzang.tistory.com/ - 1. 매주 글 쓰기 2. Git 관련 글 한편 쓰기
 
 ## 📘 History
 
