@@ -75,7 +75,7 @@
 - [ ] CHRISYANG
 - [ ] JEEWHANR
 - [ ] Y0C
-- [ ] DEVSSUN
+- [X] DEVSSUN [책 정리 - 객체지향의 사실과 오해 - 1) 협력하는 객체들의 공동체](https://hyesunzzang.tistory.com/166)
 
 
 ### 2019 Season 3
