@@ -73,7 +73,7 @@
 - [ ] DOONDOONY
 - [x] DEVJANG - [두고 두고 볼만한 유튜브 채널 모음](https://velog.io/@devjang/%EB%91%90%EA%B3%A0-%EB%91%90%EA%B3%A0-%EB%B3%BC%EB%A7%8C%ED%95%9C-%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EC%B1%84%EB%84%90-%EB%AA%A8%EC%9D%8C)
 - [ ] CHRISYANG
-- [ ] JEEWHANR
+- [X] JEEWHANR [HTTP 완벽 가이드 6장 정리](https://www.notion.so/jeewhan/6-HTTP-HTTP-658bdfa7f3ec462197dfde88e073a0c4)
 - [ ] Y0C
 - [X] DEVSSUN [책 정리 - 객체지향의 사실과 오해 - 1) 협력하는 객체들의 공동체](https://hyesunzzang.tistory.com/166)
 
