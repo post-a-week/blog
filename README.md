@@ -65,6 +65,18 @@
 
 ### 2019 Season 4
 
+### 2회차 ( ~ 11/17)
+
+- [ ] GODORI
+- [ ] YESDOING 
+- [ ] DALI
+- [ ] DOONDOONY
+- [ ] DEVJANG
+- [ ] CHRISYANG
+- [ ] JEEWHANR
+- [ ] Y0C
+- [ ] DEVSSUN
+
 ### 1회차 ( ~ 11/10)
     
 - [ ] GODORI
