@@ -68,7 +68,7 @@
 ### 2회차 ( ~ 11/17)
 
 - [ ] GODORI
-- [ ] YESDOING 
+- [x] YESDOING [FP JavaScript - 1장 정리](https://yesdoing.dev/functional%20programming/fp-javascript---1%EC%9E%A5-%EC%A0%95%EB%A6%AC/)
 - [ ] DALI
 - [ ] DOONDOONY
 - [ ] DEVJANG
