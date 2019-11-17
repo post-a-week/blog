@@ -5,7 +5,7 @@
     </a>
   매주 1 개 이상 블로그 포스트 작성하기
 </div>
-      
+
 ## 바로가기
 - [📘 History](#-history)
 - [💰 벌금 현황](#-벌금-현황)
@@ -50,9 +50,9 @@
 
 <details>
 <summary>멤버 체크 양식</summary>
-    
+
 - [ ] GODORI
-- [ ] YESDOING 
+- [ ] YESDOING
 - [ ] DALI
 - [ ] DOONDOONY
 - [ ] DEVJANG
@@ -74,13 +74,13 @@
 - [x] DEVJANG - [두고 두고 볼만한 유튜브 채널 모음 (해외)](https://velog.io/@devjang/%EB%91%90%EA%B3%A0-%EB%91%90%EA%B3%A0-%EB%B3%BC%EB%A7%8C%ED%95%9C-%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EC%B1%84%EB%84%90-%EB%AA%A8%EC%9D%8C-%ED%95%B4%EC%99%B8)
 - [ ] CHRISYANG
 - [ ] JEEWHANR
-- [ ] Y0C
+- [x] Y0C - [GraphQL Data Mocking](https://y0c.github.io/2019/11/17/graphql-data-mocking)
 - [ ] DEVSSUN [2019-11-12 Tiny Spec Seoul 세미나 후기](https://hyesunzzang.tistory.com/167)
 
 ### 1회차 ( ~ 11/10)
-    
+
 - [ ] GODORI
-- [ ] YESDOING 
+- [ ] YESDOING
 - [x] DALI [eslint-prettier-lint-staged-husky](https://amorfati0310.github.io/learning-note/elint-prettier-lint-staged.html)
 - [ ] DOONDOONY
 - [x] DEVJANG - [두고 두고 볼만한 유튜브 채널 모음](https://velog.io/@devjang/%EB%91%90%EA%B3%A0-%EB%91%90%EA%B3%A0-%EB%B3%BC%EB%A7%8C%ED%95%9C-%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EC%B1%84%EB%84%90-%EB%AA%A8%EC%9D%8C)
@@ -119,7 +119,7 @@
 
 ### 4회차 ( ~ 7/28)
 - [X] GODORI - [🎢 Git Rebase 활용하기](https://velog.io/@godori/Git-Rebase)
-- [ ] YESDOING 
+- [ ] YESDOING
 - [ ] DALI - 면제권 사용
 - [ ] DOONDOONY
 - [ ] DEVJANG - 면제권 사용
@@ -143,7 +143,7 @@
 
 ### 2회차 ( ~ 6/30)
 - [X] GODORI [Netlify 브랜치 배포를 위한 서브 도메인 설정하기](https://velog.io/@godori/netlify-branch-sub-domain)
-- [ ] YESDOING 
+- [ ] YESDOING
 - [X] DALI - [js생성자함수](https://amorfati0310.github.io/learning-note/newFn.html)
 - [X] DOONDOONY - [🐍 SQL Formatting in Python](https://velog.io/@doondoony/python-sql-formatting)
 - [X] DEVJANG - [GDG FRONT-ENDGAME 참관기](https://devjang.github.io/2019/06/24/2019-06-24-gdg-front-endgame)
@@ -195,14 +195,14 @@
 </details>
 
 <details>
-  
+
 <summary> 4월 </summary>
-  
+
   ### 4월 4주
 - [X] RAJEPHON - [Erlang - 05. Rebar3 Project Setup](https://blog.rajephon.dev/2019/04/25/erlang-05-rebar3-project-setup/)
 - [X] GODORI - [Docker Cheat Sheet](https://velog.io/@godori/-Docker-Cheat-Sheet)
 - [X] YESDOING - [How the V8 engine works?](https://velog.io/@yesdoing/How-the-V8-engine-works-lvjv0wxtt8)
-- [ ] DALI - 벌금 
+- [ ] DALI - 벌금
 - [X] DOONDOONY [🌈 colorls 로 ls 명령을 더 예쁘게 보기](https://velog.io/@doondoony/macos-colorls-installation)
 - [X] DEVJANG - [JS30 - 스터디](https://devjang.github.io/2019/04/27/2019-04-27-javascipt30-8)
 - [X] TUHBM - [용어정리 - 아키텍처란 무엇인가?](https://tuhbm.github.io/2019/04/24/architecture/)
@@ -214,7 +214,7 @@
 - [X] RAJEPHON - [Erlang - 04. Functions](https://blog.rajephon.dev/2019/04/20/erlang-04-functions/)
 - [X] GODORI - [🌱 Spring Boot 에러 처리 페이지 만들기](https://velog.io/@godori/spring-boot-error)
 - [ ] YESDOING - 벌금
-- [ ] DALI - 벌금 
+- [ ] DALI - 벌금
 - [X] DOONDOONY - [🐍 Python functools.wraps 를 알아보자](https://velog.io/@doondoony/python-functools-wraps)
 - [ ] DEVJANG - 1회 면제 사용
 - [X] TUHBM - [book리뷰 - 알고리즘이 욕망하는 것들](https://tuhbm.github.io/2019/04/17/bookAlgorithms/)
@@ -250,12 +250,12 @@
 
 <details>
 <summary> 3월 </summary>
-  
+
 #### 3월 5주
 - [X] RAJEPHON - [Erlang - 02. Pattern Matching](https://blog.rajephon.dev/2019/03/27/erlang-02-pattern-matching/)
 - [X] GODORI - [Factory Method Pattern in JS](https://velog.io/@godori/factory-method-pattern)
 - [X] YESDOING - [(번역)Usage with TypeScript](https://yesdoing.github.io/posting/2019/03/31/usage_with_typescript.html)
-- [ ] DALI - 벌금 
+- [ ] DALI - 벌금
 - [X] DOONDOONY [👀 IntersectionObserver API](https://velog.io/@doondoony/IntersectionObserver)
 - [X] DEVJANG - [JS30 - 스터디](https://devjang.github.io/2019/03/31/2019-03-31-javascipt30-5)
 - [ ] TUHBM - 벌금
@@ -291,7 +291,7 @@
 - [X] RAJEPHON - [얼랭 학습기 (20190303~20190309)](https://blog.rajephon.dev/2019/03/09/erlang-learned-20190303-20190309/)
 - [ ] GODORI - 면제권 사용
 - [X] YESDOING - [JavaScript Collections](https://velog.io/@yesdoing/JavaScript-Collections)
-- [ ] DALI - 벌금 
+- [ ] DALI - 벌금
 - [X] DOONDOONY - [How Python works?](https://velog.io/@doondoony/How-Python-works)
 - [X] DEVJANG - [JS30 - 스터디](https://devjang.github.io/2019/03/10/2019-03-10-javascipt30-2)
 - [X] TUHBM - [SEO(Search Engine Optimization) 검색 엔진 최적화 2편](https://tuhbm.github.io/2019/03/04/seo2/)
@@ -302,7 +302,7 @@
 #### 3월 1주
 - [X] RAJEPHON - [깃허브 페이지에 커스텀 도메인 연결하기 🛰](https://blog.rajephon.dev/2019/03/01/github-custom-domain-with-cloudflare/)
 - [X] GODORI - [velog 배너 생성기를 만들어 봅시다](https://velog.io/@godori/banner-maker)
-- [X] YESDOING - 벌금 
+- [X] YESDOING - 벌금
 - [X] DALI - [WIL 0225~0303](https://medium.com/@lyhy0310/wil-0225-03-03-4c30aadd437e)
 - [X] DOONDOONY - [IP(Internet Protocol) 란 무엇인가](https://velog.io/@doondoony/ip101)
 - [X] DEVJANG - [JS30 - 스터디](https://devjang.github.io/2019/03/03/2019-03-03-javascipt30-1)
@@ -314,7 +314,7 @@
 
 <details>
 <summary> 2월 </summary>
-  
+
 #### 2월 4주
 - [ ] RAJEPHON - 1회 면제 사용
 - [X] GODORI - [Today I Learned (feat.Notion 템플릿)](https://velog.io/@godori/Today-I-Learned-feat.Notion-%ED%85%9C%ED%94%8C%EB%A6%BF-p7jsiy5i7x)
@@ -325,7 +325,7 @@
 - [X] TUHBM - [(번역) - 자바스크립트 코드 30초 시리즈<Utiltity> 1편](https://tuhbm.github.io/2019/02/22/javascript30secUtiltity/)
 - [X] CHRISYANG - [웹 개발자 포트폴리오를 위한 10가지 팁](https://velog.io/@chris/%EC%9B%B9-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%EB%A5%BC-%EC%9C%84%ED%95%9C-10%EA%B0%80%EC%A7%80-%ED%8C%81)
 - [X] JEEWHANR - [루비 인터뷰 질문](https://jeewhan.io/2019/02/23/2019-02-23-Ruby/)
-- [ ] JYHWNG - 1회 면제 
+- [ ] JYHWNG - 1회 면제
 
 #### 2 월 3 주
 - [x] RAJEPHON - [Akka 공부하기 - 01.4 Child Actors, Actor Hierarchies, and Supervision](https://blog.rajephon.dev/2019/02/17/akka-04/)
@@ -334,7 +334,7 @@
 - [x] DALI [서평-함께자라기](https://medium.com/@lyhy0310/%ED%95%A8%EA%BB%98-%EC%9E%90%EB%9D%BC%EA%B8%B0-52da8d3da56d)
 - [ ] DOONDOONY - 1회 면제
 - [x] DEVJANG - [(독서) 자바스크립트를 깨우치다](https://devjang.github.io/2019/02/15/2019-02-15-enlightenment-js)
-- [X] TUHBM - [(번역) - 자바스크립트 코드 30초 시리즈<Date> 1편](https://tuhbm.github.io/2019/02/17/javascript30secDate/),[(번역) - 자바스크립트 코드 30초 시리즈<Array> 1편](https://tuhbm.github.io/2019/02/10/javascript30secArray1/) 
+- [X] TUHBM - [(번역) - 자바스크립트 코드 30초 시리즈<Date> 1편](https://tuhbm.github.io/2019/02/17/javascript30secDate/),[(번역) - 자바스크립트 코드 30초 시리즈<Array> 1편](https://tuhbm.github.io/2019/02/10/javascript30secArray1/)
 - [x] CHRISYANG - [⚡️ Google Chrome Labs의 Quicklink로 웹페이지 UX 향상시키기](https://velog.io/@chris/-Google-Chrome-Labs%EC%9D%98-Quicklink%EB%A1%9C-%EC%9B%B9%ED%8E%98%EC%9D%B4%EC%A7%80-UX-%ED%96%A5%EC%83%81%EC%8B%9C%ED%82%A4%EA%B8%B0)
 - [x] JEEWHANR - [코딩 인터뷰 완전 분석](https://jeewhan.io/2019/02/16/2019-02-16-CtCI/)
 - [x] JYHWNG - [Optimizing Performance with Cache Control](https://jyhwng.github.io/blog/performance-optimization-with-cache-control)
