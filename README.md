@@ -67,7 +67,7 @@
 
 ### 2회차 ( ~ 11/17)
 
-- [ ] GODORI
+- [X] GODORI [배너 메이커 업데이트를 하자](https://velog.io/@godori/banner-maker-update)
 - [x] YESDOING [FP JavaScript - 1장 정리](https://yesdoing.dev/functional%20programming/fp-javascript---1%EC%9E%A5-%EC%A0%95%EB%A6%AC/)
 - [ ] DALI
 - [ ] DOONDOONY
