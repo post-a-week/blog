@@ -75,7 +75,7 @@
 - [ ] CHRISYANG
 - [ ] JEEWHANR
 - [ ] Y0C
-- [ ] DEVSSUN
+- [ ] DEVSSUN [2019-11-12 Tiny Spec Seoul 세미나 후기](https://hyesunzzang.tistory.com/167)
 
 ### 1회차 ( ~ 11/10)
     
