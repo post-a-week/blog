@@ -71,7 +71,7 @@
 - [x] YESDOING [FP JavaScript - 1장 정리](https://yesdoing.dev/functional%20programming/fp-javascript---1%EC%9E%A5-%EC%A0%95%EB%A6%AC/)
 - [ ] DALI
 - [ ] DOONDOONY
-- [ ] DEVJANG
+- [x] DEVJANG - [두고 두고 볼만한 유튜브 채널 모음 (해외)](https://velog.io/@devjang/%EB%91%90%EA%B3%A0-%EB%91%90%EA%B3%A0-%EB%B3%BC%EB%A7%8C%ED%95%9C-%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EC%B1%84%EB%84%90-%EB%AA%A8%EC%9D%8C-%ED%95%B4%EC%99%B8)
 - [ ] CHRISYANG
 - [ ] JEEWHANR
 - [ ] Y0C
