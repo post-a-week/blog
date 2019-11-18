@@ -65,6 +65,18 @@
 
 ### 2019 Season 4
 
+### 3회차 ( ~ 11/24)
+
+- [ ] GODORI
+- [ ] YESDOING
+- [ ] DALI
+- [ ] DOONDOONY
+- [ ] DEVJANG
+- [ ] CHRISYANG
+- [ ] JEEWHANR
+- [ ] Y0C
+- [ ] DEVSSUN
+
 ### 2회차 ( ~ 11/17)
 
 - [X] GODORI [배너 메이커 업데이트를 하자](https://velog.io/@godori/banner-maker-update)
