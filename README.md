@@ -75,7 +75,7 @@
 - [ ] CHRISYANG
 - [ ] JEEWHANR
 - [ ] Y0C
-- [ ] DEVSSUN
+- [X] DEVSSUN [2019-11-16 Woman Who Code Seoul 조금 이른 연말행사 후기](https://hyesunzzang.tistory.com/168)
 
 ### 2회차 ( ~ 11/17)
 
