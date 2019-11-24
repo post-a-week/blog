@@ -74,7 +74,7 @@
 - [x] DEVJANG - [리액트를 다루는 기술 리뷰](https://velog.io/@devjang/%EB%A6%AC%EC%95%A1%ED%8A%B8%EB%A5%BC-%EB%8B%A4%EB%A3%A8%EB%8A%94-%EA%B8%B0%EC%88%A0-%EB%A6%AC%EB%B7%B0-14k37daoab)
 - [ ] CHRISYANG
 - [ ] JEEWHANR
-- [ ] Y0C
+- [X] Y0C - [GraphQL DataLoader를 이용한 성능 최적화](https://y0c.github.io/2019/11/24/graphql-query-optimize-with-dataloader/)
 - [X] DEVSSUN [2019-11-16 Woman Who Code Seoul 조금 이른 연말행사 후기](https://hyesunzzang.tistory.com/168)
 
 ### 2회차 ( ~ 11/17)
