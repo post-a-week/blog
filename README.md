@@ -67,7 +67,7 @@
 
 ### 3회차 ( ~ 11/24)
 
-- [ ] GODORI
+- [ ] GODORI - [나만의 리액트 만들기](https://velog.io/@godori/%EB%82%98%EB%A7%8C%EC%9D%98-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 - [ ] YESDOING
 - [ ] DALI
 - [ ] DOONDOONY
