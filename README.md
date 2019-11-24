@@ -65,9 +65,20 @@
 
 ### 2019 Season 4
 
+### 4회차 ( ~ 12/01)
+- [ ] GODORI
+- [ ] YESDOING
+- [ ] DALI
+- [ ] DOONDOONY
+- [ ] DEVJANG
+- [ ] CHRISYANG
+- [ ] JEEWHANR
+- [ ] Y0C
+- [ ] DEVSSUN
+
 ### 3회차 ( ~ 11/24)
 
-- [X] GODORI - [나만의 리액트 만들기](https://velog.io/@godori/나만의-리액트-만들기)
+- [X] GODORI - [나만의 리액트 만들기](https://velog.io/@godori/build-your-own-react)
 - [ ] YESDOING
 - [ ] DALI
 - [ ] DOONDOONY
