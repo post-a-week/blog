@@ -98,7 +98,7 @@
 - [ ] CHRISYANG
 - [ ] JEEWHANR
 - [x] Y0C - [GraphQL Data Mocking](https://y0c.github.io/2019/11/17/graphql-data-mocking)
-- [ ] DEVSSUN [2019-11-12 Tiny Spec Seoul 세미나 후기](https://hyesunzzang.tistory.com/167)
+- [X] DEVSSUN [2019-11-12 Tiny Spec Seoul 세미나 후기](https://hyesunzzang.tistory.com/167)
 
 ### 1회차 ( ~ 11/10)
 
