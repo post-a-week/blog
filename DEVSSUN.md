@@ -8,3 +8,6 @@
 
 ## 11월 3주
 🎤 [2019-11-16 Woman Who Code Seoul 조금 이른 연말행사 후기](https://hyesunzzang.tistory.com/168)
+
+## 11월 4주
+🍞 [Git - 헨젤과 그레텔로 알아보는 Commit](https://hyesunzzang.tistory.com/169)
