@@ -74,7 +74,7 @@
 - [ ] CHRISYANG
 - [ ] JEEWHANR
 - [ ] Y0C
-- [ ] DEVSSUN
+- [X] DEVSSUN - [Git - 헨젤과 그레텔로 알아보는 Commit](https://hyesunzzang.tistory.com/169)
 
 ### 3회차 ( ~ 11/24)
 
