@@ -66,7 +66,7 @@
 ### 2019 Season 4
 
 ### 4회차 ( ~ 12/01)
-- [ ] GODORI
+- [X] GODORI - [2019년을 회고하며](https://velog.io/@godori/2019-retrospection)
 - [ ] YESDOING
 - [ ] DALI
 - [ ] DOONDOONY
