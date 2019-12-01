@@ -70,7 +70,7 @@
 - [ ] YESDOING
 - [ ] DALI
 - [ ] DOONDOONY
-- [x] DEVJANG - [독후감 - 하버드 첫 강의 시간관리 수업](book-review-2019-12-01)
+- [x] DEVJANG - [독후감 - 하버드 첫 강의 시간관리 수업](https://velog.io/@devjang/book-review-2019-12-01)
 - [ ] CHRISYANG
 - [ ] JEEWHANR
 - [ ] Y0C
