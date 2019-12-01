@@ -70,7 +70,7 @@
 - [ ] YESDOING
 - [ ] DALI
 - [ ] DOONDOONY
-- [ ] DEVJANG
+- [x] DEVJANG - [책리뷰](https://velog.io/@devjang/2019-12-01-2312-%EC%9E%91%EC%84%B1%EB%90%A8-jnk3n3aqax)
 - [ ] CHRISYANG
 - [ ] JEEWHANR
 - [ ] Y0C
